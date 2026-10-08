@@ -1,0 +1,932 @@
+Level 2 
+Whole Site Design 
+Prepared for: Sarah Graham 
+Site: 370 Ortega Ridge 
+Montecito, CA 93108 
+Site Visit Date(s): 4/18/2022, 6/7/2022 - 6/8/2022 
+Prepared by: 
+7th Generation Design 
+Casey Pfeifer | 805-680-2976 
+Wes Cooke | 805-234-6124 
+www.7thgenerationdesign.com
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Table of Contents 
+Executive Summary 7 Report Organization 9 Base Map - Existing Conditions 10 Design Map - Water, Access and Shelters 11 Design Map - Proposed Re-patterning of Productive Acreage 12 1. Site Characteristics 13 1.1 General Site Information 13 1.2 Topography 14 1.3 Temperature 16 Average and Record High and Low Temperatures 16 Chilling Hours 17 Climate Zones 19 USDA Hardiness Zone 19 Sunset Climate Zone(s) 19 Koppen Geiger Climate Classification 20 1.4 Environmental Sectors (Water, Solar, Wind) 20 Water Data 23 Annual Precipitation Totals 23 Annual Distribution of Precipitation 24 Rainfall Intensity and Recurrence Interval 25 Humidity 25 Fog 26 Aquifer 26 Evapotranspiration 28 Climate Brittleness 28 Solar Data 29 
+7th Generation Design
+1 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Wind Data 31 1.5 Existing Soil and Vegetation Conditions 34 Soil Condition Summary 34 Todos clay loam soils 37 Diablo clay soils 37 Zaca clay soils 37 Soil Infiltration Rate 38 Existing Plant Communities 38 1.6 Existing Zones of Use 43 1.7 Existing Legal and Utilities 44 Zoning 44 Utilities 45 1.8 Land History 45 2. Water 46 The Four R’s of Regenerative Hydrology 48 2.1 Providing Hydration 50 Existing Conditions 50 Recommendations 52 Swales 52 Infiltration Basins 57 “Boomerang” Berms 58 2.2 Moving Things 59 Existing Conditions 61 Recommendations 63 Geologically-Armored Level-Sill Spillways 64 Geologically-Armored Energy Dissipation Pools 65 “Media Luna” Flow Spreaders 67 
+7th Generation Design
+2 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Geologically-Armored Rundowns 68 Rolling Dips 69 Culverts 70 Road Humps/Grade Reversals 71 Biologically-Armored Banks 72 Mulching of Bare Soils in Preparation for Revegetation with Perennial Cover 73 
+2.3 Moderating Climate 73 Existing Conditions 73 Recommendations 73 
+Poolside Hardscape Remodel with Permeable Elements and Living Vegetation 73 2.4 Providing Re-Creation 74 Existing Conditions 74 Recommendations 74 Convert Chlorinated Swimming Pool to Biofiltered Natural Swimming Pool 74 3. Access 79 3.1 Wheeled Access 79 Existing Conditions 80 Recommendations 80 Decommission Unnecessary, Eroding and High-Risk Road Segments 80 Ranch HQ Vehicle Access Pad 82 Hammerhead Turnaround Between Horse Barn And Horse Arena 83 3.2 Foot Access 84 Existing Conditions 84 Recommendations 84 4. Shelter 85 4.1 Sheltering Individuals and Families 85 Existing Conditions 85 
+7th Generation Design
+3 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Recommendations 85 Farm Manager Residence 85 Farm Worker Housing 86 Ranch Office 86 Shade Trees 87 
+4.2 Sheltering Community 89 Existing Conditions 89 Recommendations 90 
+4.3 Sheltering Things 90 Existing Conditions 90 Recommendations 90 
+Packing Shed 90 Equipment Barn 90 4.4 Sheltering Plants and Animals 91 Existing Conditions 91 Recommendations 91 Horse Barn and Stalls 91 Greenhouse with Attached Shadehouse 92 5. Fertility, Food, Forage, Fiber, and Fuel 93 5.1 Fertility 93 Existing Conditions 93 Recommendations 93 Cover Cropping and Perennial Dryland Pasture Establishment 94 Nurse Plantings and Support Trees 94 Livestock 94 Sheep and/or Goats 95 Nutrient Cycling 97 
+7th Generation Design
+4 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Johnson-Su BioReactor 97 Vermicomposting 99 Compost Tea 100 Greywater 102 
+Recommendations for Greywater End-Use 102 5.2 Food Production 103 Existing Conditions 103 Recommendations 104 Orchards 104 Consolidation of Avocado Plantings 105 Support and Alternative Crop Species Integration in Avocado Blocks 107 Re-planting Avocados with Support Species 108 Sub-Canopy and Interstitial Avocado Block Intercrops 109 Replacement of Lemon Blocks with Avocado or Dryland Agroforestry Blocks 111 Multi-Species Food Forest Around the Main Residence for Home Use 112 Agroforestry 112 Silvopasture 114 Keystone Species for Dryland and Mediterranean Silvopasture Guilds 114 Trial Planting Zones 118 Support Species for Dryland and Mediterranean Silvopasture Guilds 119 Wind Breaks 121 Riparian Buffers 121 6. Energy 121 6.1 Moving Heat 122 Existing Conditions 123 Recommendations 123 Water Heating 123 
+7th Generation Design
+5 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Solar Water Heating Using Roof-Mounted Panels 123 6.2 Moving Things 124 Existing Conditions 124 Recommendations 124 6.3 Moving Electricity 124 Existing Conditions 124 Recommendations 124 Install Battery Bank for Load-Shifting and Backup Power 124 7. Economy 126 Wealth and the 8 Forms of Capital 126 Enterprise Planning 127 The Chaordic Stepping Stones 127 Cynefin Management Model 129 Holistic Management 130 Memorandums of Understanding 130 7.1 Enterprise Potentials 130 Existing Conditions 130 Recommendations and Considerations for Further Investigation 130 Appendix A - Water Feature Calculations 132 Appendix B - Recommended Species Information 134 Appendix C - Additional Element Primers 142 Vetiver Grass Primer 142 Live-Staking 143 Fencing 145 Permanent High-Tensile Electric Fencing 146 Portable Electronet Fencing Primer 147 Green Septic Systems 149 
+7th Generation Design
+6 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Executive Summary 
+7th Generation Design was invited by Sarah and Jonathan Graham to develop a whole-site design for the 84 acre property located at 370 Ortega Ridge Road in Montecito, CA. The Graham family has communicated the following major goals: 
+● rehabilitate a degraded plot of land, 
+● develop regenerative land-based systems that are supported by the climate, ● a beautiful setting to relocate to in 5-10 years, and 
+● development of land-based income. 
+The predominant land and climate features at 370 Ortega Ridge Road include: 
+● A secondary ridge, extending from the spine of the primary ridge (which Ortega Ridge Road bordering the property to the NW follows) nearly to the primary valley at its toe along its length in a NW x SE direction and spanning the two secondary valleys that define the ridge across its width (Greenwell Ave, which borders the property, follows the western secondary valley bottom). 
+● Temperatures with typical highs between 60-80℉ and lows that only very rarely drop below freezing, with an average of 300-500 chilling hours (<45℉) per year. 
+● Average rainfall of 17.73 inches per year, with approximately 40.44 million gallons of water landing on the property per average rain year. 
+● High solar exposure, with an average solar insolation level of 6.1 kWh/m2/day (compared to that of Death Valley, CA at 6.4 kWh/m2/day, and Fairbanks, AK at 3.1 kWh/m2/day). ● Monthly average winds range from 5 to 8 mph, blowing predominantly from the southwest during the spring and summer and from the northeast during the fall and winter. ● Clay and clay-loam soils with moderate to high fragility, low to moderate permeability, moderate to rapid runoff potential, and 30-50” effective rooting depth. 
+The property has fairly fertile soils, a warm climate, good sun exposure, and generally low to moderate slopes. While the property at 370 Ortega Ridge Road has immense potential for the Graham family’s goals to be realized, there are some issues that will pose significant ongoing challenges to meeting these goals unless they are rectified. These issues include: 
+● Relatively high water requirements of existing food production systems. The water requirements for the existing food production systems are in the tens of million of gallons annually, which is sourced from Montecito Water District and currently billed in the agricultural tier at $0.00760/gal, with costs rising to rising to $.00778/gal beginning on July 1, 2022. The future reliability and costs of Montecito Water District’s supply are unknown, and the site currently lacks private access to water in the form of a spring or well. 
+● Severe and active erosion. Of the 40 million gallons of water that lands on and runs onto the property during an average rain year, an estimated 8-20 million gallons (20-50%) is currently lost as runoff. Access patterning that has changed the land topology such that the 
+7th Generation Design
+7 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+run-off from large areas is concentrated by the orchard access roads and funneled to specific locations. This concentration and funneling increases the water energy and thus its erosive power. Beyond the erosion, if the amount of water that is currently leaving the property was to be purchased from the Montecito Water District, it would equate to $60,000 - $150,000 worth of water annually. 
+● Lack of perennial vegetative cover within the orchard plantings, which poses several issues: 
+o Lack of vegetative cover is significantly contributing to the erosion issues noted above, which guarantees decreasing soil fertility with each passing year. 
+o Soil compaction due to loss of soil structure, and thus decreasing water infiltration and water storage capacity. The pore spaces that are created in a healthy, living soil from plant roots, the exudates they produce, and the soil biology they help to protect and sustain are diminished or gone entirely in some places. 
+o Increasing water requirements due to high soil temperatures and high evaporation rates. Living root mass is the most effective means of infiltrating water into the soil where it can be productively used by plant roots and soil biota. Vegetative cover is the most effective means to cool soil temperatures and lower evaporative losses. 
+● Large monocrop production lacking the other layers that would be found in a healthy, balanced ecosystem. The monocropped nature of these systems results in increased susceptibility to disease and other increasingly extreme environmental conditions. Fluctuations in market demand year-to-year create unpredictable income from the main crop yields. Inputs costs are high and steadily rising year-over-year due to the dependency of the system on external inputs (water, fertilizer, herbicides, insecticides). 
+● Salt build-up in the soils. Numerous large salt crusts are evident at seep sites and within irrigation footprints for individual trees. This salt build up is part of what is collapsing the soil structure, decreasing its water holding capacity, and decreasing its ability to support a healthy array of soil life. The lack of water retention during rains limits the flushing of the salts that would otherwise occur. Salting is a common and imminently pressing issue with crop irrigation as it is currently practiced, especially with high-mineral content water in high-evaporation climates. The addition of petroleum-based fertilizers (stabilized with salts) also adds to the salt build up. 
+The whole-site design presented in this report includes the following key elements, which together will mitigate the existing issues on the property and bring it to a state of greater health, yields, and beauty and dramatically decrease the maintenance requirements in the long term: 
+● A site-wide passive water harvesting and drainage system that will intercept an average of 5.1 - 10.3 million gallons of water every year that is eroding the valleys and being lost from the property as runoff, spread it out to the drier ridges, and infiltrate it into the soil for the benefit of downslope plantings and groundwater levels. This system, which will significantly reduce the costly supplemental irrigation requirements on the property in the long term, has the following features: 
+7th Generation Design
+8 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+○ 36 passive water-harvesting swales with a combined length of 1.75 miles and a combined bank-full volume of 159,000 gallons (Section 2.1). 
+○ 7 passive water-harvesting infiltration basins with a combined surface area of 3,174 square feet and a combined bank-full volume of 36,000 gallons (Section 2.1). ○ 24 road-draining “rolling dips”, 29 geologically-armored spillways and drains, 17 biologically-armored spillways and drains, 13 geologically-armored energy dissipating pools, and 8 geologically-armored flow-spreading structures for non-erosively draining overflow water into, between, and from water harvesting features (Section 2.2). 
+● Shelter elements that include farm manager and worker residences (Section 4.1), a ranch headquarters with an office, equipment barn, packing shed, greenhouse and shadehouse (Sections 4.2, 4.3, and 4.4), and a horse barn (Section 4.4), with proposed drainage elements from the roofs and hardscapes into the elements of the recommended passive water harvesting and drainage system. 
+● Soil fertility-boosting recommendations that include cover-cropping in the understory of the orchards, livestock integration, and farm-scale nutrient cycling systems like flow-through vermicomposters (Section 5.1). Proper installation and management of these elements will also contribute to greater water holding capacity in the soils. 
+● Food production system recommendations that include the consolidation of avocado plantings and addition of understory support species, replacement of the lemon orchards with dryland silvopastures, a food forest around the Main Residence, wind breaks, and riparian buffers, all of which will further increase the water retention and holding capacity on the property and reduce the input and maintenance costs. (Section 5.2). 
+● Battery banks for load-shifting and backup (Section 6.3). 
+● Potential enterprises utilizing products of the above-listed design elements (Section 7.1). 
+Report Organization 
+This report is largely organized according to the Keyline Scale of Permanence, presented in order from things human beings are least able to change down to those things that we have greater agency with. 
+Land Shape & Climate > Water> Access > Shelter > Fertility, Food, Forage, Fiber, and Fuel > Energy > Economy 
+Each of the main chapters of the report begins with a contextual summary and general overview of the topic at hand (i.e. Water) and the general principles employed in its design and implementation when creating resilient and regenerative systems (i.e. Principles of Regenerative Hydrology, Hydrological Cycle Overview etc). Each chapter is then broken out into sections which are defined by function (i.e. Providing Hydration, Moving Things, Moderating Climate, Providing Re-Creation in the case of Water). Each of these chapter sections then details existing site conditions and lists specific element recommendations (i.e. swales, infiltration basins etc) designed to serve that primary function, with links to other report sections detailing additional functions (i.e. tree establishment) performed by that element. 
+7th Generation Design
+9 
+Boundaries 
+Animal Fencing - existing 
+Gates (vehicle) - existing 
+Access Roads 
+Road Base - existing 
+Native Soil - existing 
+Recreational Water Bodies 
+Swimming Pools - existing 
+Water Drainage 
+Culverts - existing 
+Site Workup 
+Parcel/Area of Interest Boundaries
+Shelter Elements 
+Shelter Lines 
+Parcel Boundary 
+Shelter Areas 
+Residence 
+Garage 
+Shade Cloth Equipment Barn 
+Open-Air Roof 
+Barn 
+1% Drain 
+Media Luna 
+Belt Diversion 
+Water Areas 
+Biologically-Armored Bank Level-Sill Spillway 
+Terrace 
+Infiltration Basin 
+Swimming Pool 
+Geologically-Armored Rundown 
+Greenhouse 
+Access Elements Access Lines 
+Ranch HQ Office 
+Water Elements 
+Water Lines 
+Road – DG Road – Native Soil 
+Culvert 
+Armored Drain 
+Access Areas 
+Parking Area – DG 
+Design Map - Water, Access & Structures 
+370 Ortega Ridge Rd 
+Santa Barbara,CA 93108 
+Date: 12/2/2022
+Unarmored Drain Rolling Dip Swale Ditch 
+Drain Pipe 
+Parking Area – Native Soil Parking Area – Road Base Horse Arena 
+Shelter Elements Shelter Lines 
+Road – Native Soil Access Areas 
+Parcel Boundary 
+Shelter Areas 
+Residence 
+Garage 
+Parking Area – DG Parking Area – Native Soil Parking Area – Road Base Horse Arena 
+Shade Cloth 
+Proposed Productive Acreage Repatterning 
+Design Map - Proposed Re-patterning of Productive Acreage 
+370 Ortega Ridge Rd 
+Santa Barbara,CA 93108 
+Date: 12/2/2022
+Equipment Barn Open-Air Roof Barn Greenhouse 
+Ranch HQ Office 
+Access Elements 
+Access Lines 
+Road – DG 
+Avocado Consolidation 
+Mediterranean/Dryland Agroforestry Subtropical 
+Riparian 
+Native Reforestation 
+Food Forest / Orchard 
+Trial Planting Zone 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+1. Site Characteristics 
+1.1 General Site Information 
+Client(s): Sarah and Jonathan Graham 
+Address: 370 Ortega Ridge Road, Montecito, CA 93108 
+Parcel Number: 005-080-017 
+Area: 84 acres 
+Latitude: 34° 25' 51.3834" 
+Longitude: -119° 35' 50.1714" 
+Altitude: ~200’-450’ above sea level 
+Proximity to Ocean: 0.75 miles 
+Figure 1.1.1 
+Satellite image of 370 Ortega Ridge Road 
+7th Generation Design
+13 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 1.1.2 
+Parcel map of 370 Ortega Ridge Road 005-080-0171 
+1.2 Topography 
+Topography describes the variation in elevation across a landscape. Topographic maps use contour lines to show the shape of the earth's surface in addition to the geographic features included on typical maps, including roads, railroads, rivers, streams, lakes, buildings, built-up areas, boundaries, place or feature names, mountains, elevations, survey control points, vegetation types, and much more. 
+A contour line joins points of equal height. Contours make it possible to show the height and shape of mountains, depths of the ocean bottom, and steepness of slopes. Basically, contours are imaginary lines that join points of equal elevation on the surface of the land above or below a reference surface, usually mean sea level. 
+1 https://sbcassessor.com/assessor/maps_pdfs/00508.pdf 
+7th Generation Design
+14 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 1.2.1 presents the topographical map for 370 Ortega Ridge Road and the surrounding areas in the Greenwell Creek Watershed. 
+Figure 1.2.1 
+High-level topographical map of 370 Ortega Ridge Road and surrounding properties. 
+370 Ortega Ridge Road is located on a secondary ridge, extending from the spine of the primary ridge (which Ortega Ridge Road bordering the property to the NW follows) nearly to the primary valley at its toe (which Asegra Rd follows) along its length in a NW x SE direction and spanning the two secondary valleys that define the ridge across its width (Greenwell Ave, which borders the property, follows the western secondary valley bottom). Figure 1-7 below shows the topography of 370 Ortega Ridge Road illustrated with 25ft contours. 
+7th Generation Design
+15 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 1.2.2 
+Topography of 370 Ortega Ridge Road illustrated with 25ft contour lines 
+1.3 Temperature 
+Average and Record High and Low Temperatures 
+The closest weather station to 370 Ortega Ridge Road with real-time weather data is KCASANTA125 2 
+, located approximately 0.9 miles away. 
+3 
+The closest weather station with historical data is at the WRCC Station 047902 , located 6.2 miles away from 370 Ortega Ridge Road. Annual temperature data for a typical meteorological year at the WRCC Station 047902 Santa Barbara is shown in Figure 1.3.1. The coldest months of the year are December through February; the warmest months are July through September. The extreme high 
+2 https://www.wunderground.com/dashboard/pws/KCASANTA125 
+3 https://wrcc.dri.edu/cgi-bin/cliMAIN.pl?ca7902 
+7th Generation Design
+16 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+temperature on record is 115℉, recorded on June 17th, 1917 ; the extreme low temperature on record is 20℉, recorded on January 4th, 1949. 
+Figure 1.3.1 
+Average monthly temperature data for WRCC Station 047902 Santa Barbara 
+Chilling Hours 
+Deciduous fruit trees, which lose their leaves in the fall and are dormant throughout the winter, need to accumulate a minimum number of hours below 45℉ during their dormancy in order to set fruit the following year. Knowing the approximate amount of chilling hours an area experiences throughout the cold season enables better selection of fruit trees that are likely to do well in that area. 
+In what is called the Below 45℉ Model, chilling hours are the total number of hours below 45℉ accumulated each year while the tree is dormant. The Santa Barbara Airport weather station, located approximately 13 miles away from 370 Ortega Ridge, has seen an average of 464 hours below 45℉ over the past 5 years. Figure 1.3.2 below presents the cumulative chill hours for each of the past 5 years of dormant seasons at the Santa Barbara Airport weather station (KSBA), useful in comparing the range of chilling hours and trend in recent years. 
+7th Generation Design
+17 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 1.3.2 
+Five-year cumulative chilling hour data for the Santa Barbara Airport weather station, located approximately 13 miles away from 370 Ortega Ridge. 
+While the Santa Barbara Airport is located in a similar area geographically and topographically as the property at 370 Ortega Ridge, the chill hours may nonetheless vary. Chilling hours can vary significantly even across the same piece of land; low spots, frost pockets, slopes and wind tunnels or wind buffered areas will all experience different chill hours. The best way to know for a specific site, especially before undertaking any capital-intensive agroforestry project, is to install temperature data loggers on-site and record hourly data during a winter season. However, on cold days and nights valuable information can be gained simply by walking up and down slopes with some bare skin exposed so that you can sense where a thermocline - a thin but distinct layer in the atmosphere in which temperature changes more rapidly with depth than it does in the layers above or below - might persist. Often, the difference in 10 feet of vertical elevation will make the difference between a citrus tree thriving or dying. Knowing these invisible lines in the landscape will inform better decisions about which types of plants will do best where. 
+When it comes to fruit tree selection, making selections for staple tree crops with a chilling hours buffer is suggested. For this site, trees that require 300 chilling hours or less are recommended. While it can be fun to push the boundaries for select plantings, for your staple tree crops, staying within this range will create the greatest chance for successful harvests year after year. 
+7th Generation Design
+18 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Climate Zones 
+USDA Hardiness Zone 
+USDA Hardiness Zones give an approximation of the lowest temperatures a site will experience in a given year. It is a helpful, if somewhat limited tool in determining what will survive (but not necessarily thrive) in an area. Hardiness zones can be determined for a given zip code at https://planthardiness.ars.usda.gov/. Microclimates and site specific characteristics will vary. 
+The USDA Hardiness Zone for 370 Ortega Ridge Road is 10a. This zone is characterized by cold-season low temperatures that do not generally fall lower than 30-35ºF, typically occurring between November and February. 
+Sunset Climate Zone(s) 
+Sunset climate zones take into account length of growing season, timing and amount of rainfall, winter lows, summer highs, wind and humidity. They provide a more detailed climate description than the USDA model, helpful in selecting which plants will not only survive but thrive with local climate variability. List of maps and climate zone descriptions .4 
+The Sunset Climate Zone(s) for 370 Ortega Ridge Road are likely a combination of Zones 23 (likely in the upper portion of the property) and 24 (potentially at the bottom of the property). They are described on the Sunset Western Garden Collection website as: 
+ZONE 23: Thermal belts of Southern California 
+One of the most favored areas in North America for growing subtropical plants, Zone 23 has always been Southern California’s best zone for avocados. Frosts don’t amount to much here, because 85 percent of the time, Pacific Ocean weather dominates; interior air rules only 15 percent of the time. A notorious portion of this 15 percent consists of those days when hot, dry Santa Ana winds blow. Zone 23 lacks either the summer heat or the winter cold necessary to grow pears, most apples, and most peaches. But it enjoys considerably more heat than Zone 24—enough to put the sweetness in ‘Valencia’ oranges, for example—but not enough for ‘Washington’ navel oranges, which are grown farther inland. Temperatures are mild here, but severe winters descend at times. Average lows range from 43 to 48°F (6 to 9°C), while extreme lows average from 34 to 27°F (1 to –3°C). 
+ZONE 24: Marine influence along the Southern California coast 
+Stretched along Southern California’s beaches, this climate zone is almost completely dominated by the ocean. Where the beach runs along high cliffs or palisades, Zone 24 extends only to that barrier. But where hills are low or nonexistent, it runs inland several miles. 
+4 http://sunsetwesterngardencollection.com/climate-zones 
+7th Generation Design
+19 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+This zone has a mild marine climate (milder than Northern California’s maritime Zone 17) because south of Point Conception, the Pacific is comparatively warm. The winters are mild, the summers cool, and the air is seldom really dry. On many days in spring and early summer, the sun doesn’t break through the high overcast until afternoon. 
+Zone 24 is coldest at the mouths of canyons that channel cold air down from the mountains on clear winter nights. Partly because of the unusually low temperatures created by this canyon action, there is a broad range of winter lows in Zone 24. Winter lows average from 42°F (5°C) in Santa Barbara to 48°F (9°C) in San Diego. Extreme cold averages from 35° to 28°F (2 to –2°C), with all-time lows in the coldest stations at about 20°F (–6°C). 
+The all-time high temperatures aren’t greatly significant in terms of plant growth. The average all-time high of weather stations in Zone 24 is 105°F (41°C). Record heat usually comes in early October, carried to the coast by Santa Ana winds. The wind’s power and dryness usually causes more problems than the heat itself—but you can ameliorate scorching with frequent sprinkling. 
+Koppen Geiger Climate Classification 
+The Koppen Geiger Climate Classification System is a widely used climate classification system, useful in tracking large scale climate changes over time. Helpful visualizations are available as .kmz 5 
+files in Google Earth . Knowing your KGCC rating can be especially helpful in quickly finding climate analogues around the world as a starting place for researching biological systems, management practices and species that will have a high likelihood of success at your location. The Koppen Geiger Climate Classification System map, viewable by county, is available at http://koeppen-geiger.vu-wien.ac.at/. 
+The Koppen Geiger Climate Classification for Montecito is Csb. 
+Csb: The C stands for warm temperate, the lower case s for precipitation mode of ‘summer dry’ and the lower case b for a temperature rating of ‘warm summer’. This is generally considered a Mediterranean climate. Expanded definitions for each letter within the code are available here6 .Precipitation and Groundwater Data 
+1.4 Environmental Sectors (Water, Solar, Wind) 
+A sector analysis examines the natural environmental factors that affect a site. These are outside influences (energies) that can’t be directly stopped or controlled that affect the design area. Sectors are more powerful than we are, and are a critical factor influencing which elements are selected, where they are located, and how and when they will be interacted with. 
+There are three principal ways to deal with different sector energies: 
+5 http://koeppen-geiger.vu-wien.ac.at/present.htm#GoogleEarth 
+6 https://www.britannica.com/science/Koppen-climate-classification 
+7th Generation Design
+20 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+● Block or deflect them (i.e. constructing a heavy earthen wall along a streetside property line to buffer traffic sounds and deter opportunistic theft, planting windbreaks to create still air pockets and deposition zones, planting sappy, deciduous trees and plants along likely wildfire approach corridors as a firebreak). 
+● Harvest and use them (solar panels on an exposed roof to harvest abundant solar energy, rainwater harvesting in swales and tanks, micro-wind turbines in wind corridors, thermal mass warmed by sunlight inside structures). 
+● Let them pass unaltered (smell of baked goods from the next door bakery, flocks of birds alighting on roof edges or power poles, maintenance of existing wildlife corridors). 
+The sector analysis for 370 Ortega Ridge is presented in map form on the following page; detailed descriptions of each sector follow. 
+7th Generation Design
+21 
+Boundaries 
+Animal Fencing - existing 
+Gates (vehicle) - existing 
+Access Roads 
+Road Base - existing 
+Native Soil - existing 
+Recreational Water Bodies 
+Swimming Pools - existing 
+Water Drainage 
+Culverts - existing 
+Site Workup 
+Parcel/Area of Interest Boundaries 
+Sectors 
+Wind (Autumn/Winter) 
+Wind (Spring/Summer) 
+Storm Wind 
+Overland Water Flow 
+Sectors 
+Summer Sun 
+Winter Sun 
+Fire Risk 
+Privacy 
+Good View 
+Sound
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Water Data 
+Annual Precipitation Totals 
+The annual average amount of rainfall recorded at WRCC Station 047902 Santa Barbara, located 6.2 miles away from 370 Ortega Ridge, is 17.73 inches. The record high annual total during that period was 41.48 inches in 1941; the record low total was 3.99 inches in 1947. 
+Figure 1.4.1 
+Average monthly rainfall for Montecito. 
+During an average rain year of 17.73 inches, the total volume of rainfall that lands within 370 Ortega Ridge Road lines is 40.4 million gallons. 
+Approximately 65% of precipitation (~26 million gallons during an average rain year) falls on the 55-acre southwest-facing side of the ridge that the property sits on, with any water that doesn’t infiltrate the soils of the property during rain events (runoff) descending to bordering Greenwell Ave and ultimately to the ocean. The runoff from this portion of the property is estimated to be between 5 and 13 million gallons of water per average rain year. 
+Approximately 30% of the precipitation (14 million gallons during an average rain year) falls on the northeast-facing side of the ridge that the property sits on, with any water that doesn’t infiltrate the soils of the property during rain events (runoff) descending into a drainage just outside property lines and ultimately to the ocean. This runoff from this portion of the property is estimated to be between 3 and 7 million gallons per year. 
+7th Generation Design
+23 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Detailed calculations on total on-property catchment and estimated runoff are available in the Water Catchment Calculator spreadsheet. 
+A watershed, also known as a drainage basin or catchment, is an area bounded by hills and ridges where any rainfall and runoff leads to a single outlet. Watersheds can be as small as a footprint or large enough to encompass all of the land that drains water into rivers that drain into the ocean. It all depends on the outflow point; all of the land that drains water to the outflow point is the watershed for that outflow location. 
+370 Ortega Ridge lies entirely within the Santa Barbara Coastal Watershed, which spans from the main traverse (east-to-west) ridge of the southernmost portion of the Santa Ynez mountains to the Santa Barbara coastline. This watershed is shown in Figure 1.4.2, with the location of 370 Ortega Ridge identified as the red point. 
+Figure 1.4.2 
+The Santa Barbara Coastal watershed, with the location of 370 Ortega Ridge identified as the red point. 
+Annual Distribution of Precipitation 
+There are an average of 36 rainy days (>.1 inch) per year. Typically 80 - 90% of total annual rainfall falls between November and April, making this a brittle climate (see “Climate Brittleness”, below). 
+7th Generation Design
+24 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Rainfall Intensity and Recurrence Interval 
+Table 1.4.1 below lists rainfall intensity and the recurrence interval for the Montecito area. Water harvesting earthworks design is typically informed by the 500 or 1,000-year recurrence interval event - a rainfall event of certain intensity and magnitude that has a 0.2 - .1% probability of occurring during any given year. In this case, the table below shows the 1,000-year recurrence interval event to be 8.0 inches of rain in a 12-hour period, and 10.6 inches of rain in a 24-hour period. We use this information to size spillways, drains, catchment basins and overflows to ensure that the system can endure such an event, and any of lesser intensity and magnitude, without damage. 
+Table 1.4.1 
+Rainfall intensity and recurrence interval for 370 Ortega Ridge Road 
+*PDS: precipitation data server; PF: precipitation frequency 
+Humidity 
+The closest weather station with humidity data is WRCC Station 047902 Santa Barbara (6.2 miles). The humidity does not vary much in that location throughout the year; it is highest in the winter, spring, and early summer, with monthly averages ranging from 58-64%, and lowest in the late summer and fall, with monthly averages at 56%. 
+The average monthly relative humidity over the course of a typical meteorological year at WRCC Station 047902 Santa Barbara (6.2 miles away) is shown in Figure 1.4.3. 
+7th Generation Design
+25 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 1.4.3 
+Average monthly relative humidity for a typical meteorological year at WRCC Station 047902 Santa Barbara (6.2 miles away from 370 Ortega Ridge). 
+Fog 
+Coastal fog banks in the Santa Barbara channel exert a cooling and humidifying effect on the area when present. These fog banks are more frequent during spring and summer, and contribute to the higher humidity levels during that period. 
+Aquifer 
+370 Ortega Ridge Road sits atop the Montecito Groundwater Basin, which has a surface area of 6,270 acres. According to the California Department of Water Resources, “this basin is bounded on the north by the Santa Ynez Mountains and the Arroyo Parida fault, on the east by consolidated rocks, on the southeast by the Fernald fault, and on the northeast by a surface drainage divide that separates the Montecito and Carpinteria Groundwater Basins (DWR 1999). The offshore Rincon Creek fault and the Pacific Ocean bound the basin on the south. An administrative boundary on the west separates the Montecito Groundwater Basin from the Santa Barbara Groundwater Basin.” 
+7 
+According to a 2020 Groundwater Data Report prepared by the County of Santa Barbara, approximately 9,667 residents utilize the groundwater basin for domestic water, and its water is used to irrigate approximately 706 acres of agricultural land. Current draw is estimated at 45% of its supply. 
+7 
+https://www.countyofsb.org/uploadedFiles/pwd/Content/Water/WaterAgency/GW%20Data%20Report%2 02020.pdf 
+7th Generation Design
+26 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+According to the 2020 Groundwater Data Report, the basin’s water levels have been observed to drop during extended years of drought (1945-1951, 1984-1990, and 2012-2018), and have not rebounded to pre-drought levels. General trends indicate increased storage following above average precipitation in 2017 and following above average precipitation in 2019. 
+8 
+The following information is from California’s Groundwater Bulletin 118 , written in 2003: Groundwater Storage: The storage capacity above sea level is estimated at 14,490 acre-feet 
+9 
+(af, Montecito Water 1998). The total storage capacity of the basin has been estimated at 
+281,000 af (Muir 1968; DWR 1975). The amount of groundwater in storage is estimated at 14,400 af (SBCWA 2001). 
+Groundwater Budget: Montecito Water District pumps about 700 af/yr of groundwater (Montecito Water 2001). However, the amount pumped by private well owners is unknown. Annual natural recharge is approximately 1,614 af/yr (Montecito Water 1998). The average annual stream seepage rate is estimated at 764 af/yr, and the average annual infiltration of rainfall is estimated at 500 af/yr (Montecito Water 1998). The long-term average subsurface inflow is approximately 250 af/yr. The long-term average deep percolation of irrigation water is estimated at 100 af/yr (Montecito Water 1998). 
+Characterization: The groundwater in the Montecito Basin is of two chemical types. South of the Arroyo Parida fault, groundwater has calcium bicarbonate character, however, north of the fault it has sodium sulfate character. TDS concentration ranges from 600 to 1,100 mg/L (Montecito Water 1998). Analyses of data from four public supply wells show an average TDS of 698 mg/L in the basin with a range from 526 to 778 mg/L. 
+Impairments: Iron and manganese concentrations in wells exceed Federal standards (Montecito Water 1998). During 1990, some wells yielded groundwater samples containing high chloride concentrations that exceeded State limits. However, no wells are confirmed to be affected by seawater intrusion (Montecito Water 1998). 
+The Sustainable Groundwater Management Act (SGMA) was passed in 2014 to create a framework for groundwater sustainability throughout California. Groundwater basins that are designated as high or medium priority by the DWR must form a Groundwater Sustainability Agency (GSA). Each GSA is responsible for the development, implementation, and oversight of a Groundwater Sustainability Plan (GSP). GSPs must achieve groundwater sustainability within 20 years of GSP adoption. GSP objectives require that future groundwater use does not cause undesirable results, which include the following: declining water levels, reduction of groundwater storage, seawater intrusion, degraded water quality, land subsidence, and depletion of interconnected surface water. 
+8 
+https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118 /Files/2003-Basin-Descriptions/3_049_Montecito.pdf 
+9 1af = 325,851 gallons 
+7th Generation Design
+27 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+The GSP for the Montecito Groundwater Basin is due in 2024, and will be made publicly available at the Montecito Groundwater Sustainability Agency’s website .10 
+11 
+The closest monitored well with publicly available data is EVR 3 , located in the Birnam Wood Golf Club approximately 0.4 miles away at an elevation of 185 feet. The water surface at the well has varied between 165ft and 179ft over the past 3 years of data recording, as illustrated below. 
+Figure 1.4.4 
+Measured water surface depth for well EVR 3, located in the Birnam Wood Golf Club approximately 0.4 miles away from 370 Ortega Ridge Road at an elevation of 185 feet. 
+Evapotranspiration 
+Evapotranspiration (ETₒ - the amount of water released to the atmosphere through plant and soil respiration from mowed, perennial grass cover) was approximately 49.61 inches from 12 
+12/2020-11/2021, as measured from CIMIS Station 107. 
+Climate Brittleness 
+Brittleness gauges climate vulnerability to desertification. The brittleness scale is subjective and has no formula for calculation, but can be thought of as a continuum, ranging from a 1 - very humid with moisture distributed throughout the year (tropical rainforest) to a 10 - very arid with long dry periods(desert). We use brittleness to inform management decisions for a given property or bioregion. 
+Where any given climate falls on the brittleness scale is determined not so much by total rainfall, but rather by the distribution of precipitation and humidity throughout the year. This pattern determines the degree of brittleness. Very brittle environments typically have a long period of non-growth (often due to long periods without precipitation and low humidity) and can be very arid. Brittle environments also tend to accumulate more dead plant material as biological breakdown of carbon-based plant tissues by insects, microbes and fungi all but cease during the long dry season. This can have a negative effect on the health and resilience of the vegetation due to 
+10 https://montecitogsa.com/ 
+11 
+https://wdl.water.ca.gov/WaterDataLibrary/GroundwaterBrowseData.aspx?LocalWellNumber=&SelectedCou nties=&StationId=51950&StateWellNumber=&SelectedGWBasins=&SiteCode=344312N1196068W002 12 California Irrigation Management Information System: https://cimis.water.ca.gov/WSNReportCriteria.aspx 
+7th Generation Design
+28 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+increased risk of catastrophic fire (due to built up fuel levels) and decreased light penetration to young growing tips (blocked by dead, standing vegetation). 
+Figure 1.4.5 
+Climate Brittleness Scale 
+The climate at 370 Ortega Ridge Road tends towards being brittle. Long summer dry seasons and fairly short winter wet seasons predominate. There is a significant maritime influence on the property, which brings with it exposure to a fog cycle and some intermittent moisture through dew set. 
+Increasing the amount of perennial vegetation on property will have the greatest effect in moderating climate extremes and creating soil that can retain more moisture for longer. Use of ruminant grazing animals should be carefully planned and attentively managed to ensure they are benefiting the larger processes of soil creation and establishment of perennial cover across the property. 
+Solar Data 
+Solar aspect describes the way that the sun moves across the sky at your location during the various seasons. Having an understanding of the sun’s seasonal path is critical for properly siting various elements in the property design, designing housing and other structures for passive heating/cooling, and situating solar panels. 
+7th Generation Design
+29 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 1.4.6 
+Sun Path Diagram for 370 Ortega Ridge Road 
+Table 1.4.2 
+Solar aspect information for each season at 370 Ortega Ridge Road. 
+* Sun angle from horizontal plane at culmination (highest in sky) 
+** Shadow length expressed as multiple of object height, taken at culmination 
+*** Exact locations of sunrise/sunset on the horizon from suncalc.org - visit mooncalc.org to get similar data for lunar cycles. 
+There are approximately 307 days of sun per year in Santa Barbara. 
+The longest day length is 14h28m on the Summer Solstice, and the shortest day length is 9h52m on the Winter Solstice. 
+The average annual solar insolation (used to measure energy production of solar PV systems, in kWh/m2/day) at 370 Ortega Ridge Road is 6.1 kWh/m2/day, compared to that of Death Valley, CA at 
+7th Generation Design
+30 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+6.4 kWh/m2/day, and Fairbanks, AK at 3.1 kWh/m2/day- considered to be among the sunniest and least sunny places in the US, respectively. The monthly average solar insolation at 370 Ortega Ridge Road is presented in Figure 1.4.7, and also compared with Death Valley, CA and Fairbanks, AK. It is clear from the data that 370 Ortega Ridge Road is ideally located for solar PV electricity generation. 
+Figure 1.4.7 
+Solar insolation for a typical meteorological year at 370 Ortega Ridge Road, as compared to that of Death Valley, CA and Fairbanks, AK (data compiled from NREL’s PVwatts Calculator )13 
+Wind Data 
+The closest weather station with recorded wind speed data is located at WRCC Station 047902 Santa Barbara (6.2 miles). There, the annual average wind speed is 6.7 mph. The monthly average wind speed over the course of a typical meteorological year is shown in Figure 1.4.8. Average wind speeds are highest during the late spring and summer months, the highest being 10.1 mph during the month of June. The lowest monthly average wind speed of 4.4 mph occurs during December. 
+13 https://pvwatts.nrel.gov/ 
+7th Generation Design
+31 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 1.4.8 
+Daily average wind speed recorded at a station located 1.8 miles away from 370 Ortega Ridge near San Ysidro Canyon in Montecito. 
+A wind rose showing the speed, direction, and distribution of hourly wind data for 2020 recorded at a station located 1.8 miles away from 370 Ortega Ridge near San Ysidro Canyon in Montecito is shown in Figure 1.4.9. The prevailing wind directions are from the northeast and southwest. 
+7th Generation Design
+32 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 1.4.9 
+14 
+Windrose for a station located 1.8 miles away from 370 Ortega Ridge near San Ysidro Canyon in Montecito. The prevailing wind blows onshore from the southwest, over the ocean and towards the Santa Lucia range. These prevailing winds are most present during the spring and summer months. Fall days see frequent warmer offshore wind events from the northeast. Winter sees a mix of onshore and offshore winds during clear days and winds from south to north during the passage of storms. 
+As with the other climatic sectors, wind speeds and directions can vary significantly over a small area, even on the same property. The information above is a good approximation of the wind conditions at 370 Ortega Ridge Road to use as a starting point for plantings, windbreak siting, etc; however, on-site observation- simply walking around throughout the year, noting wind direction and relative strength at different locations - will provide more refined information. If capital-intensive projects that are heavily influenced by the wind sector are ever considered (such as wind turbines), a detailed study should certainly be performed on-site. 
+14 https://wrcc.dri.edu/cgi-bin/rawMAIN.pl?caCMN2 
+7th Generation Design
+33 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+1.5 Existing Soil and Vegetation Conditions 
+Soil Condition Summary 
+Fertile soil is the foundation for a healthy landscape. Soil data provides information for the landowner on what actions will be required to facilitate healthy development of the landscape. This information can be used to determine the best methods to organically build soil to optimal levels. 
+The soil texture classification triangle is shown in Figure 1.5.1, depicting the different proportions that occur between the three main particles that comprise soil: sand, silt, and clay. The percentages of each of these result in soil classifications such as “loam”, “sandy loam”, etc. 
+Figure 1.5.1 
+Soil texture classification triangle. 
+The Natural Resources Conservation Service (NRCS) map for 370 Ortega Ridge Road is provided in Figure 1.5.2. Detailed descriptions of the soil classifications shown on the map follow. 
+7th Generation Design
+34 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 1.5.2 
+NRCS Web Soil Survey Data for 370 Ortega Ridge Road and surrounding areas. 
+7th Generation Design
+35 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Table 1.5.1 
+Summary of soil types for 370 Ortega Ridge 
+All NRCS soil layer data indicates that the predominant soil types present on-property contain significant amounts of clay and are prone to expansion and shrinkage with annual precipitation and soil hydration cycles, are either fragile or moderately fragile, meaning they are quite susceptible to erosion and loss of pore space via compaction, and have low to moderate permeability. 
+7th Generation Design
+36 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+A majority of the acreage in orchard production at 370 Ortega Ridge Road is actively eroding, some areas more severely and acutely than others. The erosion conditions are discussed further in section 2.2 - Moving Things. 
+A written summary information on each soil type is provided below, and further detailed information can be found in the NRCS Santa Barbara County Soils Report .15 
+Todos clay loam soils 
+Approximately one-third of the property (the upper portion of the ridge) is dominated by Todos clay loam (TbE2), formed in weathered sandstone and shale bedrock. In a representative profile the surface layer is dark reddish brown clay loam about 18 inches thick. The subsoil is dusky red and dark reddish brown about 26 inches thick. The substratum is reddish brown highly fractured soft shale. These soils are typically neutral or slightly acidic. Runoff is medium, permeability is slow, and the hazard of erosion is moderate. Gullies and rills are common in most areas as a result of cultivation. Available water capacity is 6 to 10 inches. Effective rooting depth is 40 to 60 inches. 
+Todos clay-loam soils are well-suited for the cultivation of fruit and nut trees, perennial grasses for grazing livestock, or most ideally, agroforestry systems that combine both. 
+Diablo clay soils 
+A little over a half of the property (the lower portion of the ridge) is dominated by Diablo clay, formed in soft shale and mudstone. In a representative profile, the surface layer is very dark gray clay about 37 inches thick. The next layer is mixed very dark gray and light yellowish-brown clay about 13 inches thick. The substratum is light yellowish brown mudstone to a depth of 60 inches and more. These soils are typically neutral in the upper part of the surface layer and moderately alkaline below. Permeability is slow. High shrinking and swelling is probably during dehydration/rehydration cycles. Satellite imagery indicates areas with these soil types on property that have already seen substantial erosion issues, specifically in tertiary valleys on the steeper sides of the main ridge where runoff from the orchard and access roads becomes channelized as it makes its way down to the secondary valleys bordering the property. 
+Diablo clay soils are well-suited for the cultivation of fruit and nut trees, perennial grasses for grazing livestock, or most ideally, agroforestry systems that combine both. 
+Zaca clay soils 
+Approximately one-tenth of the property (the western-most portions above Greenwell Road) consists of Zaca clay soils, formed in material weathered from calcareous shale and mudstone. In a representative profile, the surface layer is dark gray and very dark gray clay about 39 inches thick. The next layer is gray clay about 9 inches thick. The substratum is soft marly mudstone. The soils are moderately alkaline and calcareous (containing significant levels of calcium carbonate) 
+15 https://www.nrcs.usda.gov/Internet/FSE_MANUSCRIPTS/california/CA673/0/ca_SB_Coastal.pdf 
+7th Generation Design
+37 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+throughout. Runoff is medium and permeability is slow. These soils are prone to erosion when vegetative coverage is removed and surface flow is channelized. 
+Soil Infiltration Rate 
+An infiltration tests was performed on the spine of the main ridge to get an estimate of the soils infiltration rate at that location. The number of seconds were measured for 1 quart of water to infiltrate into a 80.5 sq in area of soil, and that infiltration rate was extrapolated over the larger area this test site represented. The data gathered from this test is summarized in Table 1.5.3. Additional infiltration tests would need to be performed as part of any extensive earthworks planning. It should be noted that while the measured infiltration rate was very high, the water storage profile of the soils on site are relatively low, and lower still due to their degraded state. Soil saturation can be reached very quickly, further underscoring the need for property-wide soil and water management that maintains dispersed flows and increases soil water holding capacity. 
+Table 1.5.2 
+Infiltration test results for orchard ridge top at 370 Ortega Ridge Road. 
+Existing Plant Communities 
+The Coastal Sage Scrub plant community of California exists along the coast from about San Francisco, and Lafayette down through about San Diego (San Diego has its own Baja flavor) and inland as far as Riverside in southern California. In some places like north Malibu it is missing entirely, replaced by Chaparral, or in parts of the Big Sur coast, Mixed Evergreen Forest. It is sometimes called Soft Chaparral. Some common plants can include California Sagebrush (Artemisia californica), Cliff Buckwheat or California Buckwheat (Eriogonum parvifolium or Eriogonum fasciculatum), California Aster (Corethrogyne filaginifolia), Golden Bush (Isocoma menziesii), Coyote Brush (Baccharis pilularis), Encelia (Encelia californica), Black, Purple, or White Sage (Salvia mellifera, S. leucophylla, or S. apiana), Fuchsia-Flowered Gooseberry (Ribes speciosum), and Monkey flower (Mimulus aurantiacus). 
+Existing native and naturalized vegetation can reveal a great deal of diagnostic, historical and climatological information about a landscape. The type and quantity of species present, as well as their patterning across the landscape, can reveal helpful information regarding the current state of soil health and fertility, land use history, pH, and climate. Based on what is observed to be growing well on-site, climate analogue profiles can be created to help identify useful trees and plants from other locales that should do well at 370 Ortega Ridge Rd. 
+7th Generation Design
+38 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Table 1.5.3 
+Some of the readily identifiable plant and tree species found on the property at 370 Ortega Ridge Road. 
+Below are charts of noteworthy indicators based on survey of the existing native and naturalized vegetation at 370 Ortega Ridge Road. NOTE: These charts are inferences based upon observation. They should be confirmed with soil tests and prolonged site observation before informing any potential interventions. The numbers atop each column indicate the number of times a criteria was met for that category based on observed and reported data from the following categories: existing site vegetation, crop health, visual soil assessment, animal health and water quality. 
+7th Generation Design
+39 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 1.5.3 
+Likely 370 Ortega Ridge Road soil mineral profile characteristics based on present indicator plant and tree species. 
+7th Generation Design
+40 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 1.5.4 
+Likely soil state conditions at 370 Ortega Ridge Road based on present indicator plant and tree species. 
+● Humus: the mysterious but very important soil element for developing healthy, thriving soils. ● Porosity: Measure of how much pore space is present in the soil profile. Highly porous soils generally have high infiltration rates. 
+● Biology: A measure of how much diversity is present amongst soil biota. High biology soils tend to be diverse, fertile and resilient. 
+● Soil Moisture: Indicator of how much water is stored in the soil profile, and for how long. ● BRIX: Measure of plant sugars present in leaf tissues. Generally, higher BRIX equates to increased disease resistance, less frost damage, and more productive and nutritious plants. 
+● AMF: Arbuscular mycorrhizal fungi - important plant root associates. 
+● Bacterially Dominated: A measure of the degree to which bacteria or fungi dominate the soil. ● Anaerobic Soils: Indicates that anaerobic soil conditions may be present, which generally lead to higher incidences of disease and undesirable weed species. 
+● Hardpan Present: Indicates that a compacted sub-surface layer may exist that impedes water infiltration and/or root penetration to deep soil strata. Mostly commonly seen in agricultural lands frequented by heavy machinery. 
+● Drainage: Good = soil drains quickly, Poor = waterlogging, anaerobic conditions more likely to present. 
+● Crusty Soils: Indicates formation of a cryptogamic crust on the soil surface that may increase run-off and decrease infiltration of rainfall. 
+● Ergot Fungus: Indicates presence of this toxic fungus. Mostly a problem for livestock foraging on browse present on site. 
+● Glyphosate Herbicide: Indicates that glyphosate may have been used in this location in the past. 
+7th Generation Design
+41 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+1.6 Existing Zones of Use 
+Zones are usage patterns for various areas on the property. Locating elements based on their required or desired frequency of interaction helps to weave order throughout the larger system according to how often an element is used or requires tending. By co-locating elements that require daily tending (like a chicken coop, vegetable garden, and worm bin, for example) efficiencies are created, both in connecting outputs from one element as needed inputs for an adjacent or integrated element, and by keeping them on the same activity path. 
+Table 1.6.1 
+Basic zone descriptions excerpted from Toby Hemenway’s Gaia’s Garden. 
+The zones of use at 370 Ortega Ridge are presented in map form on the following page. 
+7th Generation Design
+43 
+Zones of Use 
+Zone 1 - Most intensive use and care. Zone of self-reliance 
+Zone 2 - Semi-intensely cultivated. Domestic production zone. 
+Zone 3 - Low intensity, extensive methods. Farm zone. 
+Zone 4 - Minimal care. Forage zone.
+Boundaries 
+Animal Fencing - existing 
+Gates (vehicle) - existing 
+Access Roads 
+Road Base - existing 
+Native Soil - existing 
+Recreational Water Bodies 
+Swimming Pools - existing 
+Water Drainage 
+Culverts - existing 
+Site Workup 
+Parcel/Area of Interest Boundaries 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+1.7 Existing Legal and Utilities 
+Zoning 
+The property is zoned AG-I-20: 
+The AG-I-20 zone is applied to properties with a minimum lot size of 20 acres that are appropriate for agricultural uses within Urban, Inner Rural, Rural (Coastal Zone only) and Existing Developed Rural Neighborhood areas that are shown on the Santa Barbara County Comprehensive Plan land use maps. The intent of the AG-I zone is to provide standards that will support agriculture as a viable land use and encourage maximum agricultural productivity. 
+Within the Coastal Zone, the AG-I zone is intended to designate and protect lands appropriate for long term agricultural use within or adjacent to urbanized areas and to preserve prime agricultural soils 
+AG-I is a hybrid zone that represents an intermediate land use — partly residential, partly agricultural. Residentially, AG-I allows for various dwellings if provided with land use permits by the county of Santa Barbara. Agriculturally, AG-I zoning allows rural uses prohibited in residential zones, such as the keeping of livestock and farm animals including horses, alpacas and roosters. In addition, it may allow — but only with conditional-use permits, to ensure neighborhood compatibility — certain commercial agricultural operations that are allowed by right in the larger parcel AG-II zones. 
+Notable disallowed uses include: 
+● Extensive on-site agricultural processing 
+● Processing of off-site agricultural products 
+● Aquaculture 
+● Aquaponics 
+● Mining 
+● Composting 
+● Fertilizer Manufacturing 
+● Firewood processing 
+● Lumber processing 
+Further information is available in the Santa Barbara County Land Use and Development Code for Agricultural Zones .16 
+17 
+The property has Williamson Act status. 
+16 https://images1.loopnet.com/d2/0WglQlTOUKHRCM3xzNHTIeRcRyHBGXNV0E__qi74SOg/document.pdf 17 https://www.conservation.ca.gov/dlrp/wa 
+7th Generation Design
+44 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Utilities 
+18 
+● Domestic and irrigation water is provided to the property by Montecito Water . Water usage is currently billed in the agricultural tier at $0.00760/gal, and is rising to $.00778/gal beginning on July 1, 2022. 
+1.8 Land History 
+The Chumash, a tribe of Native American hunter-gatherers especially known for their canoes (“tomol”) and beautiful woven baskets, are thought to have lived in the site of present-day Montecito, along with the entire south coast of Santa Barbara County, for over 10,000 years. They called the area Salaguas. There is evidence of a fairly permanent settlement in the Montecito area, which was linked with other sites with an extensive trail network, including many that still exist, such as the San Ysidro Trail which connected the village situated in Montecito to smaller encampments in the hills, to the waterfall and beyond, and the Hot Springs Trail which led to the hot springs that were used by the Chumash well before world-travelers trekked to its healing sulfur waters. 
+The Spanish arrived in the 18th century. In the spring of 1769, while Spanish soldiers were busy erecting a Royal Presidio on the site of Santa Barbara, their spiritual leader, Padre Junipero Serra OFM, was scouting for a place to put his tenth California mission. He selected a spot in present day Montecito’s beautiful East Valley, where a Chumash trail snaked up a canyon. That trail is known today as Hot Springs Road. But Father Serra died shortly thereafter, and in 1786 it was his successor, Fermin Lasuen, who arrived to establish Mission Santa Barbara. Fr. Lasuen rejected Montecito, (which they called Rancheria de San Bernardino) as a mission site, believing it to be too far removed from the protection of the presidio. The roundabout oak groves – later named Montecito, which means “little woods” in Spanish – swarmed with grizzly bears, wolf packs, and human renegades. Prudently, Lasuen located Santa Barbara Mission four miles west. Considered a wilderness, it only became populated when retiring soldiers of the Presidio, in lieu of pensions, were given land in this hinterland far from the center of town. By then, the small Indian village by the sea, called Salaguas by the native Chumash and Rancheria de San Bernardino by the Spanish, had ceased to exist. 
+As the Spanish population increased, clusters of dwellings grew, and a small aldea became established along today’s East Valley Road near Montecito Creek. Complete with rooming houses, an inn, grocery stores, dance halls, and saloons, the village served the needs of residents. 
+Spain yielded to Mexico in 1821, and Mexico yielded to the United States in 1848. A trickle of American farmers looking for inexpensive arable land joined a trickle of land speculators to take up grants offered by the Common Council of Santa Barbara for a few dollars an acre. Many of the Spanish families living in El Montecito added to their holdings at this time. 
+In 1855 an ailing ’49er named Wilbur Curtiss came to Santa Barbara with a life expectancy of six months. A 100-year-old Chumash Indian led Curtiss up Hot Springs Canyon to the ancient spa. The 
+18 https://www.montecitowater.com/ 
+7th Generation Design
+45 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+“miracle waters” restored Curtiss to such robust health that in 1862 he filed a homestead claim on the Hot Springs and thus became Montecito’s first American settler. He built the first of four wooden hotels at the springs, each destroyed by the periodic forest fires which swept the mountains. The last Montecito Hot Springs Resort hotel was lost in the Coyote Fire of 1964. Still privately owned, the springs remain today an important water source, although no longer exploited for their therapeutic value. 
+When the first Americans began arriving, in the middle of the 19th century, the area was known as a haven for bandits and highway robbers, who hid in the oak groves and canyons, preying on traffic on the coastal route between the towns that developed around the missions. California grizzly bears, now extinct, were so numerous in Montecito that as recently as 1869 a 550 bounty was offered for every beast slain inside the community. One specimen weighed over 1,000 pounds. 
+The first American farmer in Montecito is thought to be Newton M. Coates. His farm would later become a ranch named Las Fuentes (the springs) owned by William H. Crocker. William was the son of Charles Crocker, one member of the partnership known as the Big Four, the group that built the western end of the first transcontinental railroad. William’s partner was his mother-in-law, Caroline Sperry, matriarch of a flour empire in Stockton. Crocker planned to develop the ranch as 33 ranchette home sites, but when the real estate boom of 1885-86 went spectacularly bust in 1887, he shifted gears and established a citrus ranch. It would be more than 80 years before the property became a gated residential community and golf club named Birnamwood. 
+By 1890, Montecito had been discovered by well-to-do Easterners who built elegant Victorian-style homes and estates, mainly as winter residences. The old Spanish families and American farmers found themselves sharing the land with an increasing number of these part-time residents. Over the years, however, many of them would eventually make El Montecito their permanent address. 
+Land speculation and subdivision increased, and by 1920, a second wave of newcomers had succumbed to the charms of the area. They favored a new style of architecture, Mediterranean and Spanish Revival, which came to dominate the architectural landscape. The old adobe homes of the Spanish settlers and the Victorians and wooden farmhouses of the previous wave of Americans began to disappear. 
+Water supply problems have plagued Southern California’s semi-arid climate from earliest times, and Montecito was no exception. In 1924 it became necessary to bore the Doulton Tunnel into the mountain wall. This horizontal well met Montecito’s increasing water needs until Juncal Dam was completed in 1930 at 2,224-foot elevation within the watershed of the upper Santa Ynez River. This concrete arch structure, 160 feet high by 350 feet wide, impounded 7,050 acre feet of water in Jameson Lake. During the nearly half century that has followed, siltation and debris from run-off have reduced the lake’s capacity to 6,000 acre feet. Montecito Water District water reaches its consumers via 2.2-mile-long Doulton Tunnel and a system of pipelines terminating in ten foothill reservoirs. 
+7th Generation Design
+46 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+2. Water 
+Water is an essential input for all living organisms on Earth (as far as humans know) - animals, plants, fungi, bacteria, and protists. In some organisms the percentage of body weight made up of water exceeds 90%; in humans, this number ranges from 60%-75%. A loss of just 4% of a human’s total body water leads to dehydration, and a loss of 15% can be fatal. Likewise, a human can survive beyond a month without food, but wouldn’t survive 3 days without water.19 
+Why is water so essential to life? Water serves a number of essential functions for living organisms, including: 
+● A building medium and lubricant for cells, the DNA and proteins within them, and the membranes that surround them; 
+● A solvent, dissolving food into the nutrients needed for cellular metabolic processes; ● A vehicle, transporting those nutrients to cells throughout the body for those metabolic processes and removing wastes; 
+● A temperature buffer for cells and the bodies that contain them (through sweating and respiration in animals, transpiration in plants); 
+● An electrical conductor and battery, moving and separating charge throughout a living cell as it metabolizes food and performs its essential functions ;20 
+● A recorder, transmitter and imprinter of molecular and vibratory information. 
+This information alone makes water the most necessary of homestead requirements, however, water also has properties that make it well-suited in providing for a number of other functions, including moving things, moderating climate, and recreation. 
+The water used on most properties for household and landscape is typically piped in from a municipal water company or pumped from a drilled well. While, for many landowners, the day-to-day consistency of these sources provide a convincing case for water security, others are quickly realizing the hard way that these water sources are not as secure as once thought. Landowners on a municipal water supply are subject to the pricing and whims of the utility, which is subject to the whims of the politicians, special interest lobbies, the environment, electrical grid, and water supply. Well owners are also subject to the whims of the electrical grid (or solar/wind systems) – but additionally, in many areas owners are coming to find their flow rate dropping or even disappearing altogether as underground aquifers are depleted. 
+These issues speak to the critical need for landowners to work with water and embrace its presence on-site - and beyond that, to actively tend to the hydrological health of the watershed in which their property lies. 
+19 https://sitn.hms.harvard.edu/uncategorized/2019/biological-roles-of-water-why-is-water-necessary-for-life/ 20 https://www.youtube.com/watch?v=nSbg3cuZNRQ 
+7th Generation Design
+47 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+The Four R’s of Regenerative Hydrology 
+The actions of regenerative hydrology can be expressed in terms of sound fiscal budget management. The 4 R’s of a water budget - receive, recharge, retain, and release - are equivalent to income, deposit, savings, and expense. Landowners should ensure that the water balance of local watersheds is in the blue and not in the red, that liquid assets continually produce a high-quality return on investment, and re-invest returns back into local watersheds to continue building principal. 
+Figure 2.0.1 
+The water cycle. 
+Receive = Income 
+Watersheds only receive water as snowfall, rainfall, dew condensation and fog precipitation. Annual precipitation is the only true source of income to re-supply a property’s water budget allowance. Everything else (drafting fossil aquifers, importing from other areas) is drawing down on principal. 
+Regenerative hydrology advocates the adaptive management of watershed lands to optimize rehydration by promoting land use patterns that enhance the receptive capacity of a watershed in times of excess and the retentive capacity in times of drought. 
+7th Generation Design
+48 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Recharge = Deposit 
+Recharge processes are critical for the landscape to annually refresh itself via the deposit slip called infiltration. The capacity to make water deposits depends on the watershed’s recharge potential. Precipitation received by the watershed must percolate and be absorbed, or else there is no replenishment of the water savings account. 
+Recharge potential and functions are impaired by the hardening and paving over of natural recharge areas, the disconnection of rivers from their floodplains, the deforestation of native vegetation, and the draining of wetlands. 
+Retention = Savings 
+The retention of recharged precipitation is like a savings account asset that yields interest. The storage of water is often the most challenging aspect of water supply management. Regenerative hydrology strategies should appropriately slow water down, increasing the residence time of water storage in our watersheds. This will optimize the amount of water available for local expense by living processes. 
+A landowner (and their surrounding community) is wise to avoid overdrafting of their local watersheds. To be in the blue, a healthy albeit challenging goal is to never extract out of storage (groundwater) in amounts greater than what is annually received and recharged. While this can go on for a while, eventually a penalty must be paid. In situations where this is currently occurring, landowners can take steps to mend the broken hydrological cycle to ensure that as much water as possible is being returned and put to highest use in the landscape before it leaves. 
+Release = Expenditure 
+Ideally, expenditure of water assets will go to further increase the reception, recharge and retention capacities (the first 3 R’s) of the watershed. 
+Water is released naturally to the ocean, land and atmosphere in a process known as the water cycle. Through seasonal snow and ice melts, groundwater springs and seeps, water is returned to creeks and rivers. Solar evaporation and the evapo-transpiration of plants help to form new clouds and feed the cycle anew. The infinite nature of this cycle is to continually flow and be in flux as the expense of one stage produces income for the next. 
+Common modern development and land management practices (creating impervious surfaces, channelizing stormwater, poorly-managed animal grazing, etc.) tend to increase the rate and volume of storm water’s return to the ocean via excessive runoff and heightened flood discharges. This directly reduces the landscape’s ability to retain water and diminishes the amount of water available for later release during the dry season when it is most needed. 
+7th Generation Design
+49 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+2.1 Providing Hydration 
+Plants hydrate themselves primarily through their roots and associated symbioses with fungi in the soil, while animals hydrate themselves by drinking water directly and through the consumption of plants and other living organisms. Thus, some key design goals for water on our homesteads should be to ensure that our soils and local atmosphere are properly hydrated and we have secure access to drinking water. 
+This report classifies water elements that provide hydration to plants and animals into two main categories: passive water harvesting systems and active water harvesting systems. 
+● Passive Water Harvesting Systems - Passive water harvesting works by shaping the earth to slow the velocity of runoff, infiltrate it into the soil, and direct it to where it can be beneficially used by vegetation. Passive water harvesting features include elements designed to infiltrate water into the soil such as swales and berms, infiltration basins, keyline systems, as well as open water bodies such as springs, creeks, rivers, pools, ponds, and lakes. They are typically less expensive, simpler to build, lower maintenance, and longer lasting than active water harvesting systems. 
+● Active Water Harvesting Systems - Active water harvesting uses rain barrels, cisterns, pools and other types of containers (including earthen ones) to store rainwater for later distribution. The stored water can be used outdoors to irrigate vegetation or indoors for non-potable (toilet flushing, laundry washing) and potable (with proper filtration and disinfection) uses. Active water harvesting systems can “extend” the rainfall season and maximize the use of collected water, but are also significantly more expensive than passive systems. 
+Existing Conditions 
+Existing water elements that are providing hydration to plants and animals at the site include: 
+● Water for domestic and irrigation needs is currently provided by the Montecito Water District, which is supplied at Ortega Road and piped to various end-uses around the property. The future reliability and costs of Montecito Water District’s supply are unknown. The site currently lacks private access to water in the form of a spring or well. 
+○ The existing irrigation systems are entirely manual at this time based on reports from the owners on their discussion with the ranch manager. 
+● During a typical rain year of 17.7 inches, 370 Ortega Ridge Road receives approximately 40.3 million gallons of direct precipitation falling within property bounds. Of that amount, an estimated 8-20 million gallons (20-50%) is lost as runoff, depending on rainfall intensity and distribution throughout the rainy season. This runoff collects and ultimately exits the property boundaries via the culverts along Greenwell Ave and the drainage running along and outside of the northeast property boundary, as illustrated in Figure 2.1.1. At the 
+7th Generation Design
+50 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Montecito Water District’s current agricultural water rate of $.00760/gallon, this equates to $60,000 - $150,000 worth of water that is being lost annually. 
+Figure 2.1.1 
+Existing overland water flows and runoff exit points from the 370 Ortega Ridge Road property. 
+7th Generation Design
+51 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 2.1.2 
+Existing catchment areas and overland water flows feeding gullies “E-1” and “E-2” on the northeast side of the Main Ridge. 
+Recommendations 
+The following elements are recommended to provide hydration for plants and animals at 370 Ortega Ridge Road: 
+● Installation of a site-wide passive water harvesting swale system to enhance water retention and halt ongoing erosion damage and topsoil loss. 
+● Installation of infiltration basins to increase passive water harvesting system infiltration capacity and further reduce runoff. 
+● “Boomerang” berm micro-earthworks on a per-planting basis across the broad acre to increase soil hydration at individual plant and tree root zones and reduce erosive runoff. 
+7th Generation Design
+52 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Swales 
+A system of linked swales and infiltration basins will help to infiltrate run-off water higher in the landscape, before it enters the drainages and can cause further erosion, and improve growing conditions on the down-slope hillsides. 
+Swales are shallow ditches dug following a contour line (a level line that is always perpendicular to the slope it is crossing), with the soil excavated from the ditch mounded into a berm on the downhill side of the ditch. The bottom of the ditch and top of the berm are both level all the way across the landscape - which will create a long, thin, temporary “lake” when filled with water. The berm and the bottom of the ditch are left uncompacted to maximize the swale’s infiltration capacity. Swales are typically 1-3 feet deep and 1-12 feet or more across, though can be much broader and shallower in deserts and areas with fragile soils prone to wind erosion. 
+Figure 2.1.3 
+Think of a swale as a long, narrow, winding lake with a porous bottom that is perfectly level end-to-end. Swales slow the flow of water, spread it out, and allow it to infiltrate into the soil. Images: Jesse Smith (top), Toby Hemenway, Gaia’s Garden (bottom). 
+7th Generation Design
+53 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Swales capture sheet-flow and point-source run-off water in a level-bottomed ditch, slowing it down and spreading it out across the landscape on contour. This allows water that may have otherwise run off the landscape a chance to infiltrate into the soil, creating a saturated “lens” of subsoil downslope, where it can be put to beneficial use growing trees and other perennial vegetation, recharging aquifers, charging downhill spring lines and increasing soil moisture levels. Swales also provide a place in which to direct run-off water away from areas that should remain dry (access roads and paths, structures and hardscape areas, etc). 
+A swale will have a measurable holding capacity as well as a generally known infiltration rate. There may be rain events during a swale’s functional lifespan that exceed its capacity to infiltrate standing water as fast as new water is entering. When these events occur the swale will overflow, and thus planned overflow points called level-sill spillways - which allow for water to move safely without eroding the berm downslope soils, as described below - are critical in the design of swale systems. The level-sill spillways recommended for integration with this system are discussed in the recommendations in 2.2 - Moving Things. 
+The entire system as illustrated in the design map below consists of 32 swales with a combined length of 9,280 linear feet and, with the recommended infiltration basins (described in the next section), is capable of infiltrating an estimated 3.6 - 9 million gallons of water that is currently running off of the property during each average rain year, and will infiltrate all of that water into the soil in all but the most intense precipitation events. At the Montecito Water District’s current agricultural water rate of $.00760/gallon, this equates to $27,360 - $68,400 of water every year that would be retained in the soils, helping to flush accumulated salts and provide the base input required for a healthy, thriving soil ecology. This system will completely starve the existing headcuts and gullies of additional inflow, allowing for the initiation of healing processes. 
+Water calculations for each swale illustrated in the design map can be found in Appendix A - Water Feature Calculations. 
+7th Generation Design
+54 
+Shelter Elements 
+Shelter Lines 
+Parcel Boundary 
+Shelter Areas 
+Residence 
+Garage 
+Shade Cloth Equipment Barn 
+Open-Air Roof 
+Barn 
+Greenhouse 
+Ranch HQ Office 
+Access Elements 
+Access Lines 
+Road – DG 
+Road – Native Soil Access Areas 
+Parking Area – DG 
+Horse Arena 
+Water Elements 
+Water Lines 
+Culvert 
+Armored Drain 
+Unarmored Drain 
+Rolling Dip 
+Swale Ditch 
+Drain Pipe 
+1% Drain 
+Media Luna 
+Belt Diversion 
+Water Areas Refactored 
+Biologically-Armored Bank Level-Sill Spillway 
+Terrace 
+Infiltration Basin 
+Geologically-Armored Rundown 
+Design Map - Water Infiltrating Elements 
+370 Ortega Ridge Rd 
+Santa Barbara,CA 93108 
+Date: 12/2/2022
+Parking Area – Native Soil Parking Area – Road Base 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 2.1.5 below illustrates how the swales in the catchment areas of the two large erosion gullies previously illustrated in Figure 2.1.2 will spread out the concentrated and erosive flows and allow them to infiltrate into the soils, with any overflow patterned into the next swale downhill until eventually being discharged off of the property. All of the major erosion areas across the property will see the same benefits from the site-wide system of swales illustrated in Figure 2.1.4. 
+Figure 2.1.5 
+The proposed swale system will slow, spread, and sink into the soil the runoff that was previously entering and eroding gullies E-1 and E-2 on the northeast side of the Main Ridge. Any overflow from the swales will be safely directed away from the gullies, effectively starving the gullies and halting erosion in those areas. 
+Swales are ultimately tree establishment elements, with trees either being planted on or just below the berm along its entire length. Over a long enough time, swales will silt in or fill with fallen organic matter, their infiltration function replaced by the established tree roots and other vegetation. 
+In addition to the water harvesting capacity of these infiltration elements, the associated drainage structures discussed in 2.2 - Moving Things (rolling dips, belt drains, armored drains and their associated flow spreading media lunas) recommended for retrofitting drainage patterns the existing orchard access routes will serve to disperse sheetflow that has been artificially concentrated by the road network. This will further enhance both infiltration element specific harvesting potential and property-wide hydration. 
+7th Generation Design
+56 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+The site-wide passive water harvesting system has been divided up into three phases for the purposes of cost estimation and sequential implementation - more detail on these phases can be found in the document “Level 3 - Passive Water Harvesting and Drainage System Phased Implementation Estimates”. Descriptions of all of the different elements within the entire passive water harvesting and drainage system design can be found in Appendix A - Index Of Water Harvesting and Erosion Prevention/Repair Structures. 
+Infiltration Basins 
+An infiltration basin is a shallow depression into which surface or piped flows are directed in order to pool and infiltrate. They are often incorporated into swales to increase capacity (usually where they traverse a valley), as shown in Figure 2.1.6. These ephemeral basins provide valuable seasonal habitat to many forms of wildlife, in addition to allowing for the growth and persistence of different vegetation communities. The persistence of water in these locations for longer into the dry season will also allow for biomass production on the edges of the basins that can be harvested as a fertility source and used elsewhere on property (compost feedstocks, cut forage for animals, firewood, craft materials etc). 
+Figure 2.1.6 
+Infiltration basins are often incorporated into swales (typically, where they traverse a valley) to increase capacity. Image source unknown. 
+The 6 infiltration basins recommended as part of the site-wide passive water harvesting systems are illustrated in Figure 2.1.4 and summarized in Table 2.1.2. 
+7th Generation Design
+57 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Table 2.1.2 
+Sizing, volume, and infiltration rates of the infiltration basins recommended as part of the site-wide passive water harvesting and drainage system at 370 Ortega Ridge Road. 
+“Boomerang” Berms 
+Avocado trees perform best when they have a deep mulch layer over their root zone. This helps to reduce soil surface temperatures, decrease evaporative losses from the soil surface and thereby increase irrigation efficiency, and increase soil organic matter formation and retention which reduces the risk posed by soil-borne pathogens such as Phytopthora. Retaining leaf mulch in steeply sloped orchards can be difficult without a physical barrier to arrest the leaves from migrating downslope or being blown away by seasonal high winds. 
+For trees that are to be stumped or pruned in the near future, it is recommended to utilize the smaller trunks, branches and twigs to construct a boomerang shaped berm at the edge of the tree’s dripline, with the tips of the boomerang facing upslope. The wood will break down over time, adding to the soil carbon, but in the intervening years it will serve as a physical backstop to arrest downhill movement and dropped avocado leaves and a windbreak to keep them from being blown away during high wind events. Utilizing limbings and other off-cuts from a stumping operation also eliminates most if not all of the chipping requirements and associated costs by keeping the carbon right where it is needed most. 
+7th Generation Design
+58 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 2.1.7 
+Boomerangs can be made of earth, stone, woody debris or planted using perennial clumping grasses to create structure for mulch retention and water infiltration. 
+For newly planted trees it is recommended to plant a boomerang downslope of the tree using vetiver grass. Vetiver grass is a drought-hardy, sterile, non-spreading perennial clumping grass that grows upright culms capable of reaching 6’ or more in height in rich soils with regular irrigation. The vetiver lines should be planted along the edge of the spray radius of the sprinkler dedicated to each tree. The vetiver will grow fast, helping to shade the soil and enhance infiltration of the irrigation water with its deep (9-15’) root system while also producing a ready supply of mulch that can be cut and dropped in place to help cover the root zone of the developing avocado tree. Once the tree is mature enough to shade the vetiver grass, it will naturally fade away as it is shade intolerant. In areas where the trees are kept small and open and thus allowing sun to reach the vetiver grass, it will naturally self-terrace over time, creating helpful level access paths across steep slopes. See Appendix C - Vetiver Grass Primer for an expanded description of using vetiver grass as a biological erosion control and repair agent. 
+2.2 Moving Things 
+Water moves from higher areas on the landscape to lower areas as a result of Earth’s gravity. This energy source is responsible for the moving water features in our natural landscapes like streams and waterfalls and also in our built-environments in the form of rivulets of runoff down a sloping driveway and sheetflow off of a roof. And where there is moving water, there will be the movement of material - called erosion. Erosive processes are not an inherently negative thing - they are responsible for the creation of rich floodplain soil and some of the most beautiful forms found in nature. However, erosion can also be damaging to natural and built environmental function and integrity when it occurs in large amounts, high rates or for long time periods at scales greater than the ecology (or built structure) can handle. 
+7th Generation Design
+59 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Erosion is most pronounced on bare soils where rain drops impact the ground at high speed. The impact of the droplet breaks apart soil particles into finer and finer pieces, continually sifting the finest pieces to the top. These “fines” are often the important ingredients that distinguish living soil from dirt - organic matter, humus, sticky substances exuded by bacteria and earthworms that bind particles together etc. As the precipitation continues, eventually sheet flow begins, where a constant sheet of water flows over the soil surface, sweeping all of the fine materials downhill. The heavier and more intense the rainfall, the thicker the sheetflow, and the greater its capacity for moving larger pieces of material. 
+Figure 2.2.1 
+Unimpeded raindrops are tremendously destructive to bare soil. 
+Erosive processes can be halted using earthworks (like the passive water harvesting systems discussed above), living systems (plantings), and geological systems (rock-armored flow control structures), or - most often - a combination of all three. All of these techniques collect and allow for the settling of the material being carried by moving water, recreating the soil layers that have been lost. 
+While topsoil loss is undesirable, the same characteristics of moving water that result in erosion can also be leveraged to intentionally and beneficially move other materials - from small materials like soil particles from hands being washed in a sink to large floating barges moving materials downstream. Moving water can also be used to rotate shafts connected to machinery to do work. 
+This section describes elements at the site where moving water can be used to move things. The systems beyond gravity that provide for the movement of water itself, including fossil fuel- and electricity-powered pumps, will be discussed in greater detail in the Energy chapter. 
+7th Generation Design
+60 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Existing Conditions 
+Existing elements that utilize water to move things (including the unwanted movement of soil, ie. erosion) include: 
+● Erosion damage and soil loss is visible throughout most of the property, with varying degrees of severity as indicated in Figure 2.2.2 below. Though certain locations exhibit greater damage, the root of the problem is site wide and is exacerbated by the following factors: 
+○ Lack of perennial vegetative cover. Due to the use of herbicide in the orchard understory, soils are left unprotected from the violent impacts of seasonal raindrops. Each droplet impact leads to sifting of soil particles, the finest being lost first. At this point even the impact of irrigation droplets on the bare soil is causing topsoil loss. 
+○ Access patterning and road maintenance that leads to entrapment and conveyance of water on road surfaces. Many of the orchard roads are entrapping and conveying run-off from large catchment areas of bare soil, thereby increasing its energy and erosive potential. What could be an evenly dispersed benefit to the land (rainfall) becomes a persistently accelerating force for degradation when large catchments are focused to small outlets, particularly on fine soil. The annual dragging of the roads has also served to create berms on the downhill side of the road surfaces, further entrapping water on the road surface where it might have previously been shed. The primary access roads running down the spine of the ridge are significantly entrenched, which led to the break out and subsequent rill formation pictured in Figure 2.2.3 below. 
+○ Gullying formation that is accelerating. All of the active gullies are being fed by concentrated run-off coming off of the orchard roads and bare-soil orchard blocks. 
+7th Generation Design
+61 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 2.2.2 
+Areas experiencing significant to severe erosion on the 370 Ortega Ridge Road property. Color indicates severity of erosion in the area. 
+7th Generation Design
+62 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 2.2.3 
+Start of gully formation at the low point of the saddle on the east side of the Main Ridge Road. 
+Recommendations 
+● Installation of erosion-resistant drainage elements that include: 
+○ Geologically-armored level-sill spillways wherever overflow can either be captured by another downslope swale or infiltration basin, along ridges that can be biologically- or geologically armored (see below), or into existing drainages via geologically-armored energy dissipation pools and armored rundowns, 
+○ Geologically-armored energy dissipation pools wherever concentrated flows will enter swales, infiltration basins, or existing drainages, and in any headcuts in active drainages, 
+○ Media luna flow spreaders wherever concentrated flows will drain onto a native slope, 
+○ Geologically-armored rundowns wherever concentrated flows must move downhill before entering into energy dissipation or flow dispersion elements, 
+○ Rolling dips where concentrated flows will cross access roads that have grades greater than 3% and less than 15%. 
+○ Culverts where concentrated flows will cross access roads that have grades less than 3% or greater than 15% and/or wet-condition vehicle access is required, 
+○ Grade reversals (road humps) along the orchard roads to disperse drainage flows more uniformly across broader areas. 
+7th Generation Design
+63 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 21 
+● Planting of clumping grasses (such as vetiver ) or arcs of other dense, vertically-growing vegetation on the downhill sides of trees throughout the orchards, to help further slow water, retain soil, and capture leaf-fall. 
+● The application of mulch over areas with bare soil in the near-term, and planting of perennial vegetative cover in those areas in the long term (discussed in section 5.2 - Living Systems - Food Production), will further increase the infiltration rates and water-holding capacity of the soils and decrease evapotranspirative losses and the amount of surface runoff. 
+Geologically-Armored Level-Sill Spillways 
+Critical in the design of swale systems are planned overflow points called level-sill spillways. A level-sill spillway is a broad, perfectly level area that serves as a predetermined discharge location for water flows greater than what the associated impoundment (swale, pond, lake, infiltration basin etc.) is capable of infiltrating or holding. The height of the level-sill spillway relative to the bottom of the impounding body determines the maximum water-holding capacity of that structure. The height difference between the spillway and the top of the impounding structure (dam wall, swale berm etc.) is known as the “freeboard”, and should generally be a minimum of 36” for constructed ponds and 12” for swales. Depending on the climate, soil type and anticipated demands upon the structure, they should either be vegetated with perennial grasses or mat-forming vegetation with hairnet roots capable of binding soil that will “lay down” when heavy flows arrive, or geologically-armored with knitted stone infilled with small gravel, or both. Level-sill spillways are sized to have the water discharge as slowly as possible, ideally flowing gently downhill until it is picked up by yet another linked swale. 
+Figure 2.2.4 
+Left: Level-sill spillways provide for the planned overflow of water without eroding the impounding structure (swale berm, dam wall etc). Right: Level-sill spillway constructed from knitted urbanite using fine-grained lava rock as the infill. Water discharge would be from left to right. ImageLeft: Unknown. Right: 7GD 
+Geologically-armored level-sill spillways should be installed at 370 Ortega Ridge Road in all of the recommended passive water harvesting swales and infiltration basins (described in Sections 2.1 - Swales and 2.2 - Infiltration Basins) wherever overflow can either be captured by another downslope swale or infiltration basin, along ridges that can be biologically- or geologically armored 
+21 https://www.7thgenerationdesign.com/vetiver-grass-101-the-regenerative-super-plant/ 
+7th Generation Design
+64 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+(see below), or into existing drainages via geologically-armored energy dissipation pools and armored rundowns (see below) as a last resort. These locations in the proposed passive water harvesting and drainage system are illustrated in Figure 2.1.4. 
+Geologically-Armored Energy Dissipation Pools 
+An energy dissipation pool is a structure, usually composed of geological materials such as rocks, that allows for the energy of concentrated water moving downhill to dissipate in a non-erosive manner. The rocks are stacked, starting from the bottom and working upwards, in such a way as to create a small pool of standing water to de-energize incoming fast-moving water (standing water is the most effective way de-energize moving water). The exit sill of the energy dissipation pool is set lower than the input to ensure the structure is self-cleaning and will not clog. Energy dissipation pools are often integrated with an uphill feature for moving water non-erosively, such as an armored drain, rundown or culvert. 
+Figure 2.2.5 
+Armored energy dissipation pools, like this one located in a drainage at a culvert outlet, allow for the energy in moving water to dissipate in a non-erosive manner.. 
+Geologically-armored energy dissipation pools are also installed to halt active headcut progression in incised and eroding drainages. A headcut is a quick drop in elevation, typically vertical, within a streamflow that has a plunge pool at the bottom created by the turbulence of high energy water. When dry, headcuts can look like a small cliff (a foot or two deep) or sometimes can be the size of an actual cliff (20+’ deep). In drainages that have not yet reached bedrock, the scouring action at the base of the drop caused by the high energy water continues to eat away at the uphill cliff face, until yet another overhanging segment collapses into the plunge pool. In this manner, headcuts move 
+7th Generation Design
+65 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+upstream (opposite the direction of streamflow), much like a zipper moving up through a landscape, and become larger and more destructive as they go. 
+Figure 2.2.6 
+Dynamics of headcut progression. 
+Headcuts are very destructive erosion patterns, and will continue to deepen the stream bed, further incising the channel and thus concentrating water flows, increasing their velocity, and creating conditions for an additional, larger, and more destructive headcut to form downstream and begin moving upwards. Headcuts work to dehydrate landscapes, as the ever more incised channels they create progressively reduces a stream’s ability to connect with its floodplain and increase its ability to drain water reserves held in soils uphill, dropping groundwater levels and leading to rapid shifts from riparian edge vegetation to upland vegetation. Retrofitting a headcut with rocks or other geological materials to create a geologically-armored energy dissipation pool halts its progression. In this context geologically-armored energy dissipation pools are sometimes referred to as “Zuni Bowls”. 
+7th Generation Design
+66 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 2.2.7 
+Left: Zuni bowl with 1.5% diversion drain installed into a headcutt in Carpinteria, CA (Image: 7GD). Right: Zuni bowl installed in an incised drainage to stabilize a headcut (Image: Craig Sponholtz). 
+Geologically-armored energy dissipation pools should be installed at 370 Ortega Ridge Road wherever concentrated flows will enter swales, infiltration basins, or existing drainages, and in any headcuts in active drainages. These locations in the proposed passive water harvesting and drainage system are illustrated in Figure 2.1.4. 
+“Media Luna” Flow Spreaders 
+A media luna is a curvilinear rock formation used to either concentrate flows (“tips down”) to decrease rill formation before entering a steeper transit, or to spread concentrated flows upon exiting a steep transit and transitioning to flatter terrain (“tips up”). They are built from the bottom up, with a buried splash apron on top of which the armoring layers are keyed-in and knitted together, and should be level on top to ensure even water spreading or concentration, depending on its orientation. They should be underseeded with erosion control mix, and overseeded lightly once completed. 
+7th Generation Design
+67 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 2.2.8 
+A media luna is a geological structure designed to concentrate flows (tips up) or spread them out (tips down). (Image: Watershed Artisans). 
+“Tips-Up” media lunas should be installed at 370 Ortega Ridge Road wherever concentrated flows will be dispersed from a drainage element onto a native slope, including at the outlets of any geologically-armored rundowns (described below) that are not integrated with downslope geologically-armored energy dissipation pool. These locations in the proposed passive water harvesting and drainage system are illustrated in Figure 2.1.4. 
+Geologically-Armored Rundowns 
+An armored rundown is a “ramp” constructed of hand-knitted stone used to transition water across a sudden drop in grade. Rundowns are built from the bottom up, with a buried splash apron on top of which the armoring layers are keyed-in and knitted together. The middle of the rundown should be slightly dished (lower than the sides), and the shoulders should be anchored with larger stones where drive-through access is not required. The work area should be underseeded prior to beginning stonework with general erosion control seed mix to provide vegetative stabilization in addition to the geological armoring. 
+7th Generation Design
+68 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 2.2.9 
+Left: Armored rundown constructed serving to drain a rolling dip down a slope into an existing drainage path. Right: Armored rundown connecting a rolling dip drain to a seasonal drainage bottom. Images: 7GD. 
+Geologically-armored rundowns should be installed at 370 Ortega Ridge Road wherever concentrated flows will move downhill into energy dissipation or flow dispersion elements. These locations in the proposed passive water harvesting and drainage system are illustrated in Figure 2.1.4. All rundown outlets should be integrated with an energy dissipation pool, described above. 
+Rolling Dips 
+A rolling dip is a long, shallow depression with a very slight elevation drop that crosses the road at a diagonal towards a desired lead-out point where water can be safely discharged from the road surface. The long shallow nature of the dip ensures that the road maintains comfortable high speed vehicle passability, while the slight grade from one side to the other ensures that the water exits the roadway without puddling or pooling, but moves slowly enough to prevent any erosion. Rolling dips are suitable for transfering concentrated flows across roads with grades greater than 3% and less than 15%. A rolling dip is illustrated in Figure 2.2.10, with a plan view presented in Figure 2.2.11. 
+7th Generation Design
+69 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 2.2.10 
+Top: A rolling dip is a gentle surface drain meant to transition water across a road surface in a non-erosive fashion while still permitting relatively high-speed vehicle access. 
+Figure 2.2.11 
+Rolling dip plan view. 
+Rolling dips should be installed at 370 Ortega Ridge Road wherever concentrated flows will cross access roads that have grades greater than 3% and less than 15%. These locations in the proposed passive water harvesting and drainage system are illustrated in Figure 2.1.4. All rolling dip outlets should be integrated with an energy dissipation pool or armored rundown, both described above, 
+7th Generation Design
+70 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+and the pacified water either directed into a swale or spread out by a media luna when discharged onto the landscape. 
+Culverts 
+A culvert is a pipe that channels water underneath an obstacle like an access road. A culvert may be made from a pipe, reinforced concrete, or other material. Culverts require regular maintenance and are prone to failure during heavy precipitation events. Whenever possible and suitable, it is recommended to use lower-maintenance cross drains such as rolling dips and armored fill crossings in place of culverts due to their lower maintenance requirements. 
+Culverts should have a slightly steeper grade than the inbound collection grade to be self-cleaning, and a geologically-armored energy dissipation pool should be installed at all culvert outlets to dissipate the increased energy of the discharge flow, with the pool exit sill set below the bottom of the culvert pipe to maintain self-cleaning functionality. 
+Culverts should be installed at 370 Ortega Ridge Road wherever concentrated flows will cross access roads that have grades less than 3% or greater than 15% or where regular vehicle access during wet conditions is required. These locations in the proposed passive water harvesting and drainage system are illustrated in Figure 2.1.4. 
+Road Humps/Grade Reversals 
+Slight grade reversals in the form of “road humps” should be installed at regular intervals along the orchard roads at 370 Ortega Ridge Road in order to increase the frequency of drainage from the orchard roads and thereby decrease the magnitude of flow experienced at any single drainage point. These locations in the proposed passive water harvesting and drainage system are illustrated in Figure 2.1.4. Road humps will be graded using native material, no road base and should be broad and shallow (only 2-4” in height) just enough to prevent any water that should become trapped on the road surface from continuing down the road and accumulating to potentially damaging volumes. Roads should be outsloped on each side of the road hump assuming downhill areas are suitable for accepting surface run-off. The drainage from the road humps should be patterned into the recommended passive water harvesting swales and infiltration basins (described in Sections 2.1 - Swales and 2.2 - Infiltration Basins) using armored rundowns and energy dissipation pools (see above) in order to reduce road erosion and increase passive water harvesting potential. 
+7th Generation Design
+71 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 2.2.12 
+Road humps/grade reversals/grade breaks on a low standard road. Image: USFS 
+As a general operations and maintenance recommendation, care needs to be taken when dragging any roads (for the purposes of reducing tire chatter) to either knock down or create holes in any roadside berms that develop from this maintenance practice. These berms will trap water on the road surface and can cause water to bypass planned drainage points, ultimately leading to a high-energy breakout further down the road that will cause significant erosion damage. The drag that is currently used to maintain the roads can be modified with small, weighted wings that can be attached to either side that will serve to knock down any berms and prevent their formation in the first place. 
+Biologically-Armored Banks 
+Bare soil should be filled with living root systems and covered by vegetation to increase shade at soil surface, decrease soil surface temperatures, and protect soil from rain drop impact and sheet flow erosion. 
+Slopes at 370 Ortega Ridge Road that will experience sheet flow, such as mild slopes below level-sill spillways that can be installed without an armored rundown or slopes below outsloped access roads, should seeded with a standard erosion control seed mix (see 370 Ortega Ridge Road 22 
+Earthworks Calculator - Sheet: CC Mix Calculator or S&S Seeds - Basic CA Native Erosion Control 23 
+Mix ), raked, straw-mulched, and potentially netted with jute on steeper sloped areas to hold straw in place until germination is complete. 
+22 
+https://docs.google.com/spreadsheets/d/1xJz9vJan65ikeIkDhv8wW9FZhPEHKQoznS2RCo-hbgU/edit?usp=s haring 
+23 https://www.ssseeds.com/product/Basic-Native-Erosion-Control-Mix.aspx 
+7th Generation Design
+72 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Mulching of Bare Soils in Preparation for Revegetation with Perennial Cover 
+All bare soils must be covered for any restoration to occur. Ultimately, the goal is to have all soils covered by living vegetation, and an important first step to getting there is to cover them with some form of carbonaceous mulch. 
+The existing pile of wood chips and any new chips made during lemon tree removal should be utilized to thickly mulch around any new plantings. Purchased straw or other weed-free mulches should be utilized following exhaustion of the available wood chips. Ideally, mulching should be contiguous and uninterrupted between newly planted trees where they are close enough together for this to be feasible (as opposed to mulching a few feet around each tree individually). This will help to create larger zones of covered soil that will serve as more stable and resilient “islands” of soil moisture to help restore a functioning soil biology, water cycle and mineral cycle throughout the renovated orchards. 
+2.3 Moderating Climate 
+Water has a volumetric heat capacity more than twice that of concrete and three times that of bricks - meaning that it can absorb and release either twice as much heat as in the same volume of concrete or the same amount of heat in only one-half of the volume of concrete, or three times as much heat in the same volume of bricks or the same amount of heat in only one-third of the volume of bricks. This property makes it an excellent material for moderating climate, whether it be for an area around a water tank where plants more sensitive to extreme temperatures can be raised or for the interior of a house with water tanks strategically placed inside. 
+This section describes the elements at the site where water is (or can be) used to moderate climate. 
+Existing Conditions 
+Existing water elements that moderate the climate at the site include: 
+● The Pacific Ocean is .75 miles distant from the property, and exerts a significantly moderating climate effect on the site. 
+● A swimming pool located to the north of the Main Residence likely provides some local climate moderation, though it is likely negated by the thermal mass and high reflectivity of the concrete in the vicinity. 
+Recommendations 
+Water elements for moderating climate that should be considered as part of a whole-site design process include: 
+● Conversion of the concrete hardscape area surrounding the swimming pool to that characteristic of a natural-style swimming pool, with softscape and living systems. 
+Poolside Hardscape Remodel with Permeable Elements and Living Vegetation Replacing the concrete surrounding the swimming pool with plants, beach sand, and other softscape and biological elements will significantly improve the local climate moderation provided 
+7th Generation Design
+73 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+by the pool water. Choosing softer materials, like sand or pea gravel, in concert with the recommended whole-pool retrofit to that of a natural-style swimming pool, described further in Section 2.4 - Providing Re-Creation, will help to decrease the intensity of reflected light in comparison to the current concrete hardscape and be cooler to bare feet on hot days. If a hardscape 24 25 
+is still desired, permeable pavers , should be used to create a hardscape that will not generate any run-off during rain events. 
+2.4 Providing Re-Creation 
+The benefits of water recreation are not always readily apparent, nor easily measured. The time and energy spent installing a water tank has the tangible benefit of stored water for use at a later time. In contrast, a day of immersion in a pool provides nothing in hand, but, instead, offers refreshing experiences and pleasant memories. This, however, is the purpose of recreation: to re-create or to renew. 
+Fortunately, water elements that provide for recreation also provide for at least one of the other functions already described in this report - hydration, the movement of things, and the moderation of climate - and often multiple. This section describes those water elements at the site that provide for recreation. 
+Existing Conditions 
+● There is a pool located on the north side of the Main Residence. 
+Recommendations 
+● Conversion of the swimming pool to that of a natural-style swimming pool. 
+Convert Chlorinated Swimming Pool to Biofiltered Natural Swimming Pool 
+The swimming pool located on the north side of the Main Residence can be converted to a natural swimming pool without major alteration to its form and no change in its location. The Regeneration Zone can be separate from the main body of the pool to maintain access around its entire perimeter if desired, or if a substantial remodel is going to be performed, it can be integrated with the swim zone. Either way, the Regeneration Zone can be a beautiful and functional scenic backdrop to the swim area and backyard of the Main Residence, filled with a wide array of beautiful vegetation 
+Natural swimming pools are gaining in popularity as awareness continues to grow about the negative health consequences of swimming in chlorinated or otherwise sterilized water. Natural swimming pools mimic the water filtration and purification processes found in nature while also providing a dedicated swim zone. Natural pools can come in many different shapes and forms while still adhering to a consistent set of design principles that ensure high water quality, safety, fun and beauty. 
+24 https://www.belgard.com/products/permeable-pavers/ 
+25 https://hydropavers.ca/products/ 
+7th Generation Design
+74 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 2.4.1 
+One of David Pagan Butler’s natural swimming pools in the UK. 
+Natural swimming pools utilize riparian plantings to filter and purify the water and decrease available nutrient levels to maintain clarity. However, simply depending on natural temperature fluctuations and air movement to circulate the water column adequately to create a reliably safe and clean swimming environment would be insufficient in most cases. The design detailed in the figure below, developed by David Pagan Butler, utilizes air lift pumps - essentially air stones set inside vertically arranged pipes - to lift water while simultaneously aerating it (good for plants and desired aquatic creatures) and pulling it through the established root net of the riparian plantings (in the “regeneration zone”). Air lift pumps have no moving parts (only bubbles!) and are so gentle that frogs and fish can pass through unharmed, unlike typical submersible pumps. Figure 2.4.2 below illustrates a cross-section of a natural pool and its various components when constructed in this style. 
+7th Generation Design
+75 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+Figure 2.4.2 
+Natural swimming pool cross-section. 
+By using air to lift the water column ever so slightly (6”), a subtle but consistent vacuum is created that actively pulls water through the riparian root zone before aerating it and lifting it to the upper water strata of the pool. There are no submersible pumps, noisy and expensive pump houses, and large electric bills. A typical natural pool can be cycled using a single 60 watt air compressor, which can be run off a set of solar panels and a small battery bank. Additionally, air lift pumps can be used to lift water through a natural, gravity-fed water filtration system to keep the pool clean of debris. 
+Natural swimming pools built in this style are much more affordable, in both construction and lifetime maintenance costs, when compared to mainstream, hard bottom swimming pools. They are also healthy to swim in and require absolutely no chemicals. 
+Two important things to keep in mind when constructing a natural pool are 1) surface flows are not good to introduce directly into the pond (i.e. having surface run-off channeled into the pond is a bad idea due to high nutrient levels) and 2) this type of soft bottom pool can only be constructed in areas where the water table does not rise above the height of the bottom of the pool (because the pool bottom is pond liner held down by the weight of the pool water, should ground water “push up” from underneath, the pond liner will rise and the shape and function of the pool will be degraded. 
+7th Generation Design
+76 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+The plants in the list below, many of which are monocotyledonous grasses, thrive in wet habitats because they are capable of moving oxygen down to their submerged root zones. This helps to oxygenate the water and create an environment more suitable to aerobic macro- and microorganisms capable of metabolizing and transforming excess nutrients into biomass. This biomass will need to be harvested from the swimming pool regeneration zone seasonally in order to maintain optimal function, water body health and hyper-accumulation of nutrients from dead organic material. 
+26 
+● Typha latifolia (Bulrush, Cattail) 
+27 
+● Cyperaceae (Sedges - choose rhizomatous type roots, not fibrous or mat-forming roots)) ● Phragmites australis28 
+● Phragmites communis 
+29 
+● Schoenoplectus lacustris (Club Rush, Tule) 
+● Scirpus spp.30 
+31 
+● Alisma plantago-aquatica (Water Plantain) 
+32 
+● Juncus ef usus (Common Rush, Soft Rush) 
+33 
+● Iris pseudacorus (Yellow Flag Iris) 
+34 
+● Mentha aquatica (Water Mint) 
+35 
+● Glyceria maxima (Tall Sweet Grass) 
+36 
+● Nymphea alba (Water Lily) 
+● Sparganium erectum37 
+● Stratiotes aloides.38 
+● Hydrocharis morsus-ranae39 
+40 
+● Acorus calamus (Calamus, Sweet Flag) 
+41 
+● Myriophyllum spp. (Watermilfoil) 
+26 Typha latifolia Wikipedia: https://en.wikipedia.org/wiki/Typha_latifolia 
+27 Cyperaceae Wikipedia: https://en.wikipedia.org/wiki/Cyperaceae 
+28 Phragmites australis Wikipedia: https://en.wikipedia.org/wiki/Phragmites 
+29 Schoenoplectus lacustris Wikipedia: https://en.wikipedia.org/wiki/Schoenoplectus 30 Scirpus spp. Wikipedia: https://en.wikipedia.org/wiki/Scirpus 
+31 Alisma plantago-aquatica Wikipedia: https://en.wikipedia.org/wiki/Alisma_plantago-aquatica 32 Juncus ef usus Wikipedia: https://en.wikipedia.org/wiki/Juncus_effusus 
+33 Iris pseudacorus Wikipedia: https://en.wikipedia.org/wiki/Iris_pseudacorus 
+34 Mentha aquatica Wikipedia: https://en.wikipedia.org/wiki/Mentha_aquatica 
+35 Glyceria maxima Wikipedia: https://en.wikipedia.org/wiki/Glyceria_maxima 
+36 Nymphea alba Wikipedia: https://en.wikipedia.org/wiki/Nymphaea 
+37 Sparganium erectum Wikipedia: https://en.wikipedia.org/wiki/Sparganium 
+38 Stratiotes spp. Wikipedia: https://en.wikipedia.org/wiki/Stratiotes 
+39 Hydrocharis morsus-ranae Wikipedia: https://en.wikipedia.org/wiki/Hydrocharis 40 Acorus calamus Wikipedia: https://en.wikipedia.org/wiki/Acorus_calamus 
+41 Myriophyllum spp. Wikipedia: https://en.wikipedia.org/wiki/Myriophyllum 
+7th Generation Design
+77 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+David Pagan Butler of the U.K. has been largely responsible for popularizing natural pools during the past decade. His websites, manual and YouTube channel are excellent resources for inspiration as well as the nuts and bolts of actually building a natural swimming pool. 
+● David’s Organic Pools YouTube Channel42 
+● David’s Website: OrganicPools.co.uk43 
+● David’s DIY Natural Pool Manual44 
+45 
+● Performing annual dormant-season maintenance on a natural pool. 
+42 Organic Pools YouTube Channel: https://www.youtube.com/user/davidpaganbutler 43 David Pagan Butlers Organic Pools Website: http://organicpools.co.uk/ 
+44 Natural Pools Construction DIY Manual by David Pagan Butler: http://organicpools.co.uk/DIY%20DVD.htm 45 Natural Pool Annual Cold Season Maintenance: https://www.youtube.com/watch?v=7CGqOPVzTYo 
+7th Generation Design
+78 
+Level 2: Whole Site Design - 370 Ortega Ridge Rd 
+3. Access 
+Access is how humans and animals get in and around a site, particularly in relation to water and activity patterns. Access can often be a restricting factor when selecting appropriate management strategies. Additionally, access routes present huge opportunities for passive water harvesting on and off-property. While access routes, especially roads, are costly to create or modify, a well-designed and placed access route can result in lower long-term maintenance costs, and efficient movement of people, animals, and materials around a property – while a poorly designed access route can lead to huge erosion issues, extensive maintenance costs (until the route ultimately becomes infeasible to maintain and access is lost), the sacrifice of water harvesting opportunities, and unnecessarily spent energy in trying to move about the property. 
+Site topography and its resultant influence on the movement of water through and within the site is the primary influencer of access route placement. How water interacts with any access route, be it a hard top road or a deer trail, will determine the route’s long term stability and required level of maintenance. The following list summarizes the rules of thumb for good access design: 
+● Harmonize with the patterns of water already present in the landscape when planning, installing or remodeling access routes. This will always lead to better performance and lower maintenance costs. Good access at minimum maintains watershed function, and ideally improves it. 
+● Cross valleys, whenever possible, along dam/pond walls or following contour; traverse a landscape on contour as much as possible; and ascend and descend the landscape along ridge lines (these areas have the least potential to accumulate water in destructive volumes). 
+● Drain water from access routes as often as possible, and always at first chance and last chance locations. Erosive runoff water should be diverted from the access roads as shallow, non-erosive flow using rolling dips, crowning, cut-off drains, and water bars into passive water harvesting systems such as swales and retention basins. 
+● Maintain access routes regularly - A stitch in time saves nine. 
+For reporting purposes, access routes have been divided into two categories: roads and human/animal access paths. 
+3.1 Wheeled Access 
+Wheeled access refers to any access routes that are designed and built to accommodate people and things being transported on wheels (vehicles, heavy equipment, trailers, animal-drawn carts, etc) - typically referred to as roads. Roads typically have a specially prepared surface to designed to sustain wheeled traffic across as much of the year as possible - in urban and suburban areas with heavy wheeled traffic this surface is usually asphalt or concrete laid on a compacted base course, 
+7th Generation Design
+79 

@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      * { box-sizing: border-box; }
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        margin: 0;
+        padding: 16px;
+        background: #f6f4ef;
+        color: #1f2937;
+      }
+      .card {
+        max-width: 560px;
+        margin: 0 auto;
+        background: #fff;
+        border-radius: 12px;
+        padding: 20px;
+        box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+      }
+      h1 { font-size: 1.2rem; margin: 0 0 6px; }
+      p.sub { margin: 0 0 16px; color: #4b5563; font-size: 0.9rem; line-height: 1.45; }
+      label { display: block; font-weight: 600; font-size: 0.85rem; margin: 10px 0 6px; }
+      input[type='text'], input[type='date'], input[type='number'], textarea, select {
+        width: 100%; padding: 10px 12px; border: 1px solid #d1d5db; border-radius: 8px; font-size: 1rem;
+      }
+      textarea { min-height: 100px; resize: vertical; font-size: 0.88rem; font-family: ui-monospace, monospace; }
+      input[type='file'] { width: 100%; margin-top: 4px; }
+      #preview { width: 100%; max-height: 220px; object-fit: contain; border-radius: 8px; margin: 10px 0 0; display: none; background: #f3f4f6; }
+      .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+      button { width: 100%; border: 0; border-radius: 8px; padding: 14px 16px; margin-top: 18px; font-size: 1rem; font-weight: 600; background: #2f6b3a; color: #fff; cursor: pointer; }
+      button#reparse { width: auto; padding: 8px 14px; font-size: 0.85rem; margin-top: 10px; }
+      button:disabled { opacity: 0.6; cursor: wait; }
+      #status { margin-top: 14px; padding: 12px; border-radius: 8px; display: none; font-size: 0.92rem; line-height: 1.5; }
+      .ok { background: #ecfdf3; color: #166534; }
+      .err { background: #fef2f2; color: #991b1b; }
+      .loading { background: #eff6ff; color: #1d4ed8; }
+      .hint { font-weight: 400; color: #6b7280; font-size: 0.8rem; }
+      .section { margin-top: 14px; padding-top: 12px; border-top: 1px solid #e5e7eb; }
+      .receipt-card {
+        border: 1px solid #d1d5db;
+        border-radius: 10px;
+        padding: 14px;
+        margin-top: 12px;
+        background: #fafafa;
+      }
+      .receipt-card h3 { margin: 0 0 10px; font-size: 0.95rem; color: #374151; }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <h1>Bin Receipt Upload</h1>
+      <p class="sub">Upload one photo — even if it has 2 receipts side by side. OCR extracts text, shows one editable card per receipt, then saves all to the sheet.</p>
+
+      <label for="photo">Receipt photo</label>
+      <input id="photo" type="file" accept="image/*" capture="environment" />
+      <img id="preview" alt="Receipt preview" />
+
+      <div class="section">
+        <label for="rawText">Full detected text (pre-parse)</label>
+        <textarea id="rawText" placeholder="OCR text will appear here..."></textarea>
+        <button type="button" id="reparse" style="margin-top:10px;background:#4b5563;">Re-parse from text</button>
+      </div>
+
+      <div class="section">
+        <label>Parsed receipts (review/edit before save)</label>
+        <div id="receiptCards"></div>
+      </div>
+
+      <button id="submit" disabled>Save to sheet</button>
+      <div id="status"></div>
+    </div>
+
+    <script>
+      const photoInput = document.getElementById('photo');
+      const preview = document.getElementById('preview');
+      const submitBtn = document.getElementById('submit');
+      const reparseBtn = document.getElementById('reparse');
+      const statusEl = document.getElementById('status');
+      const receiptCardsEl = document.getElementById('receiptCards');
+      let selectedFile = null;
+      let receiptCount = 0;
+
+      function setStatus(kind, html) {
+        statusEl.className = kind;
+        statusEl.innerHTML = html;
+        statusEl.style.display = 'block';
+      }
+
+      function readFileAsDataUrl_(file) {
+        return new Promise(function (resolve, reject) {
+          if (!file) return resolve(null);
+          const reader = new FileReader();
+          reader.onload = function (e) { resolve(e.target.result); };
+          reader.onerror = reject;
+          reader.readAsDataURL(file);
+        });
+      }
+
+      function renderReceiptCards(receipts) {
+        receiptCardsEl.innerHTML = '';
+        receiptCount = receipts.length || 0;
+        if (!receiptCount) {
+          receiptCardsEl.innerHTML = '<p class="hint">No parsed receipts yet.</p>';
+          return;
+        }
+
+        for (let i = 0; i < receipts.length; i++) {
+          const r = receipts[i] || {};
+          const card = document.createElement('div');
+          card.className = 'receipt-card';
+          card.innerHTML =
+            '<h3>Receipt ' + (i + 1) + (r.receipt_number ? ' — #' + r.receipt_number : '') + '</h3>' +
+            '<div class="row2">' +
+              '<div><label>Date</label><input type="date" data-field="date" data-idx="' + i + '" value="' + (r.date_picked_up || '') + '"></div>' +
+              '<div><label>Block</label><input type="text" data-field="block" data-idx="' + i + '" value="' + esc_(r.block_parcel || '') + '"></div>' +
+            '</div>' +
+            '<div class="row2">' +
+              '<div><label>Variety</label><input type="text" data-field="variety" data-idx="' + i + '" value="' + esc_(r.variety || 'Hass') + '"></div>' +
+              '<div><label>Full bins</label><input type="number" data-field="full_bins" data-idx="' + i + '" value="' + (r.full_bins != null ? r.full_bins : '') + '"></div>' +
+            '</div>' +
+            '<div class="row2">' +
+              '<div><label>Partial bins</label><input type="number" step="0.25" min="0" max="1" data-field="partial_bins" data-idx="' + i + '" value="' + (r.partial_bins != null ? r.partial_bins : '') + '" placeholder="0.75 = 3/4"><span class="hint"> 0.75 = ¾ bin</span></div>' +
+              '<div><label>Receipt #</label><input type="text" data-field="receipt_number" data-idx="' + i + '" value="' + esc_(r.receipt_number || '') + '"></div>' +
+            '</div>' +
+            '<label>Grower</label><input type="text" data-field="grower_name" data-idx="' + i + '" value="' + esc_(r.grower_name || '') + '">' +
+            '<label>Remarks</label><input type="text" data-field="remarks" data-idx="' + i + '" value="' + esc_(r.remarks || '') + '">' +
+            '<label>Bin numbers</label><textarea data-field="bin_numbers_text" data-idx="' + i + '">' +
+              esc_(Array.isArray(r.bin_numbers) ? r.bin_numbers.join(' ') : '') +
+            '</textarea>';
+          receiptCardsEl.appendChild(card);
+        }
+      }
+
+      function esc_(s) {
+        return String(s || '')
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;');
+      }
+
+      function collectReceiptsFromUI() {
+        const receipts = [];
+        for (let i = 0; i < receiptCount; i++) {
+          function val(field) {
+            const el = document.querySelector('[data-field="' + field + '"][data-idx="' + i + '"]');
+            return el ? el.value : '';
+          }
+          receipts.push({
+            date_picked_up: val('date'),
+            block_parcel: val('block'),
+            variety: val('variety'),
+            full_bins: val('full_bins'),
+            partial_bins: val('partial_bins'),
+            receipt_number: val('receipt_number'),
+            grower_name: val('grower_name'),
+            remarks: val('remarks'),
+            bin_numbers_text: val('bin_numbers_text'),
+          });
+        }
+        return receipts;
+      }
+
+      function applyPreviewResult(res) {
+        if (res.warning) setStatus('err', res.warning);
+        document.getElementById('rawText').value = res.text || '';
+        const receipts = res.receipts && res.receipts.length ? res.receipts : (res.parsed ? [res.parsed] : []);
+        renderReceiptCards(receipts);
+        submitBtn.disabled = false;
+        if (!res.warning) {
+          const n = receipts.length;
+          let msg = 'Found ' + n + ' receipt' + (n === 1 ? '' : 's') + '. Review/edit fields, then save.';
+          const warnings = [];
+          for (let i = 0; i < receipts.length; i++) {
+            const r = receipts[i] || {};
+            const full = Number(r.full_bins);
+            const partial = Number(r.partial_bins);
+            const bins = Array.isArray(r.bin_numbers) ? r.bin_numbers.length : 0;
+            if (partial > 0) continue;
+            if (full > 0 && bins > 0 && full !== bins) {
+              warnings.push('Receipt ' + (i + 1) + ': ' + bins + ' bin IDs found but form says ' + full + ' full bins — double-check bin numbers.');
+            }
+          }
+          if (warnings.length) msg += '<br><br>' + warnings.join('<br>');
+          setStatus('ok', msg);
+        }
+      }
+
+      reparseBtn.addEventListener('click', function () {
+        const rawText = document.getElementById('rawText').value.trim();
+        if (!rawText) {
+          setStatus('err', 'Paste or upload OCR text first.');
+          return;
+        }
+        setStatus('loading', 'Re-parsing text…');
+        google.script.run
+          .withSuccessHandler(applyPreviewResult)
+          .withFailureHandler(function (err) {
+            setStatus('err', 'Re-parse failed: ' + (err.message || err));
+          })
+          .previewFromPastedText(rawText);
+      });
+
+      photoInput.addEventListener('change', function () {
+        selectedFile = photoInput.files[0] || null;
+        submitBtn.disabled = true;
+        document.getElementById('rawText').value = '';
+        receiptCardsEl.innerHTML = '';
+
+        if (!selectedFile) {
+          preview.style.display = 'none';
+          return;
+        }
+
+        preview.src = URL.createObjectURL(selectedFile);
+        preview.style.display = 'block';
+        setStatus('loading', 'Extracting text from image…');
+
+        readFileAsDataUrl_(selectedFile)
+          .then(function (dataUrl) {
+            const mimeType = selectedFile.type || 'image/jpeg';
+            google.script.run
+              .withSuccessHandler(applyPreviewResult)
+              .withFailureHandler(function (err) {
+                setStatus('err', 'Extraction failed: ' + (err.message || err));
+                submitBtn.disabled = false;
+              })
+              .previewOcrText(dataUrl, mimeType);
+          })
+          .catch(function (e) {
+            setStatus('err', String(e.message || e));
+            submitBtn.disabled = false;
+          });
+      });
+
+      submitBtn.addEventListener('click', async function () {
+        const rawText = document.getElementById('rawText').value.trim();
+        if (!selectedFile && !rawText) {
+          setStatus('err', 'Upload receipt photo or paste text first.');
+          return;
+        }
+
+        submitBtn.disabled = true;
+        setStatus('loading', 'Saving to sheet…');
+
+        try {
+          const dataUrl = await readFileAsDataUrl_(selectedFile);
+          const mimeType = selectedFile ? (selectedFile.type || 'image/jpeg') : '';
+          const receipts = collectReceiptsFromUI();
+          const payload = {
+            pasted_text: rawText,
+            receipts_json: JSON.stringify(receipts),
+          };
+
+          google.script.run
+            .withSuccessHandler(function (result) {
+              submitBtn.disabled = false;
+              let html = '<strong>Saved ' + (result.receiptCount || 1) + ' receipt(s).</strong><ul>';
+              const summaries = result.summaries || [];
+              for (let i = 0; i < summaries.length; i++) {
+                const s = summaries[i];
+                html += '<li>' + (s.block || '—') + ' — ' + (s.binCount || 0) + ' bins';
+                if (s.receiptNumber) html += ' (#' + s.receiptNumber + ')';
+                html += '</li>';
+              }
+              html += '</ul>';
+              if (result.warning) html += '<p><strong>Note:</strong> ' + result.warning + '</p>';
+              setStatus('ok', html);
+              if (result.warning) alert(result.warning);
+            })
+            .withFailureHandler(function (err) {
+              submitBtn.disabled = false;
+              setStatus('err', '<strong>Error:</strong> ' + (err.message || err));
+            })
+            .processReceiptEntry(payload, dataUrl, mimeType);
+        } catch (e) {
+          submitBtn.disabled = false;
+          setStatus('err', String(e.message || e));
+        }
+      });
+    </script>
+  </body>
+</html>

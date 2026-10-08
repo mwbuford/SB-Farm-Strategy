@@ -1,0 +1,5 @@
+crop_year_label,crop_year_start,crop_year_end,source,lbs_total,full_bins_sum,lbs_per_bin_used,notes
+CY2022,2021-11-01,2022-10-31,TBD,,,,,
+CY2023,2022-11-01,2023-10-31,TBD,,,,,
+CY2024,2023-11-01,2024-10-31,TBD,,,,,
+CY2025,2024-11-01,2025-10-31,TEST_HOLDOUT,,,,,shorter harvest season on ranch

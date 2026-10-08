@@ -1,0 +1,55 @@
+# Ortega Ridge / SoCal avocado yield model config
+
+project:
+  name: ortega_ridge_avocado_yield_v1
+  version: 1
+
+target:
+  grain: ranch_total
+  unit: lbs
+  crop_year_start_month: 11
+  crop_year_start_day: 1
+  crop_year_end_month: 10
+  crop_year_end_day: 31
+  # Holdout = CAC 2024-25 season
+  test_crop_year_label: CY2025
+  test_start: "2024-11-01"
+  test_end: "2025-10-31"
+  train_crop_years_end: [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+ranch:
+  name: "370 Ortega Ridge"
+  county: "Santa Barbara"
+  state: CA
+  # Approximate main-ridge location (update if you have survey GPS)
+  lat: 34.4215
+  lon: -119.5965
+  avocado_acres_est: 43.2
+  # Calibrated from grower_statements bins_received ÷ lbs_total (~median 960)
+  lbs_per_bin_default: 960
+  notes: "CY2025 harvest shorter than usual on ranch; lbs/bin from Index Fresh field bins"
+
+socal_counties:
+  - Ventura
+  - "Santa Barbara"
+  - "San Diego"
+  - Riverside
+  - "San Luis Obispo"
+
+features:
+  weather_source: open_meteo_era5_v1
+  weather_vars: [ppt, tmin, tmax, tmean, et0]
+  soil_source: ssurgo_plus_l1_l2
+  slope_source: dem_3dep
+  v1_mode: county_means_train__ranch_point_apply
+
+paths:
+  raw: data/raw
+  processed: data/processed
+  outputs: outputs
+
+nass:
+  # Free key: https://quickstats.nass.usda.gov/api
+  api_key_env: NASS_API_KEY
+  commodity: AVOCADOS
+  state_alpha: CA

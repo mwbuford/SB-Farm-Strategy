@@ -1,0 +1,6 @@
+{
+  "lbs_per_bin_median": 962.0,
+  "n_rows": 49,
+  "source": "data/raw/grower_statements.csv",
+  "note": "Index Fresh bins_received \u2248 field bins (~1000 lb), not 40 lb packing units"
+}

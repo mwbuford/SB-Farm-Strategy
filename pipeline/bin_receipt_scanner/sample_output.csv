@@ -1,0 +1,21 @@
+# bin_receipts tab (one row per receipt)
+logged_at,date_picked_up,block_parcel,variety,full_bins,partial_bins,grower_name,receipt_number,pickup_time,remarks,image_file_id,image_url,extraction_confidence,raw_json
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,15,,S.b. Farm,085878,,Reg. Pick,file_id_here,https://drive.google.com/...,high,"{...}"
+
+# bin_numbers tab (one row per bin — from the example receipt you uploaded)
+logged_at,date_picked_up,block_parcel,variety,bin_number,receipt_number,image_file_id
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,50366,085878,file_id_here
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,4217,085878,file_id_here
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,5571,085878,file_id_here
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,51028,085878,file_id_here
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,4800,085878,file_id_here
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,7984,085878,file_id_here
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,6449,085878,file_id_here
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,50225,085878,file_id_here
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,5845,085878,file_id_here
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,50909,085878,file_id_here
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,50527,085878,file_id_here
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,50811,085878,file_id_here
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,50799,085878,file_id_here
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,4649,085878,file_id_here
+2026-06-16T14:30:00,2026-06-16,L05 0505,Hass,50910,085878,file_id_here

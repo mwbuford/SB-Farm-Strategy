@@ -1,0 +1,7 @@
+crop_year_label,crop_year_start,crop_year_end,source,lbs_total,full_bins_sum,lbs_per_bin_used,season_complete,notes
+CY2021,2020-11-01,2021-10-31,BigSeed_2021_total.pdf,570716.0,630.0,905.8984126984127,True,annual total PDF; PERIOD 11/01/2020–10/31/2021; grower Big Seed Farms GR1021 (pre–SB Farm); Total Returns lbs
+CY2022,2021-11-01,2022-10-31,2022_total.pdf,272910.0,293.0,931.4334470989761,True,annual total PDF; POOL STATEMENT 2022 YTD; SB FARM LLC GR1532; TOTAL RETURNS lbs
+CY2023,2022-11-01,2023-10-31,2023_ytd_total.pdf,219069.0,235.0,932.2085106382979,True,annual total PDF confirms sheet rollup; POOL STATEMENT 2023 YTD; TOTAL RETURNS lbs
+CY2024,2023-11-01,2024-10-31,grower_statements.lbs_total,519329.0,541.0,959.9426987060998,True,14 statements; 2024-04-21→2024-07-20
+CY2025,2024-11-01,2025-10-31,grower_statements.lbs_total,185961.1,200.0,929.8055,False,9 statements; 2025-06-22→2025-07-19; TEST_HOLDOUT; shorter harvest season on ranch
+CY2026,2025-11-01,2026-10-31,grower_statements.lbs_total,346927.0,360.0,963.6861111111111,False,23 statements; 2026-05-24→2026-07-04; season in progress / may be incomplete

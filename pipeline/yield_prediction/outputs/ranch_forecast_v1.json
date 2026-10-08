@@ -1,0 +1,123 @@
+{
+  "forecast": {
+    "crop_year_label": "CY2025",
+    "ranch_name": "370 Ortega Ridge",
+    "weather_lat": 34.4215,
+    "weather_lon": -119.5965,
+    "pred_lbs_per_ac_ca_model": 7516.466670390686,
+    "ranch_acres": 43.2,
+    "pred_ranch_lbs_raw": 324711.36016087764,
+    "bias_correction": "mean_ratio",
+    "bias_factor": 1.4743925814995749,
+    "pred_ranch_lbs_corrected": 478752.0205498346,
+    "dominant_soil": "Todos_TbE2",
+    "slope_pct_mid": 22.5,
+    "notes": "CY2025 harvest shorter than usual on ranch; lbs/bin from Index Fresh field bins",
+    "ranch_actual_lbs": 185961.1,
+    "error_lbs": -292790.9205498346,
+    "error_pct": -1.5744740192966948
+  },
+  "bias_correction": {
+    "method": "mean_ratio",
+    "factor": 1.4743925814995749,
+    "offset": 0.0,
+    "n": 4,
+    "calibration_years": [
+      "CY2021",
+      "CY2022",
+      "CY2023",
+      "CY2024"
+    ],
+    "detail": [
+      {
+        "crop_year_label": "CY2021",
+        "actual_lbs": 570716.0,
+        "pred_ranch_lbs": 263610.30108211184,
+        "ratio": 2.1649988549659445
+      },
+      {
+        "crop_year_label": "CY2022",
+        "actual_lbs": 272910.0,
+        "pred_ranch_lbs": 271516.90385426366,
+        "ratio": 1.0051307897444355
+      },
+      {
+        "crop_year_label": "CY2023",
+        "actual_lbs": 219069.0,
+        "pred_ranch_lbs": 240900.9750950746,
+        "ratio": 0.9093736541063882
+      },
+      {
+        "crop_year_label": "CY2024",
+        "actual_lbs": 519329.0,
+        "pred_ranch_lbs": 285648.9844629615,
+        "ratio": 1.8180670271815318
+      }
+    ]
+  },
+  "scorecard": [
+    {
+      "crop_year_label": "CY2021",
+      "actual_lbs": 570716.0,
+      "pred_raw": 263610.30108211184,
+      "pred_corrected": 388665.07232233504,
+      "error_pct_corrected": 0.3189869001003388,
+      "is_holdout": false,
+      "used_in_bias_fit": true
+    },
+    {
+      "crop_year_label": "CY2022",
+      "actual_lbs": 272910.0,
+      "pred_raw": 271516.90385426366,
+      "pred_corrected": 400322.50879445963,
+      "error_pct_corrected": -0.4668663984260732,
+      "is_holdout": false,
+      "used_in_bias_fit": true
+    },
+    {
+      "crop_year_label": "CY2023",
+      "actual_lbs": 219069.0,
+      "pred_raw": 240900.9750950746,
+      "pred_corrected": 355182.6105561918,
+      "error_pct_corrected": -0.6213275751301728,
+      "is_holdout": false,
+      "used_in_bias_fit": true
+    },
+    {
+      "crop_year_label": "CY2024",
+      "actual_lbs": 519329.0,
+      "pred_raw": 285648.9844629615,
+      "pred_corrected": 421158.74360507773,
+      "error_pct_corrected": 0.18903287972541927,
+      "is_holdout": false,
+      "used_in_bias_fit": true
+    },
+    {
+      "crop_year_label": "CY2025",
+      "actual_lbs": 185961.1,
+      "pred_raw": 324711.36016087764,
+      "pred_corrected": 478752.0205498346,
+      "error_pct_corrected": -1.5744740192966948,
+      "is_holdout": true,
+      "used_in_bias_fit": false
+    }
+  ],
+  "static_features": [
+    {
+      "site": "370_ortega_ridge",
+      "lat": 34.4215,
+      "lon": -119.5965,
+      "elev_ft_est": 400,
+      "slope_pct_mid": 22.5,
+      "dominant_soil_series": "Todos_TbE2",
+      "pct_todos_clay_loam": 31,
+      "pct_diablo_clay": 55,
+      "runoff_class": "medium",
+      "erosion_hazard": "moderate",
+      "rooting_depth_in_min": 40,
+      "permeability_class": "low_moderate",
+      "source": "L1_L2_7th_gen_design"
+    }
+  ],
+  "lbs_per_bin_note": "See data/processed/lbs_per_bin_calibration.json (~960 lb field bins)"
+}

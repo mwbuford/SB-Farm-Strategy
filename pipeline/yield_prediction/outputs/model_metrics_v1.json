@@ -1,0 +1,71 @@
+{
+  "target": "avg_lbs_per_bearing_acre",
+  "n_train": 15,
+  "feature_count": 25,
+  "features": [
+    "et0_annual_mm",
+    "et0_early_fall_mm",
+    "et0_fall_winter_mm",
+    "et0_late_winter_mm",
+    "et0_spring_mm",
+    "et0_summer_mm",
+    "ppt_annual_mm",
+    "ppt_early_fall_mm",
+    "ppt_fall_winter_mm",
+    "ppt_late_winter_mm",
+    "ppt_spring_mm",
+    "ppt_summer_mm",
+    "spring_heat_days",
+    "tmax_early_fall_c",
+    "tmax_fall_winter_c",
+    "tmax_late_winter_c",
+    "tmax_spring_c",
+    "tmax_summer_c",
+    "tmean_annual_c",
+    "tmean_early_fall_c",
+    "tmean_fall_winter_c",
+    "tmean_late_winter_c",
+    "tmean_spring_c",
+    "tmean_summer_c",
+    "winter_chill_proxy"
+  ],
+  "train_mae": 762.902852214334,
+  "train_mape": 0.11990785511393626,
+  "train_r2": 0.6433751716058257,
+  "cv_folds": [
+    {
+      "mae": 310.29916290856954,
+      "mape": 0.05652730374897617,
+      "within_20pct": 1.0
+    },
+    {
+      "mae": 993.5625549797041,
+      "mape": 0.15332459208912322,
+      "within_20pct": 0.5
+    },
+    {
+      "mae": 3013.4897675210264,
+      "mape": 0.41573655025099193,
+      "within_20pct": 0.0
+    },
+    {
+      "mae": 1976.7620502597701,
+      "mape": 0.3419542724103011,
+      "within_20pct": 0.0
+    },
+    {
+      "mae": 2695.3082894534327,
+      "mape": 0.4595323729185958,
+      "within_20pct": 0.0
+    }
+  ],
+  "cv_mae_mean": 1797.8843650245005,
+  "cv_mape_mean": 0.2854150182835976,
+  "cv_within_20pct_mean": 0.3,
+  "holdout_crop_year": "CY2025",
+  "holdout_actual_lbs_ac": 6612.0,
+  "holdout_pred_lbs_ac": 7516.466670390685,
+  "holdout_mae": 904.4666703906851,
+  "holdout_mape": 0.13679169243658273,
+  "holdout_within_20pct": 1.0
+}

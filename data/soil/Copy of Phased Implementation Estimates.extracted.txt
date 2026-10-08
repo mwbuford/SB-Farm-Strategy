@@ -1,0 +1,177 @@
+370 Ortega Ridge Road
+Phased Implementation Estimates
+Phased Implementation Plans
+The whole property water and access retrofit has been divided up into three phases for the purposes of cost estimation. Phase 1 is what we would like to have in place prior to the ‘22-’23 winter rains. Phase 2 is all about the West Knoll and includes everything in and west of the West Valley Drainage. Phase 3 is “Hydration Optimization” for the Main Ridge, and includes some of the smaller earthworks and geological armoring elements with much more extensive revegetation efforts. 
+Phase 1 - Main Ridge Retrofit
+Phase 1 consists of the “backbone” passive water harvesting elements and road retrofits to 1) halt the severe erosion occurring on the east side of the main ridge and 2) initiate rehydration, soil building and revegetation of the Main Ridge and 3) increase the retention and transit time of water on-site by patterning it all the way to the crest of the Main Ridge south of the proposed future barn site. Below are the relevant implementation estimate numbers:
+Planning, Oversight & Labor
+Estimated Implementation Hours: 880*
+Estimated Labor Cost (assuming 7GD’s  handpicked crew): $71,000
+Materials
+Estimated Material Cost: $38,400 (straw bales, roadbase, rock)
+Estimated Cover Crop Cost: $1,500 
+Machinery Rentals
+Estimated Machine Hours: 243
+Estimated Machine Rental Cost + Fuel: $15,400
+Travel, Lodging & M&IE
+Estimated Travel Costs, Lodging, M&IE: $19,088
+TOTAL Estimated Phase 1 Implementation Cost: $145,400
+* Implementation would likely take place in two blocks. The first available large install block we are aiming for is Mon 8/15 - Fri 8/26. Pending availability of the crews, implementation could continue the following week, or another partial week would be scheduled after a few weeks pause.
+Elements List
+See the Phase 1 Elements List spreadsheet.
+Phase 1 Elements Map: 370ORR_Proposed_Water_Harvesting_and_Drainage_System_Phase_1_24in (1).jpeg
+Assumptions, Variables & Options
+“Chilean” Avo Block
+The berms are not sufficient for impounding water on the northernmost ends - however once into the block a good 60-80’ the berms are consistent and well formed for this purpose. The ends have suffered some erosion damage because the block does slope downhill towards the north end and water has been discharging there.
+Proposed swale segments to be surveyed in-situ, pending final discharge location of S-ER-L.2. into S-ER-L.
+S-ER-L is the most critical to extend water all the way to the ridge crest, and this should be the priority. Once this swale complex is in, it will determine the best locations for rundowns and other swales amid lower rows.
+The labor for this block is a large line item, and assumes complete swaling of every single row - this will not actually be the case but has been left as-is in the estimate. This can be dialed back if we are going long on hours to just S-ER-L or a couple additional rows instead of all five rows.
+CLVRT S-ER-H.1/H.3
+This culvert has to work around the irrigation main line - a 4” PVC pipe buried 32” below the road surface and 48” in from the east side of the roadway where the current saddle blowout is leading to the Erosion Gully E2.
+Best option here is to dig the culvert pipe down (pending final diameter - likely 12”) to a depth well above the irrigation main, then add additional fill on top of the culvert footprint to create a road hump if necessary. This hump will help to divert inbound flow from the southeast and the northwest that has collected on the Main Ridge Road and move it off the roadway into armored drains leading to S-ER-H.1 or S-ER-H.3 on either side.
+Tree Removal Count (approximate)
+Totals: ~ 382 lemons, ~ 200’ of passion fruit trellis (inside fenced areas - will need to cut fence to get machine in), ~ 7 larger avo trees (will need chainsaw to bring down, can be moved to central using skip loader or mulched in place if the forest mulcher can handle it).
+Use Forestry Mulcher attachment with a skidsteer for this work.
+This will keep roots in the ground, keep mulch right where it is most needed and eliminate the need to haul trees to central location, hire a chipping crew later etc.
+Phase 2 - West Knoll
+The West Knoll includes all elements within and west of the West Valley Drainage, including terrace installation on the barren hillside. 
+Planning, Oversight & Labor
+Estimated Implementation Hours: 335
+Estimated Labor Cost (assuming 7GD’s  handpicked crew): $29,000
+Materials
+Estimated Material Cost: $11,500
+Estimated Cover Crop Cost:  $1,200
+Machinery Rentals
+Estimated Machine Hours: 150
+Estimated Machine Rental Cost + Fuel: $10,700
+Travel, Lodging & M&IE
+Estimated Travel Costs, Lodging, M&IE: Uncalculated at this time.
+TOTAL Phase 2 Implementation Cost (not including Travel, Lodging, M&IE): $52,400
+Elements List
+See the Phase 2 Elements List Spreadsheet.
+Assumptions, Variables & Options
+West Knoll Terracing
+The terraces could be more numerous and narrower pending the ultimate design goals for this area - perhaps fashioned similarly to the “Chilean Avocado Block” on the Main Ridge crest near the future horse barn site.
+Lemon Tree Removal Count (approximate)
+Totals: ~105 lemon trees
+Use Forestry Mulcher attachment with a skidsteer for this work.
+Phase 3 - Hydration Optimization
+Phase 3 includes the remaining passive water harvesting and revegetation elements specified in the site-wide water and access retrofit plan. This phase includes some of the smaller earthworks elements, in particular the ones that capture water lower in the system in smaller volumes, as well as additional road drainage elements and numerous water harvesting earthworks that will improve on-site habitat.
+Planning, Oversight & Labor
+Estimated Implementation Hours: 1,210
+Estimated Labor Cost (assuming 7GD’s  handpicked crew): $99,000
+Materials
+Estimated Material Cost: $53,000
+Estimated Cover Crop Cost:  $7,300
+Machinery Rentals
+Estimated Machine Hours: 290
+Estimated Machine Rental Cost + Fuel: $18,100
+Travel, Lodging & M&IE
+Estimated Travel Costs, Lodging, M&IE: Uncalculated at this time.
+TOTAL Phase 2 Implementation Cost (not including Travel, Lodging, M&IE): $177,400
+Elements List
+See the Phase 3 Elements List Spreadsheet.
+Assumptions, Variables & Options
+S-ER-T.1
+Proposed using this lower section of ER-14.2 as a roadswale with consistent 1% or less grade sloping towards S-ER-T at the bottom of the property. This would make the road only seasonally passable - check if this is OK with management crew. If NOT, install necessary cross drains and dissipation structures to discharge water from the road surface to the creekline.
+Lemon Tree Removal Count (approximate)
+Totals: ~ 76
+Use Forestry Mulcher attachment with a skidsteer for this work.
+Map Legend
+Road Designations
+WPR = West Perimeter Road
+WKR = West Knoll Road
+WVR = West Valley Road
+WR = West Road
+MRR = Main Ridge Road
+ER = East Road
+SPR = South Perimeter Road
+Element Acronyms
+AD = Armored Drain
+BAB = Biologically-Armored Bank
+BD = Belt Drain
+Bioswale = Bioswale: permeable bottom infiltration basin, located at existing wet/seep points to improve biofiltration of irrigation seepage run-off
+BP = Berm Penetration
+GAR = Geologically-Armored Rundown
+CLVRT = Culvert
+COB = Clean-Out Box
+DRNPIP = Drain Pipe (buried)
+EDP = Energy Dissipation Pool
+IB = Infiltration Basin
+ML = Media Luna
+ORD = One-Rock Dam
+RD = Rolling Dip
+RH = Road Hump
+S = Swale
+Spill = Level-Sill Spillway
+ZB = Zuni Bowl
+Plan Images
+Existing Water Catchments and Flow Patterning into East Side Gullies
+Proposed Whole-Site Water & Access Retrofits
+Updated Catchments & Flow Patterns Based On Proposed Earthworks
+Phase 1 Elements Map: 370ORR_Proposed_Water_Harvesting_and_Drainage_System_Phase_1_24in (1).jpeg
+Resource Download Links:
+A Good Road Lies Easy On The Land - Bill Zeedyk
+Environmentally Sensitive Road Maintenance Practices For Dirt And Gravel Roads
+Erosion Control & Restoration Treatments in Drylands - Ecology Artisans
+Download the 370ORR QGIS Map Package 
+General Element Specifications
+AD (Armored Drain)
+Function: non-erosive movement of concentrated water flows across steep terrain / fragile soils to more stable (lower energy) locations.
+Description: Generally 3-4’ wide and as long as is necessary to transit the steep section. Made from 4-12” stones, knitted together in a “dragonscale” style and built from the low point (discharge) towards the high point (entry) such that all stones key into the stones below them. Stones should be knit tightly enough that the drain can be walked down and up without stones displacing (“gravity glued” together).  Earth should be shaped first, stone-knitting follows once the earth is properly shaped. The center of the drain should be slightly “dished” to have a lower elevation than the edges. Anchor edges with larger stones. Bottom of the drain should end with either an appropriate flow-spreading level-sill lip (like a Media Luna) or should empty into an appropriately sized Energy Dissipation Pool to de-energize water upon discharge.
+BAB (Biologically-Armored Bank)
+Function: To cover bare soil with (ideally) living root systems, to increase shade at soil surface, decrease soil surface temperatures, protect soil from impact erosion and sheet flow erosion.
+Description: Areas highlighted in green and labeled starting with BAB- are to be seeded with the listed seed mix, raked, straw-mulched, and potentially netted with jute netting if on a steep slope where straw-mulch will not remain in place.
+BD (Belt Drain)
+Function: To transition water off of a road surface in locations where the road is relatively low-traffic. 
+Description: Good for locations where the road grade is too steep for a Rolling Dip but a longer-lasting, lower-maintenance drainage option is desired when compared to installing water bars. Uses an old industrial conveyor belt bolted to a treated 2x6 wood frame sunk into a trench crossing the road at the appropriate angle to create a “pop-up” drain that can be driven over without impairing its function.
+Installation: See Environmentally Road Maintenance Practices For Dirt And Gravel Roads - pgs. 41-45
+GAR (Geologically-Armored Rundown)
+Function: To protect soil from erosion from fast moving water at a focused discharge / flow point. To transition water non-erosively from one grade to another lower grade.
+Description: Will be used is certain places to cross roads or transition steep sections of slope until flatter areas can be reached. Rundowns are built from the bottom up, with a buried splash apron on top of which the armoring layers are keyed-in and knitted together. The middle of the rundown should be slightly dished, and the shoulders should be anchored with larger stones where drive-through access is not required. Rundown should be underseeded prior to stonework with general erosion control seed mix.
+See pages 32-33 in Erosion Control & Restoration Treatments in Drylands - Ecology Artisans.
+CLVRT (Culvert)
+Function: To transfer water non-erosively underneath an access path/route.
+Description: Culverts will be used in certain high-traffic locations to link certain swale bodies and to transition water across roadways during low-intensity discharge events. Culverts should have a slightly steeper grade than the inbound collection grade to be self-cleaning. Discharge at culvert end should be armored to properly dissipate flow energy with Energy Dissipation Pool, Zuni Bowl, or other appropriately armored structured. Exit sill from the energy dissipating armored structure should be below the bottom of the culvert pipe to maintain self-cleaning functionality.
+See page 23 for more on culverts in A Good Road Lies Easy On The Land - Bill Zeedyk
+DRNPIP (Drain Pipe)
+Function: To convey water underground from a collection point to a discharge point.
+Description: Most installations of drain pipe will utilize 4” corrugated flexible drain pipe. Where pipes penetrate a swale berm they will need to be fitted with collars. Ends that will have “monks” - manually-adjustable elbows that set water level within the impounding structure - will be made from PVC.
+EDP (Energy Dissipation Pool)
+Function: To create a pool of standing water during a high-energy discharge event from some point source (pipe outlet, culvert, armored drain, rolling dip etc). Standing water is the most effective tool to de-energize moving water. Exit sill should be lower than input to ensure self-cleaning of the input source (especially with pipes and culverts).
+Description: Large stones (~ 6-12+ inches) used to anchor and form the EDP. Sill should be leaky. Very similar to Zuni Bowls in construction and form.
+IB (Infiltration Basin)
+Function: An impounding body to hold surge flows during high-run-off events to allow more time for infiltration.
+Description: Basically an oddly-shaped swale ditch.
+ML (Media Luna)
+Function: A curvilinear rock formation used to either concentrate flows (“tips down”) to decrease rill formation before entering a steeper transit, or to spread concentrated flows upon exiting a steep transit and transitioning to flatter terrain (“tips up”).
+Description: Survey and mark the appropriate line in the landscape, then key in a splash apron of large rocks. Knit in additional rock layers on top of this apron to ensure non-erosive discharge when water passes through the media luna. The Media luna should be level on top to ensure even water spreading or concentration, depending on its orientation. Should be underseeded with erosion control mix, and overseeded lightly once completed.
+Installation: see pages 21-23 of Erosion Control & Restoration Treatments in Drylands - Ecology Artisans.
+ORD (One-Rock Dam)
+Function: Used to slow and disperse channelized flows in shallow-grade scenarios. Function to built up silt deposits on upstream side, which improve moisture retention, flow pacification and vegetation recruitment. Good for gradually raising the height of incised streambeds or waterways over time.
+Description: One rock high, as wide as the channel. Edges need to be keyed into the channel edges (and go up the wall slightly). Should start with a dug-in splash apron of stones buried even with the channel bottom. Then stones should be knitted started at the apron working upstream, generally ~3-4’.
+Installation: See pgs. 27-29 of Erosion Control & Restoration Treatments in Drylands - Ecology Artisans.
+RD (Rolling Dip)
+Function: To transition water across a road surface while permitting higher-speed vehicle traffic.
+Description: Low maintenance structures consisting of a negative grade “roll in” and a positive grade “roll out”. The “drip drain” that crosses the roadway is wide and shallow, and generally has a cross-road grade of 5-8% and crosses the roadway at approximately ~ 50-60 degree angle. Rolling Dips are suitable where road grades at between 3-15%. Can be built from existing road material or be created with added material. Should be compacted upon completion and be “armored” with a material less-erosive than the native soil media of which the road may be comprised. Total dip length is a function of existing road grade and total length and clearance of the vehicles the road needs to accommodate.
+Installation: see pages 34-37 in Erosion Control & Restoration Treatments in Drylands - Ecology Artisans and pgs. 17-20 in A Good Road Lies Easy On The Land - Bill Zeedyk.
+RH (Road Hump)
+Function: To reverse the grade of the road course over a brief section in order to discharge water from the road surface at a minimum interval.
+Description: Road humps will be graded using native material, no road base. Should be broad and shallow (only 2-4” in height) just enough to prevent any water that should become trapped on the road surface from continuing down the road and accumulating to potentially damaging volumes. Roads should be outsloped on each side of the road hump assuming downhill areas are suitable for accepting surface run-off.
+S (Swale)
+Function: To impound sheet-flow run-off or point-source concentrated run-off and allow that water a chance to sink in.
+Description: Swales for this project will generally have a ~2’ wide bottom, a 12-14” depth to the level sill, and ~ 12” of freeboard between the finished sill height (including geological armoring) and the top of the swale berm. Swale bottoms and berms to be seeded with the Swale Bottom & Berm cover crop mix and mulched.
+Spill (Level-Sill Spillway)
+Function: To discharge water from a swale or other impounding body over a broad area in a non-erosive fashion.
+Description: Given the nature of the fine soils at 370ORR all level-sill spillways are to be armored with 4-6” gabion rock knitted together. Use excavator bucket to initially compact and level the spillway, then finish leveling with flat shovels and laser. Make sure to account for the approximate depth of the stone armoring as this will contribute to determining the water-holding depth of the swale. Before armoring begins the spillway should be seeded with the S&S Seeds Basic Native Erosion Control mix. Rock armoring should start at the bottom and work up, beginning with an appropriately formed Media Luna-style lip to further spread spillway discharge and to disrupt any channelized flow that may have resulted over the top of the spillway.
+ZB (Zuni Bowl)
+Function: Geological armoring structure to stop the up-valley progression of a headcut and de-energize erosive flows.
+Description: See pgs. 57-60 in Erosion Control & Restoration Treatments in Drylands - Ecology Artisans.
+People
+7th Generation Design (Wes and Casey)
+on-the-ground management and oversight, design updates, heavy equipment operation, and everything else
+Local
+Grounded Landworks - our friend and colleague Riley Kriebel’s local regenerative landscape contracting business. 7th Generation Design has hired Riley to help on some of our large scale installs before and we think very highly of his knowledge and skill set. He and his crew design and install water-retentive, climate-appropriate landscapes in and around Santa Barbara. Riley is also very well-versed in native reforestation, and is one of the high-level local guys that we would like to connect with Sarah and Jonathan as a local resource. Grounded Landworks also offers ongoing maintenance contracts as a service, which could be very valuable at 370ORR given the scale and scope of the work proposed. He has four full-time employees local to SB, and has contacts within different labor pools (specialized and basic) should additional labor need to be brought in.
+Riley has also offered to add 7GD as additional insured on his Certificate of Liability Insurance if that is desired given that we (7GD) are not licensed contractors.
+Out of Town
+Precision Land Care - Cory Shallow and Joe Sullivan run this landscaping outfit down in Temecula, CA. We have hired Cory to help us on a past broad-acre earthworks installation, and he has run EcoCulture Farm at his family’s property for the past 4 years. Both are savvy equipment operators and understand passive water retention earthworks. They have a lot of experience with vegetation removal work, and would be taking point on tree removal to prep the earthworking lines.

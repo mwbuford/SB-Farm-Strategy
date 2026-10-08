@@ -1,0 +1,749 @@
+imported_at,date,year,product,variant,channel,quantity,unit,revenue,price_per_unit,source_sheet
+2026-07-29 10:25:46,2022-08-04,2022,Passionfruit,Passionfruit,Unknown,30.0,lb,90.0,3.0,2022
+2026-07-29 10:25:46,2022-08-04,2022,Passionfruit,Passionfruit,Unknown,15.0,lb,30.0,2.0,2022
+2026-07-29 10:25:46,2022-08-12,2022,Passionfruit,Passionfruit,Unknown,84.0,lb,252.0,3.0,2022
+2026-07-29 10:25:46,2022-08-12,2022,Passionfruit,Passionfruit,Unknown,71.0,lb,142.0,2.0,2022
+2026-07-29 10:25:46,2022-08-12,2022,Passionfruit,Passionfruit,Unknown,20.0,lb,20.0,1.0,2022
+2026-07-29 10:25:46,2022-08-13,2022,Passionfruit,Passionfruit,Unknown,60.0,lb,180.0,3.0,2022
+2026-07-29 10:25:46,2022-08-13,2022,Passionfruit,Passionfruit,Unknown,12.0,lb,12.0,1.0,2022
+2026-07-29 10:25:46,2022-08-19,2022,Dragonfruit,Dragonfruit,Unknown,37.0,lb,111.0,3.0,2022
+2026-07-29 10:25:46,2022-08-19,2022,Dragonfruit,Dragonfruit,Unknown,18.0,lb,36.0,2.0,2022
+2026-07-29 10:25:46,2022-08-19,2022,Melon,Melon,Unknown,20.0,lb,40.0,2.0,2022
+2026-07-29 10:25:46,2022-08-19,2022,Passionfruit,Passionfruit,Unknown,175.0,lb,525.0,3.0,2022
+2026-07-29 10:25:46,2022-08-19,2022,Passionfruit,Passionfruit,Unknown,54.0,lb,108.0,2.0,2022
+2026-07-29 10:25:46,2022-08-19,2022,Passionfruit,Passionfruit,Unknown,46.0,lb,46.0,1.0,2022
+2026-07-29 10:25:46,2022-08-26,2022,Dragonfruit,Dragonfruit,Unknown,19.0,lb,57.0,3.0,2022
+2026-07-29 10:25:46,2022-08-26,2022,Dragonfruit,Dragonfruit,Unknown,15.0,lb,30.0,2.0,2022
+2026-07-29 10:25:46,2022-08-26,2022,Passionfruit,Passionfruit,Unknown,296.0,lb,888.0,3.0,2022
+2026-07-29 10:25:46,2022-08-26,2022,Passionfruit,Passionfruit,Unknown,63.0,lb,126.0,2.0,2022
+2026-07-29 10:25:46,2022-08-26,2022,Passionfruit,Passionfruit,Unknown,63.0,lb,63.0,1.0,2022
+2026-07-29 10:25:46,2022-09-02,2022,Chiles,Chiles,Unknown,16.0,lb,32.0,2.0,2022
+2026-07-29 10:25:46,2022-09-02,2022,Mix,Mix,Unknown,21.0,lb,52.5,2.5,2022
+2026-07-29 10:25:46,2022-09-02,2022,Passionfruit,Passionfruit,Unknown,416.0,lb,1248.0,3.0,2022
+2026-07-29 10:25:46,2022-09-02,2022,Passionfruit,Passionfruit,Unknown,48.0,lb,96.0,2.0,2022
+2026-07-29 10:25:46,2022-09-02,2022,Passionfruit,Passionfruit,Unknown,88.0,lb,88.0,1.0,2022
+2026-07-29 10:25:46,2022-09-06,2022,Passionfruit,Passionfruit,Unknown,500.0,lb,1125.0,2.25,2022
+2026-07-29 10:25:46,2022-09-09,2022,Passionfruit,Passionfruit,Vítor,125.0,lb,125.0,1.0,2022
+2026-07-29 10:25:46,2022-09-09,2022,Chiles,Chiles,Unknown,24.0,lb,48.0,2.0,2022
+2026-07-29 10:25:46,2022-09-09,2022,Dragonfruit,Dragonfruit,Unknown,57.0,lb,171.0,3.0,2022
+2026-07-29 10:25:46,2022-09-09,2022,Dragonfruit,Dragonfruit,Unknown,23.0,lb,46.0,2.0,2022
+2026-07-29 10:25:46,2022-09-09,2022,Passionfruit,Passionfruit,Unknown,461.0,lb,1383.0,3.0,2022
+2026-07-29 10:25:46,2022-09-09,2022,Passionfruit,Passionfruit,Unknown,137.0,lb,274.0,2.0,2022
+2026-07-29 10:25:46,2022-09-14,2022,Passionfruit,Passionfruit,Vitor,250.0,lb,562.5,2.25,2022
+2026-07-29 10:25:46,2022-09-14,2022,Passionfruit,Passionfruit,Vitor,50.0,lb,50.0,1.0,2022
+2026-07-29 10:25:46,2022-09-17,2022,Chiles,Chiles,Cesillo,54.0,lb,108.0,2.0,2022
+2026-07-29 10:25:46,2022-09-17,2022,Dragonfruit,Dragonfruit,Cesillo,95.0,lb,285.0,3.0,2022
+2026-07-29 10:25:46,2022-09-17,2022,Dragonfruit,Dragonfruit,Cesillo,39.0,lb,78.0,2.0,2022
+2026-07-29 10:25:46,2022-09-17,2022,Passionfruit,Passionfruit,Cesillo,491.0,lb,1473.0,3.0,2022
+2026-07-29 10:25:46,2022-09-17,2022,Passionfruit,Passionfruit,Cesillo,42.0,lb,84.0,2.0,2022
+2026-07-29 10:25:46,2022-09-17,2022,Chiles,Chiles,Jesus,30.0,lb,60.0,2.0,2022
+2026-07-29 10:25:46,2022-09-17,2022,Dragonfruit,Dragonfruit,Jesus,30.0,lb,90.0,3.0,2022
+2026-07-29 10:25:46,2022-09-17,2022,Dragonfruit,Dragonfruit,Jesus,30.0,lb,60.0,2.0,2022
+2026-07-29 10:25:46,2022-09-17,2022,Passionfruit,Passionfruit,Jesus,25.0,lb,75.0,3.0,2022
+2026-07-29 10:25:46,2022-09-17,2022,Passionfruit,Passionfruit,Jesus,25.0,lb,50.0,2.0,2022
+2026-07-29 10:25:46,2022-09-17,2022,Passionfruit,Passionfruit,Vitor,100.0,lb,100.0,1.0,2022
+2026-07-29 10:25:46,2022-09-20,2022,Passionfruit,Passionfruit,Cesillo,250.0,lb,750.0,3.0,2022
+2026-07-29 10:25:46,2022-09-20,2022,Passionfruit,Passionfruit,Cesillo,25.0,lb,50.0,2.0,2022
+2026-07-29 10:25:46,2022-09-21,2022,Passionfruit,Passionfruit,Vítor,300.0,lb,675.0,2.25,2022
+2026-07-29 10:25:46,2022-09-21,2022,Passionfruit,Passionfruit,Vítor,75.0,lb,75.0,1.0,2022
+2026-07-29 10:25:46,2022-09-23,2022,Chiles,Chiles,Cesillo,88.0,lb,176.0,2.0,2022
+2026-07-29 10:25:46,2022-09-23,2022,Dragonfruit,Dragonfruit,Cesillo,38.0,lb,76.0,2.0,2022
+2026-07-29 10:25:46,2022-09-23,2022,Passionfruit,Passionfruit,Cesillo,300.0,lb,900.0,3.0,2022
+2026-07-29 10:25:46,2022-09-23,2022,Passionfruit,Passionfruit,Cesillo,25.0,lb,50.0,2.0,2022
+2026-07-29 10:25:46,2022-09-23,2022,Passionfruit,Passionfruit,Cesillo,50.0,lb,50.0,1.0,2022
+2026-07-29 10:25:46,2022-09-23,2022,Other,Pepi,Cesillo,19.0,lb,19.0,1.0,2022
+2026-07-29 10:25:46,2022-09-23,2022,Other,Pepi,Cesillo,47.0,lb,94.0,2.0,2022
+2026-07-29 10:25:46,2022-09-23,2022,Chiles,Chiles,Jesus,60.0,lb,120.0,2.0,2022
+2026-07-29 10:25:46,2022-09-23,2022,Dragonfruit,Dragonfruit,Jesus,60.0,lb,180.0,3.0,2022
+2026-07-29 10:25:46,2022-09-23,2022,Dragonfruit,Dragonfruit,Jesus,33.0,lb,66.0,2.0,2022
+2026-07-29 10:25:46,2022-09-23,2022,Passionfruit,Passionfruit,Jesus,25.0,lb,50.0,2.0,2022
+2026-07-29 10:25:46,2022-09-27,2022,Passionfruit,Passionfruit,Unknown,300.0,lb,900.0,3.0,2022
+2026-07-29 10:25:46,2022-09-27,2022,Passionfruit,Passionfruit,Unknown,150.0,lb,300.0,2.0,2022
+2026-07-29 10:25:46,2022-09-27,2022,Passionfruit,Passionfruit,Unknown,25.0,lb,25.0,1.0,2022
+2026-07-29 10:25:46,2022-09-28,2022,Passionfruit,Passionfruit,Unknown,300.0,lb,675.0,2.25,2022
+2026-07-29 10:25:46,2022-09-28,2022,Passionfruit,Passionfruit,Unknown,25.0,lb,37.5,1.5,2022
+2026-07-29 10:25:46,2022-09-28,2022,Passionfruit,Passionfruit,Unknown,75.0,lb,75.0,1.0,2022
+2026-07-29 10:25:46,2022-10-05,2022,Passionfruit,Passionfruit,Unknown,300.0,lb,675.0,2.25,2022
+2026-07-29 10:25:46,2022-10-05,2022,Passionfruit,Passionfruit,Unknown,75.0,lb,75.0,1.0,2022
+2026-07-29 10:25:46,2022-10-07,2022,Chiles,Chiles,Cesillo,37.0,lb,92.5,2.5,2022
+2026-07-29 10:25:46,2022-10-07,2022,Chiles,Chiles,Cesillo,26.0,lb,39.0,1.5,2022
+2026-07-29 10:25:46,2022-10-07,2022,Chiles,Chiles,Cesillo,88.0,lb,176.0,2.0,2022
+2026-07-29 10:25:46,2022-10-07,2022,Dragonfruit,Dragonfruit,Cesillo,55.0,lb,110.0,2.0,2022
+2026-07-29 10:25:46,2022-10-07,2022,Passionfruit,Passionfruit,Cesillo,348.0,lb,1044.0,3.0,2022
+2026-07-29 10:25:46,2022-10-07,2022,Passionfruit,Passionfruit,Cesillo,50.0,lb,50.0,1.0,2022
+2026-07-29 10:25:46,2022-10-07,2022,Chiles,Chiles,Jesus,65.0,lb,130.0,2.0,2022
+2026-07-29 10:25:46,2022-10-07,2022,Dragonfruit,Dragonfruit,Jesus,56.0,lb,112.0,2.0,2022
+2026-07-29 10:25:46,2022-10-07,2022,Passionfruit,Passionfruit,Jesus,25.0,lb,75.0,3.0,2022
+2026-07-29 10:25:46,2022-10-07,2022,Passionfruit,Passionfruit,Jesus,25.0,lb,50.0,2.0,2022
+2026-07-29 10:25:46,2022-10-10,2022,Passionfruit,Passionfruit,Cesar,300.0,lb,900.0,3.0,2022
+2026-07-29 10:25:46,2022-10-11,2022,Passionfruit,Passionfruit,Cesillo,250.0,lb,750.0,3.0,2022
+2026-07-29 10:25:46,2022-10-11,2022,Passionfruit,Passionfruit,Vitor,75.0,lb,168.75,2.25,2022
+2026-07-29 10:25:46,2022-10-11,2022,Passionfruit,Passionfruit,Vitor,50.0,lb,75.0,1.5,2022
+2026-07-29 10:25:46,2022-10-11,2022,Passionfruit,Passionfruit,Vitor,125.0,lb,125.0,1.0,2022
+2026-07-29 10:25:46,2022-10-12,2022,Passionfruit,Passionfruit,Vitor,132.0,lb,297.0,2.25,2022
+2026-07-29 10:25:46,2022-10-12,2022,Passionfruit,Passionfruit,Vitor,42.0,lb,42.0,1.0,2022
+2026-07-29 10:25:46,2022-10-14,2022,Passionfruit,Passionfruit,?,125.0,lb,375.0,3.0,2022
+2026-07-29 10:25:46,2022-10-14,2022,Passionfruit,Passionfruit,?,25.0,lb,25.0,1.0,2022
+2026-07-29 10:25:46,2022-10-14,2022,Chiles,Chile,Cesillo,110.0,lb,220.0,2.0,2022
+2026-07-29 10:25:46,2022-10-14,2022,Dragonfruit,Dragonfruit,Cesillo,20.0,lb,40.0,2.0,2022
+2026-07-29 10:25:46,2022-10-14,2022,Passionfruit,Passionfruit,Cesillo,350.0,lb,1050.0,3.0,2022
+2026-07-29 10:25:46,2022-10-14,2022,Passionfruit,Passionfruit,Cesillo,64.0,lb,128.0,2.0,2022
+2026-07-29 10:25:46,2022-10-14,2022,Passionfruit,Passionfruit,Cesillo,75.0,lb,75.0,1.0,2022
+2026-07-29 10:25:46,2022-10-14,2022,Other,Peo,Cesillo,48.0,lb,120.0,2.5,2022
+2026-07-29 10:25:46,2022-10-14,2022,Other,Peo,Cesillo,27.0,lb,40.5,1.5,2022
+2026-07-29 10:25:46,2022-10-18,2022,Passionfruit,Passionfruit,Cesar,400.0,lb,1200.0,3.0,2022
+2026-07-29 10:25:46,2022-10-18,2022,Passionfruit,Passionfruit,Cesillo,250.0,lb,750.0,3.0,2022
+2026-07-29 10:25:46,2022-10-18,2022,Passionfruit,Passionfruit,Vitor,200.0,lb,200.0,1.0,2022
+2026-07-29 10:25:46,2022-10-19,2022,Passionfruit,Passionfruit,Vitor,250.0,lb,625.0,2.5,2022
+2026-07-29 10:25:46,2022-10-19,2022,Passionfruit,Passionfruit,Vitor,25.0,lb,37.5,1.5,2022
+2026-07-29 10:25:46,2022-10-19,2022,Passionfruit,Passionfruit,Vitor,50.0,lb,50.0,1.0,2022
+2026-07-29 10:25:46,2022-10-21,2022,Passionfruit,Passionfruit,Cesar,200.0,lb,600.0,3.0,2022
+2026-07-29 10:25:46,2022-10-21,2022,Passionfruit,Passionfruit,Cesillo,375.0,lb,1125.0,3.0,2022
+2026-07-29 10:25:46,2022-10-21,2022,Passionfruit,Passionfruit,Jose,250.0,lb,750.0,3.0,2022
+2026-07-29 10:25:46,2022-10-21,2022,Mix,Mix,Vitor,575.0,lb,862.5,1.5,2022
+2026-07-29 10:25:46,2022-10-21,2022,Passionfruit,Passionfruit,Vitor,200.0,lb,200.0,1.0,2022
+2026-07-29 10:25:46,2022-10-21,2022,Passionfruit,Passionfruit,Vitor,47.0,lb,70.5,1.5,2022
+2026-07-29 10:25:46,2022-10-24,2022,Passionfruit,Passionfruit,Cesar,420.0,lb,1260.0,3.0,2022
+2026-07-29 10:25:46,2022-10-24,2022,Passionfruit,Passionfruit,Cesar,180.0,lb,180.0,1.0,2022
+2026-07-29 10:25:46,2022-10-26,2022,Passionfruit,Passionfruit,Cesillo,200.0,lb,600.0,3.0,2022
+2026-07-29 10:25:46,2022-10-26,2022,Chiles,Chiles,Jesus,55.0,lb,110.0,2.0,2022
+2026-07-29 10:25:46,2022-10-26,2022,Dragonfruit,Dragonfruit,Jesus,11.0,lb,33.0,3.0,2022
+2026-07-29 10:25:46,2022-10-26,2022,Dragonfruit,Dragonfruit,Jesus,5.0,lb,10.0,2.0,2022
+2026-07-29 10:25:46,2022-10-26,2022,Passionfruit,Passionfruit,Jesus,50.0,lb,100.0,2.0,2022
+2026-07-29 10:25:46,2022-10-27,2022,Passionfruit,Passionfruit,Cesar,100.0,lb,300.0,3.0,2022
+2026-07-29 10:25:46,2022-10-27,2022,Passionfruit,Passionfruit,Cesar,160.0,lb,320.0,2.0,2022
+2026-07-29 10:25:46,2022-10-27,2022,Passionfruit,Passionfruit,Vitor,60.0,lb,90.0,1.5,2022
+2026-07-29 10:25:46,2022-10-27,2022,Passionfruit,Passionfruit,Vitor,100.0,lb,100.0,1.0,2022
+2026-07-29 10:25:46,2022-10-27,2022,Passionfruit,Green Passion,Vitor,40.0,lb,60.0,1.5,2022
+2026-07-29 10:25:46,2022-11-02,2022,Passionfruit,Passionfruit,vitor,26.0,lb,65.0,2.5,2022
+2026-07-29 10:25:46,2022-11-02,2022,Passionfruit,Passionfruit,vitor,175.0,lb,175.0,1.0,2022
+2026-07-29 10:25:46,2022-11-02,2022,Passionfruit,Green Passion,vitor,81.0,lb,121.5,1.5,2022
+2026-07-29 10:25:46,2022-11-03,2022,Passionfruit,Passionfruit,cesar,140.0,lb,420.0,3.0,2022
+2026-07-29 10:25:46,2022-11-03,2022,Passionfruit,Passionfruit,cesar,100.0,lb,100.0,1.0,2022
+2026-07-29 10:25:46,2022-11-03,2022,Chiles,Chiles,cesillo,55.0,lb,110.0,2.0,2022
+2026-07-29 10:25:46,2022-11-03,2022,Passionfruit,Passionfruit,cesillo,325.0,lb,975.0,3.0,2022
+2026-07-29 10:25:46,2022-11-10,2022,Chiles,Chiles,cesar,25.0,lb,50.0,2.0,2022
+2026-07-29 10:25:46,2022-11-10,2022,Dragonfruit,Dragonfruit,cesar,81.0,lb,243.0,3.0,2022
+2026-07-29 10:25:46,2022-11-10,2022,Chiles,Chiles,cesillo,34.0,lb,68.0,2.0,2022
+2026-07-29 10:25:46,2022-11-10,2022,Passionfruit,Passionfruit,cesillo,250.0,lb,750.0,3.0,2022
+2026-07-29 10:25:46,2022-11-10,2022,Passionfruit,Passionfruit,cesillo,50.0,lb,100.0,2.0,2022
+2026-07-29 10:25:46,2022-11-10,2022,Passionfruit,Passionfruit,vitor,25.0,lb,37.5,1.5,2022
+2026-07-29 10:25:46,2022-11-10,2022,Passionfruit,Passionfruit,vitor,150.0,lb,150.0,1.0,2022
+2026-07-29 10:25:46,2022-11-10,2022,Passionfruit,Green Passion,vitor,96.0,lb,144.0,1.5,2022
+2026-07-29 10:25:46,2022-11-17,2022,Chiles,Chiles,cesar,24.0,lb,48.0,2.0,2022
+2026-07-29 10:25:46,2022-11-17,2022,Passionfruit,Passionfruit,cesar,175.0,lb,175.0,1.0,2022
+2026-07-29 10:25:46,2022-11-17,2022,Passionfruit,Passionfruit,cesillo,200.0,lb,600.0,3.0,2022
+2026-07-29 10:25:46,2022-11-17,2022,Passionfruit,Passionfruit,cesillo,100.0,lb,200.0,2.0,2022
+2026-07-29 10:25:46,2022-11-17,2022,Chiles,Chiles,jesus,21.0,lb,42.0,2.0,2022
+2026-07-29 10:25:46,2022-11-17,2022,Passionfruit,Passionfruit,jesus,50.0,lb,100.0,2.0,2022
+2026-07-29 10:25:46,2022-11-17,2022,Passionfruit,Passionfruit,vitor,95.0,lb,95.0,1.0,2022
+2026-07-29 10:25:46,2022-11-17,2022,Passionfruit,Green Passion,vitor,200.0,lb,300.0,1.5,2022
+2026-07-29 10:25:46,2022-11-25,2022,Passionfruit,Passionfruit,Cesillo,300.0,lb,900.0,3.0,2022
+2026-07-29 10:25:46,2022-11-25,2022,Passionfruit,Green Passion,vitor,161.0,lb,322.0,2.0,2022
+2026-07-29 10:25:46,2022-11-25,2022,Passionfruit,Passionfruit,Unknown,72.0,lb,216.0,3.0,2022
+2026-07-29 10:25:46,2022-11-25,2022,Passionfruit,Passionfruit,Unknown,25.0,lb,50.0,2.0,2022
+2026-07-29 10:25:46,2022-12-01,2022,Mix,Mix,Cesillo,500.0,lb,1125.0,2.25,2022
+2026-07-29 10:25:46,2022-12-01,2022,Mix,Mix,Jose,50.0,lb,112.5,2.25,2022
+2026-07-29 10:25:46,2022-12-01,2022,Mix,Mix,vitor,300.0,lb,600.0,2.0,2022
+2026-07-29 10:25:46,2022-12-07,2022,Passionfruit,Passionfruit,Cesillo,211.0,lb,633.0,3.0,2022
+2026-07-29 10:25:46,2022-12-07,2022,Passionfruit,Green Passion,vitor,200.0,lb,300.0,1.5,2022
+2026-07-29 10:25:46,2022-12-17,2022,Passionfruit,Passionfruit,Cesillo,275.0,lb,687.5,2.5,2022
+2026-07-29 10:25:46,2022-12-17,2022,Mix,Mix,Unknown,50.0,lb,125.0,2.5,2022
+2026-07-29 10:25:46,2022-12-22,2022,Passionfruit,Passionfruit,Cesillo,250.0,lb,500.0,2.0,2022
+2026-07-29 10:25:46,2022-12-22,2022,Passionfruit,Green Passion,vitor,50.0,lb,75.0,1.5,2022
+2026-07-29 10:25:46,2022-12-26,2022,Passionfruit,Passionfruit,Unknown,250.0,lb,625.0,2.5,2022
+2026-07-29 10:25:46,2022-12-26,2022,Passionfruit,Green Passion,Unknown,25.0,lb,37.5,1.5,2022
+2026-07-29 10:25:46,2023-01-02,2023,Passionfruit,Passionfruit,Cesillo,500.0,lb,1000.0,2.0,2022
+2026-07-29 10:25:46,2023-01-02,2023,Lemons,Lemons,cecilio,500.0,lb,1000.0,2.0,2023
+2026-07-29 10:25:46,2023-01-12,2023,Mix,Mix,cesar,75.0,lb,150.0,2.0,2023
+2026-07-29 10:25:46,2023-01-12,2023,Lemons,Lemons,cesar,1.0,lb,15.0,15.0,2023
+2026-07-29 10:25:46,2023-01-12,2023,Chiles,Chiles,cesar,8.0,lb,12.0,1.5,2023
+2026-07-29 10:25:46,2023-01-12,2023,Mix,Mix,jose,50.0,lb,100.0,2.0,2023
+2026-07-29 10:25:46,2023-01-12,2023,Mix,Mix,vitor,75.0,lb,112.5,1.5,2023
+2026-07-29 10:25:46,2023-01-12,2023,Mix,Mix,cecilio,150.0,lb,300.0,2.0,2023
+2026-07-29 10:25:46,2023-01-21,2023,Mix,Mix,?,1315.0,lb,2630.0,2.0,2023
+2026-07-29 10:25:46,2023-01-26,2023,Mix,Mix,cecilio,145.0,lb,290.0,2.0,2023
+2026-07-29 10:25:46,2023-01-26,2023,Chiles,Chiles,cecilio,22.0,lb,44.0,2.0,2023
+2026-07-29 10:25:46,2023-02-02,2023,Mix,Mix,cecilio,87.0,lb,174.0,2.0,2023
+2026-07-29 10:25:46,2023-02-02,2023,Chiles,Chiles,cecilio,32.0,lb,64.0,2.0,2023
+2026-07-29 10:25:46,2023-02-09,2023,Mix,Mix,cecilio,125.0,lb,250.0,2.0,2023
+2026-07-29 10:25:46,2023-02-09,2023,Chiles,Chiles,cecilio,24.0,lb,75.0,2.0,2023
+2026-07-29 10:25:46,2023-02-09,2023,Passionfruit,Passionfruit,cecilio,29.0,lb,58.0,2.0,2023
+2026-07-29 10:25:46,2023-02-09,2023,Lemons,Lemons,cecilio,1.0,lb,15.0,15.0,2023
+2026-07-29 10:25:46,2023-02-18,2023,Passionfruit,Passionfruit,cecilio,120.0,lb,240.0,2.0,2023
+2026-07-29 10:25:46,2023-03-04,2023,Lemons,Lemons,tiendita,3.0,lb,60.0,20.0,2023
+2026-07-29 10:25:46,2023-03-04,2023,Passionfruit,Passionfruit,cecilio,90.0,lb,180.0,2.0,2023
+2026-07-29 10:25:46,2023-03-17,2023,Passionfruit,Passionfruit,jose,380.0,lb,950.0,2.5,2023
+2026-07-29 10:25:46,2023-03-18,2023,Passionfruit,Passionfruit,cesar,180.0,lb,450.0,2.5,2023
+2026-07-29 10:25:46,2023-03-18,2023,Lemons,Lemons,cesar,2.0,lb,40.0,20.0,2023
+2026-07-29 10:25:46,2023-03-25,2023,Passionfruit,Passionfruit,cesar,200.0,lb,500.0,2.5,2023
+2026-07-29 10:25:46,2023-03-25,2023,Lemons,Lemons,cesar,2.0,lb,40.0,20.0,2023
+2026-07-29 10:25:46,2023-03-24,2023,Passionfruit,Passionfruit,jose,100.0,lb,250.0,2.5,2023
+2026-07-29 10:25:46,2023-03-30,2023,Passionfruit,Passionfruit,cesar,250.0,lb,625.0,2.5,2023
+2026-07-29 10:25:46,2023-03-30,2023,Passionfruit,Passionfruit,jose,125.0,lb,312.5,2.5,2023
+2026-07-29 10:25:46,2023-04-01,2023,Lemons,Lemons,cesar,2.0,lb,40.0,20.0,2023
+2026-07-29 10:25:46,2023-04-06,2023,Passionfruit,Passionfruit,cesar,250.0,lb,625.0,2.5,2023
+2026-07-29 10:25:46,2023-04-06,2023,Passionfruit,Passionfruit,jose,50.0,lb,125.0,2.5,2023
+2026-07-29 10:25:46,2023-06-10,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-06-14,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-06-22,2023,Lemons,Lemons,cecilio,21.0,lb,273.0,13.0,2023
+2026-07-29 10:25:46,2023-06-30,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-07-11,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-07-13,2023,Lemons,Lemons,cecilio,15.0,lb,195.0,13.0,2023
+2026-07-29 10:25:46,2023-08-04,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-08-12,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-08-24,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-08-31,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-09-08,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-09-14,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-09-22,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-09-28,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-09-06,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-09-06,2023,Mix,Mix,cecilio,1.0,lb,72.0,72.0,2023
+2026-07-29 10:25:46,2023-09-13,2023,Chiles,Chiles,cecilio,25.0,lb,50.0,2.0,2023
+2026-07-29 10:25:46,2023-09-13,2023,Passionfruit,Passionfruit,cecilio,45.0,lb,135.0,3.0,2023
+2026-07-29 10:25:46,2023-09-14,2023,Passionfruit,Passionfruit,cecilio,24.0,lb,72.0,3.0,2023
+2026-07-29 10:25:46,2023-09-06,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-09-06,2023,Chiles,Chiles,cecilio,20.0,lb,40.0,2.0,2023
+2026-07-29 10:25:46,2023-09-06,2023,Passionfruit,Passionfruit,cecilio,111.0,lb,333.0,3.0,2023
+2026-07-29 10:25:46,2023-09-24,2023,Passionfruit,Passionfruit,cecilio,125.0,lb,375.0,3.0,2023
+2026-07-29 10:25:46,2023-09-24,2023,Passionfruit,Yellow Passion,cecilio,11.0,lb,38.5,3.5,2023
+2026-07-29 10:25:46,2023-09-24,2023,Lemons,Lemons,cecilio,10.0,lb,130.0,13.0,2023
+2026-07-29 10:25:46,2023-10-01,2023,Passionfruit,Passionfruit,cecilio,200.0,lb,600.0,3.0,2023
+2026-07-29 10:25:46,2023-10-01,2023,Passionfruit,Yellow Passion,cecilio,110.0,lb,385.0,3.5,2023
+2026-07-29 10:25:46,2023-10-01,2023,Dragonfruit,Dragonfruit,cecilio,45.0,lb,157.5,3.5,2023
+2026-07-29 10:25:46,2023-10-03,2023,Passionfruit,Yellow Passion,jose,75.0,lb,300.0,4.0,2023
+2026-07-29 10:25:46,2023-10-03,2023,Passionfruit,Yellow Passion,cecilio,21.0,lb,73.5,3.5,2023
+2026-07-29 10:25:46,2023-10-03,2023,Passionfruit,Passionfruit,cecilio,69.0,lb,207.0,3.0,2023
+2026-07-29 10:25:46,2023-10-03,2023,Dragonfruit,Dragonfruit,cecilio,54.0,lb,189.0,3.5,2023
+2026-07-29 10:25:46,2023-10-07,2023,Passionfruit,Passionfruit,cecilio,200.0,lb,600.0,3.0,2023
+2026-07-29 10:25:46,2023-10-07,2023,Passionfruit,Yellow Passion,cecilio,100.0,lb,350.0,3.5,2023
+2026-07-29 10:25:46,2023-10-09,2023,Passionfruit,Passionfruit,cecilio,125.0,lb,375.0,3.0,2023
+2026-07-29 10:25:46,2023-10-09,2023,Passionfruit,Yellow Passion,cecilio,50.0,lb,175.0,3.5,2023
+2026-07-29 10:25:46,2023-10-09,2023,Lemons,Lemons,cecilio,15.0,lb,195.0,13.0,2023
+2026-07-29 10:25:46,2023-10-15,2023,Passionfruit,Passionfruit,cecilio,225.0,lb,675.0,3.0,2023
+2026-07-29 10:25:46,2023-10-15,2023,Passionfruit,Yellow Passion,cecilio,110.0,lb,385.0,3.5,2023
+2026-07-29 10:25:46,2023-10-15,2023,Lemons,Lemons,cecilio,10.0,lb,130.0,13.0,2023
+2026-07-29 10:25:46,2023-10-15,2023,Passionfruit,Passionfruit,vitor,70.0,lb,210.0,3.0,2023
+2026-07-29 10:25:46,2023-10-15,2023,Passionfruit,Yellow Passion,vitor,40.0,lb,140.0,3.5,2023
+2026-07-29 10:25:46,2023-11-21,2023,Passionfruit,Passionfruit,tiendita,150.0,lb,450.0,3.0,2023
+2026-07-29 10:25:46,2023-11-21,2023,Passionfruit,Yellow Passion,tiendita,50.0,lb,175.0,3.5,2023
+2026-07-29 10:25:46,2023-11-22,2023,Passionfruit,Passionfruit,cecilio,125.0,lb,375.0,3.0,2023
+2026-07-29 10:25:46,2023-11-22,2023,Passionfruit,Yellow Passion,cecilio,75.0,lb,262.5,3.5,2023
+2026-07-29 10:25:46,2023-11-22,2023,Lemons,Lemons,cecilio,10.0,lb,130.0,13.0,2023
+2026-07-29 10:25:46,2023-11-18,2023,Passionfruit,Passionfruit,cecilio,70.0,lb,210.0,3.0,2023
+2026-07-29 10:25:46,2023-11-22,2023,Passionfruit,Yellow Passion,jose,50.0,lb,175.0,3.5,2023
+2026-07-29 10:25:46,2023-11-24,2023,Passionfruit,Yellow Passion,vitor,25.0,lb,87.5,3.5,2023
+2026-07-29 10:25:46,2023-11-24,2023,Passionfruit,Passionfruit,vitor,100.0,lb,300.0,3.0,2023
+2026-07-29 10:25:46,2023-11-24,2023,Passionfruit,Passionfruit,cecilio,175.0,lb,525.0,3.0,2023
+2026-07-29 10:25:46,2023-11-24,2023,Passionfruit,Yellow Passion,cecilio,50.0,lb,175.0,3.5,2023
+2026-07-29 10:25:46,2023-11-24,2023,Passionfruit,Yellow Passion,jose,50.0,lb,175.0,3.5,2023
+2026-07-29 10:25:46,2023-11-27,2023,Passionfruit,Passionfruit,tiendita,120.0,lb,360.0,3.0,2023
+2026-07-29 10:25:46,2023-11-29,2023,Passionfruit,Passionfruit,cecilio,208.0,lb,624.0,3.0,2023
+2026-07-29 10:25:46,2023-12-01,2023,Passionfruit,Passionfruit,jose,50.0,lb,150.0,3.0,2023
+2026-07-29 10:25:46,2023-12-01,2023,Chiles,Chiles,reyes,50.0,lb,100.0,2.0,2023
+2026-07-29 10:25:46,2023-12-01,2023,Chiles,Chiles,tiendita,50.0,lb,100.0,2.0,2023
+2026-07-29 10:25:46,2023-12-04,2023,Passionfruit,Passionfruit,tiendita,200.0,lb,600.0,3.0,2023
+2026-07-29 10:25:46,2023-12-04,2023,Passionfruit,Other Passion,tiendita,40.0,lb,60.0,1.5,2023
+2026-07-29 10:25:46,2023-12-05,2023,Passionfruit,Passionfruit,cecilio,215.0,lb,645.0,3.0,2023
+2026-07-29 10:25:46,2023-12-05,2023,Passionfruit,Yellow Passion,cecilio,50.0,lb,175.0,3.5,2023
+2026-07-29 10:25:46,2023-12-05,2023,Chiles,Chiles,cecilio,40.0,lb,80.0,2.0,2023
+2026-07-29 10:25:46,2023-12-08,2023,Passionfruit,Passionfruit,jose,50.0,lb,150.0,3.0,2023
+2026-07-29 10:25:46,2023-12-08,2023,Passionfruit,Passionfruit,vitor,225.0,lb,675.0,3.0,2023
+2026-07-29 10:25:46,2023-12-08,2023,Passionfruit,Yellow Passion,vitor,25.0,lb,87.5,3.5,2023
+2026-07-29 10:25:46,2023-12-08,2023,Passionfruit,Other Passion,vitor,116.0,lb,174.0,1.5,2023
+2026-07-29 10:25:46,2023-12-08,2023,Passionfruit,Passionfruit,cecilio,110.0,lb,330.0,3.0,2023
+2026-07-29 10:25:46,2023-12-08,2023,Passionfruit,Yellow Passion,cecilio,75.0,lb,262.5,3.5,2023
+2026-07-29 10:25:46,2023-12-08,2023,Lemons,Lemons,cecilio,20.0,lb,260.0,13.0,2023
+2026-07-29 10:25:46,2023-12-12,2023,Passionfruit,Passionfruit,cecilio,100.0,lb,300.0,3.0,2023
+2026-07-29 10:25:46,2023-12-12,2023,Passionfruit,Yellow Passion,cecilio,50.0,lb,175.0,3.5,2023
+2026-07-29 10:25:46,2023-12-12,2023,Passionfruit,Other Passion,cecilio,25.0,lb,37.5,1.5,2023
+2026-07-29 10:25:46,2023-12-12,2023,Passionfruit,Passionfruit,cesar,60.0,lb,180.0,3.0,2023
+2026-07-29 10:25:46,2023-12-12,2023,Passionfruit,Passionfruit,tiendita,20.0,lb,60.0,3.0,2023
+2026-07-29 10:25:46,2023-12-12,2023,Lemons,Lemons,tiendita,1.0,lb,15.0,15.0,2023
+2026-07-29 10:25:46,2023-12-14,2023,Passionfruit,Passionfruit,cesar,160.0,lb,480.0,3.0,2023
+2026-07-29 10:25:46,2023-12-14,2023,Passionfruit,Passionfruit,cecilio,150.0,lb,450.0,3.0,2023
+2026-07-29 10:25:46,2023-12-14,2023,Passionfruit,Yellow Passion,cecilio,50.0,lb,175.0,3.5,2023
+2026-07-29 10:25:46,2023-12-14,2023,Lemons,Lemons,cecilio,10.0,lb,130.0,13.0,2023
+2026-07-29 10:25:46,2023-12-14,2023,Chiles,Chiles,cecilio,70.0,lb,140.0,2.0,2023
+2026-07-29 10:25:46,2023-12-15,2023,Passionfruit,Passionfruit,vitor,125.0,lb,375.0,3.0,2023
+2026-07-29 10:25:46,2023-12-15,2023,Passionfruit,Yellow Passion,vitor,60.0,lb,210.0,3.5,2023
+2026-07-29 10:25:46,2023-12-15,2023,Passionfruit,Other Passion,vitor,25.0,lb,37.5,1.5,2023
+2026-07-29 10:25:46,2023-12-15,2023,Chiles,Chiles,reyes,54.0,lb,108.0,2.0,2023
+2026-07-29 10:25:46,2023-12-16,2023,Passionfruit,Passionfruit,jose,45.0,lb,135.0,3.0,2023
+2026-07-29 10:25:46,2023-12-16,2023,Passionfruit,Passionfruit,cesar,200.0,lb,600.0,3.0,2023
+2026-07-29 10:25:46,2023-12-16,2023,Passionfruit,Other Passion,cesar,50.0,lb,75.0,1.5,2023
+2026-07-29 10:25:46,2023-12-20,2023,Passionfruit,Passionfruit,cecilio,100.0,lb,300.0,3.0,2023
+2026-07-29 10:25:46,2023-12-20,2023,Passionfruit,Yellow Passion,cecilio,75.0,lb,262.5,3.5,2023
+2026-07-29 10:25:46,2023-12-20,2023,Passionfruit,Other Passion,cecilio,50.0,lb,75.0,1.5,2023
+2026-07-29 10:25:46,2023-12-20,2023,Chiles,Chiles,cecilio,40.0,lb,80.0,2.0,2023
+2026-07-29 10:25:46,2023-12-26,2023,Passionfruit,Passionfruit,cecilio,200.0,lb,80.0,3.0,2023
+2026-07-29 10:25:46,2023-12-26,2023,Passionfruit,Other Passion,cecilio,25.0,lb,37.5,1.5,2023
+2026-07-29 10:25:46,2023-12-26,2023,Passionfruit,Yellow Passion,cecilio,75.0,lb,262.5,3.5,2023
+2026-07-29 10:25:46,2023-12-28,2023,Passionfruit,Passionfruit,tiendita,250.0,lb,750.0,3.0,2023
+2026-07-29 10:25:46,2023-12-28,2023,Passionfruit,Other Passion,tiendita,50.0,lb,75.0,1.5,2023
+2026-07-29 10:25:46,2023-12-28,2023,Other,Extra?,tiendita,1.0,lb,75.0,75.0,2023
+2026-07-29 10:25:46,2023-12-28,2023,Other,Extra?,tiendita,1.0,lb,45.0,45.0,2023
+2026-07-29 10:25:46,2023-12-29,2023,Passionfruit,Passionfruit,vitor,255.0,lb,765.0,3.0,2023
+2026-07-29 10:25:46,2023-12-29,2023,Passionfruit,Passionfruit,vitor,26.0,lb,78.0,3.0,2023
+2026-07-29 10:25:46,2023-12-29,2023,Passionfruit,Other Passion,vitor,50.0,lb,75.0,1.5,2023
+2026-07-29 10:25:46,2023-12-29,2023,Chiles,Chiles,vitor,40.0,lb,80.0,2.0,2023
+2026-07-29 10:25:46,2024-01-02,2024,Passionfruit,Red Passion,Cesar,100.0,lb,300.0,3.0,2024
+2026-07-29 10:25:46,2024-01-02,2024,Passionfruit,Passion,Cesar,50.0,lb,75.0,1.5,2024
+2026-07-29 10:25:46,2024-01-02,2024,Passionfruit,Red Passion,Cecilio,143.0,lb,429.0,3.0,2024
+2026-07-29 10:25:46,2024-01-02,2024,Passionfruit,Passion,Cecilio,39.0,lb,58.5,1.5,2024
+2026-07-29 10:25:46,2024-01-02,2024,Passionfruit,Yellow Passion,Cecilio,27.0,lb,94.5,3.5,2024
+2026-07-29 10:25:46,2024-01-02,2024,Chiles,Chiles,Cecilio,36.0,lb,72.0,2.0,2024
+2026-07-29 10:25:46,2024-01-02,2024,Lemons,Lemons,Cecilio,10.0,lb,130.0,13.0,2024
+2026-07-29 10:25:46,2024-01-05,2024,Passionfruit,Red Passion,Cecilio,35.0,lb,105.0,3.0,2024
+2026-07-29 10:25:46,2024-01-05,2024,Passionfruit,Passion,Cecilio,50.0,lb,75.0,1.5,2024
+2026-07-29 10:25:46,2024-01-05,2024,Passionfruit,Yellow Passion,Cecilio,26.0,lb,91.0,3.5,2024
+2026-07-29 10:25:46,2024-01-05,2024,Lemons,Lemons,Cecilio,10.0,lb,130.0,13.0,2024
+2026-07-29 10:25:46,2024-01-05,2024,Passionfruit,Red Passion,Vitor,100.0,lb,300.0,3.0,2024
+2026-07-29 10:25:46,2024-01-05,2024,Passionfruit,Passion,Vitor,50.0,lb,75.0,1.5,2024
+2026-07-29 10:25:46,2023-01-08,2023,Passionfruit,Red Passion,Cesar,75.0,lb,225.0,3.0,2024
+2026-07-29 10:25:46,2024-01-04,2024,Passionfruit,Red Passion,Cecilio,84.0,lb,252.0,3.0,2024
+2026-07-29 10:25:46,2024-01-04,2024,Passionfruit,Passion,Cecilio,66.0,lb,99.0,1.5,2024
+2026-07-29 10:25:46,2024-01-04,2024,Passionfruit,Yellow Passion,Cecilio,14.0,lb,49.0,3.5,2024
+2026-07-29 10:25:46,2024-01-11,2024,Passionfruit,Red Passion,Cecilio,64.0,lb,192.0,3.0,2024
+2026-07-29 10:25:46,2024-01-11,2024,Passionfruit,Red Passion,Cecilio,21.0,lb,63.0,3.0,2024
+2026-07-29 10:25:46,2024-01-11,2024,Lemons,Lemons,Cecilio,5.0,lb,65.0,13.0,2024
+2026-07-29 10:25:46,2024-01-12,2024,Passionfruit,Red Passion,Vitor,65.0,lb,195.0,3.0,2024
+2026-07-29 10:25:46,2024-01-12,2024,Passionfruit,Passion,Vitor,30.0,lb,45.0,1.5,2024
+2026-07-29 10:25:46,2024-01-15,2024,Passionfruit,Red Passion,Cesar,75.0,lb,225.0,3.0,2024
+2026-07-29 10:25:46,2024-01-18,2024,Passionfruit,Red Passion,Cecilio,250.0,lb,750.0,3.0,2024
+2026-07-29 10:25:46,2024-01-18,2024,Chiles,Chiles,Cecilio,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2024-01-19,2024,Passionfruit,Red Passion,Vitor,60.0,lb,180.0,3.0,2024
+2026-07-29 10:25:46,2024-01-19,2024,Passionfruit,Passion,Vitor,60.0,lb,90.0,1.5,2024
+2026-07-29 10:25:46,2024-01-19,2024,Passionfruit,Yellow Passion,Vitor,20.0,lb,70.0,3.5,2024
+2026-07-29 10:25:46,2024-01-23,2024,Passionfruit,Red Passion,Tiendita,75.0,lb,225.0,3.0,2024
+2026-07-29 10:25:46,2024-01-23,2024,Passionfruit,Passion,Tiendita,25.0,lb,43.75,1.75,2024
+2026-07-29 10:25:46,2024-01-24,2024,Passionfruit,Red Passion,Cecilio,164.0,lb,492.0,3.0,2024
+2026-07-29 10:25:46,2024-01-24,2024,Passionfruit,Passion,Cecilio,41.0,lb,61.5,1.5,2024
+2026-07-29 10:25:46,2024-01-24,2024,Passionfruit,Passion,Cecilio,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2024-01-24,2024,Lemons,Lemons,Cecilio,10.0,lb,130.0,13.0,2024
+2026-07-29 10:25:46,2024-01-24,2024,Chiles,Chiles,Cecilio,31.0,lb,62.0,2.0,2024
+2026-07-29 10:25:46,2024-01-27,2024,Passionfruit,Red Passion,Vitor,100.0,lb,300.0,3.0,2024
+2026-07-29 10:25:46,2024-01-27,2024,Passionfruit,Passion,Vitor,30.0,lb,45.0,1.5,2024
+2026-07-29 10:25:46,2024-01-30,2024,Passionfruit,Red Passion,Cecilio,93.0,lb,279.0,3.0,2024
+2026-07-29 10:25:46,2024-01-30,2024,Passionfruit,Passion,Cecilio,39.0,lb,58.5,1.5,2024
+2026-07-29 10:25:46,2024-01-30,2024,Passionfruit,Yellow Passion,Cecilio,29.0,lb,101.5,3.5,2024
+2026-07-29 10:25:46,2024-01-30,2024,Lemons,Lemons,Cecilio,10.0,lb,130.0,13.0,2024
+2026-07-29 10:25:46,2024-01-30,2024,Passionfruit,Red Passion,Tiendita,50.0,lb,150.0,3.0,2024
+2026-07-29 10:25:46,2024-01-30,2024,Chiles,Chiles,Tiendita,22.0,lb,44.0,2.0,2024
+2026-07-29 10:25:46,2024-02-06,2024,Passionfruit,Red Passion,Cecilio,90.0,lb,270.0,3.0,2024
+2026-07-29 10:25:46,2024-02-06,2024,Chiles,Chiles,Cecilio,20.0,lb,40.0,2.0,2024
+2026-07-29 10:25:46,2024-02-08,2024,Passionfruit,Red Passion,Cecilio,100.0,lb,300.0,3.0,2024
+2026-07-29 10:25:46,2024-02-08,2024,Chiles,Chiles,Cecilio,36.0,lb,72.0,2.0,2024
+2026-07-29 10:25:46,2024-02-08,2024,Lemons,Lemons,Cecilio,2.0,lb,26.0,13.0,2024
+2026-07-29 10:25:46,2024-02-13,2024,Passionfruit,Red Passion,Cecilio,125.0,lb,375.0,3.0,2024
+2026-07-29 10:25:46,2024-02-13,2024,Chiles,Chiles,Cecilio,36.0,lb,72.0,2.0,2024
+2026-07-29 10:25:46,2024-02-17,2024,Passionfruit,Red Passion,Cecilio,125.0,lb,375.0,3.0,2024
+2026-07-29 10:25:46,2024-02-17,2024,Chiles,Chiles,Cecilio,55.0,lb,110.0,2.0,2024
+2026-07-29 10:25:46,2024-02-17,2024,Chiles,Chiles,Cesar,20.0,lb,40.0,2.0,2024
+2026-07-29 10:25:46,2024-02-23,2024,Lemons,Lemons,Cesar,1.0,lb,13.0,13.0,2024
+2026-07-29 10:25:46,2024-02-23,2024,Passionfruit,Red Passion,Cecilio,100.0,lb,300.0,3.0,2024
+2026-07-29 10:25:46,2024-02-23,2024,Lemons,Lemons,Cecilio,10.0,lb,130.0,13.0,2024
+2026-07-29 10:25:46,2024-03-01,2024,Passionfruit,Red Passion,Cecilio,110.0,lb,330.0,3.0,2024
+2026-07-29 10:25:46,2024-03-01,2024,Lemons,Lemons,Cecilio,10.0,lb,130.0,13.0,2024
+2026-07-29 10:25:46,2024-03-06,2024,Lemons,Lemons,Cesar,4.0,lb,52.0,13.0,2024
+2026-07-29 10:25:46,2024-03-07,2024,Lemons,Lemons,Cesar,1.0,lb,13.0,13.0,2024
+2026-07-29 10:25:46,2024-03-07,2024,Passionfruit,Red Passion,Cecilio,200.0,lb,600.0,3.0,2024
+2026-07-29 10:25:46,2024-03-07,2024,Lemons,Lemons,Cecilio,10.0,lb,130.0,13.0,2024
+2026-07-29 10:25:46,2024-03-07,2024,Oranges,Oranges,Cecilio,3.0,lb,39.0,13.0,2024
+2026-07-29 10:25:46,2024-03-14,2024,Passionfruit,Red Passion,Cecilio,150.0,lb,450.0,3.0,2024
+2026-07-29 10:25:46,2024-03-14,2024,Lemons,Lemons,Cecilio,4.0,lb,52.0,13.0,2024
+2026-07-29 10:25:46,2024-03-18,2024,Chiles,Chiles,Cesar,30.0,lb,60.0,2.0,2024
+2026-07-29 10:25:46,2024-08-03,2024,Chiles,Chiles,Cecilio,105.0,lb,262.5,2.5,2024
+2026-07-29 10:25:46,2024-08-05,2024,Chiles,Chiles,Cecilio,90.0,lb,225.0,2.5,2024
+2026-07-29 10:25:46,2024-08-05,2024,Lemons,Lemons,Cecilio,20.0,lb,300.0,15.0,2024
+2026-07-29 10:25:46,2024-08-09,2024,Chiles,Chiles,Reyes,90.0,lb,225.0,2.5,2024
+2026-07-29 10:25:46,2024-08-14,2024,Lemons,Lemons,Cecilio,20.0,lb,300.0,15.0,2024
+2026-07-29 10:25:46,2024-08-14,2024,Chiles,Chiles,Cecilio,60.0,lb,150.0,2.5,2024
+2026-07-29 10:25:46,2024-08-22,2024,Lemons,Lemons,Cecilio,20.0,lb,300.0,15.0,2024
+2026-07-29 10:25:46,2024-08-27,2024,Passionfruit,Red Passion,Cecilio,70.0,lb,210.0,3.0,2024
+2026-07-29 10:25:46,2024-08-28,2024,Passionfruit,Red Passion,Cesar,60.0,lb,180.0,3.0,2024
+2026-07-29 10:25:46,2024-08-28,2024,Chiles,Chiles,Cesar,38.0,lb,95.0,2.5,2024
+2026-07-29 10:25:46,2024-08-30,2024,Lemons,Lemons,Cecilio,15.0,lb,225.0,15.0,2024
+2026-07-29 10:25:46,2024-09-03,2024,Passionfruit,Red Passion,Cecilio,239.0,lb,717.0,3.0,2024
+2026-07-29 10:25:46,2024-09-04,2024,Lemons,Lemons,Cecilio,20.0,lb,300.0,15.0,2024
+2026-07-29 10:25:46,2024-09-05,2024,Chiles,Chiles,Cecilio,50.0,lb,125.0,2.5,2024
+2026-07-29 10:25:46,2024-09-05,2024,Passionfruit,Red Passion,Cecilio,90.0,lb,270.0,3.0,2024
+2026-07-29 10:25:46,2024-09-06,2024,Lemons,Lemons,Cesar,2.0,lb,30.0,15.0,2024
+2026-07-29 10:25:46,2024-09-07,2024,Passionfruit,Red Passion,Cecilio,95.0,lb,332.5,3.5,2024
+2026-07-29 10:25:46,2024-09-07,2024,Passionfruit,Yellow Passion,Cecilio,50.0,lb,175.0,3.5,2024
+2026-07-29 10:25:46,2024-09-07,2024,Passionfruit,Red Passion,Cecilio,22.0,lb,44.0,2.0,2024
+2026-07-29 10:25:46,2024-09-07,2024,Chiles,Chiles,Cecilio,53.0,lb,132.5,2.5,2024
+2026-07-29 10:25:46,2024-09-09,2024,Passionfruit,Red Passion,Cecilio,140.0,lb,490.0,3.5,2024
+2026-07-29 10:25:46,2024-09-09,2024,Passionfruit,Yellow Passion,Cecilio,56.0,lb,196.0,3.5,2024
+2026-07-29 10:25:46,2024-09-09,2024,Passionfruit,Red Passion,Cecilio,28.0,lb,63.0,2.25,2024
+2026-07-29 10:25:46,2024-09-09,2024,Passionfruit,Yellow Passion,Cecilio,8.0,lb,18.0,2.25,2024
+2026-07-29 10:25:46,2024-09-09,2024,Lemons,Lemons,Cecilio,20.0,lb,300.0,15.0,2024
+2026-07-29 10:25:46,2024-09-10,2024,Passionfruit,Red Passion,Cecilio,140.0,lb,490.0,3.5,2024
+2026-07-29 10:25:46,2024-09-10,2024,Passionfruit,Red Passion,Cecilio,19.0,lb,42.75,2.25,2024
+2026-07-29 10:25:46,2024-09-12,2024,Passionfruit,Red Passion,Luis,100.0,lb,300.0,3.0,2024
+2026-07-29 10:25:46,2024-09-13,2024,Passionfruit,Red Passion,Vitor,375.0,lb,1162.5,3.1,2024
+2026-07-29 10:25:46,2024-09-13,2024,Passionfruit,Red Passion,Vitor,41.0,lb,92.25,2.25,2024
+2026-07-29 10:25:46,2024-09-13,2024,Passionfruit,Yellow Passion,Vitor,75.0,lb,232.5,3.1,2024
+2026-07-29 10:25:46,2024-09-13,2024,Passionfruit,Red Passion,Vitor,41.0,lb,61.5,1.5,2024
+2026-07-29 10:25:46,2024-09-14,2024,Chiles,Chiles,Cecilio,35.0,lb,87.5,2.5,2024
+2026-07-29 10:25:46,2024-09-14,2024,Lemons,Lemons,Cecilio,2.0,lb,30.0,15.0,2024
+2026-07-29 10:25:46,2024-09-17,2024,Passionfruit,Red Passion,Vitor,367.0,lb,1137.7,3.1,2024
+2026-07-29 10:25:46,2024-09-17,2024,Passionfruit,Yellow Passion,Vitor,60.0,lb,186.0,3.1,2024
+2026-07-29 10:25:46,2024-09-17,2024,Passionfruit,Red Passion,Vitor,20.0,lb,45.0,2.25,2024
+2026-07-29 10:25:46,2024-09-17,2024,Passionfruit,Red Passion,Vitor,60.0,lb,90.0,1.5,2024
+2026-07-29 10:25:46,2024-09-19,2024,Passionfruit,Red Passion,Cecilio,200.0,lb,650.0,3.25,2024
+2026-07-29 10:25:46,2024-09-19,2024,Chiles,Chiles,Cecilio,40.0,lb,100.0,2.5,2024
+2026-07-29 10:25:46,2024-09-19,2024,Lemons,Lemons,Cecilio,20.0,lb,300.0,15.0,2024
+2026-07-29 10:25:46,2024-09-19,2024,Passionfruit,Red Passion,Luis,100.0,lb,300.0,3.0,2024
+2026-07-29 10:25:46,2024-09-20,2024,Passionfruit,Red Passion,Vitor,75.0,lb,232.5,3.1,2024
+2026-07-29 10:25:46,2024-09-20,2024,Passionfruit,Yellow Passion,Vitor,25.0,lb,77.5,3.1,2024
+2026-07-29 10:25:46,2024-09-20,2024,Passionfruit,Red Passion,Vitor,15.0,lb,33.75,2.25,2024
+2026-07-29 10:25:46,2024-09-20,2024,Passionfruit,Red Passion,Vitor,40.0,lb,60.0,1.5,2024
+2026-07-29 10:25:46,2024-09-24,2024,Passionfruit,Red Passion,Vitor,125.0,lb,387.5,3.1,2024
+2026-07-29 10:25:46,2024-09-24,2024,Passionfruit,Red Passion,Vitor,100.0,lb,225.0,2.25,2024
+2026-07-29 10:25:46,2024-09-24,2024,Passionfruit,Red Passion,Vitor,50.0,lb,75.0,1.5,2024
+2026-07-29 10:25:46,2024-09-26,2024,Passionfruit,Red Passion,Luis,125.0,lb,387.5,3.1,2024
+2026-07-29 10:25:46,2024-10-02,2024,Passionfruit,Red Passion,Vitor,300.0,lb,900.0,3.0,2024
+2026-07-29 10:25:46,2024-10-02,2024,Passionfruit,Red Passion,Vitor,40.0,lb,80.0,2.0,2024
+2026-07-29 10:25:46,2024-10-02,2024,Passionfruit,Red Passion,Vitor,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2024-10-02,2024,Lemons,Lemons,Garcia,14.0,lb,980.0,70.0,2024
+2026-07-29 10:25:46,2024-10-04,2024,Passionfruit,Red Passion,Cecilio,200.0,lb,450.0,2.25,2024
+2026-07-29 10:25:46,2024-10-04,2024,Passionfruit,Red Passion,Cecilio,36.0,lb,36.0,1.0,2024
+2026-07-29 10:25:46,2024-10-04,2024,Chiles,Chiles,Cecilio,50.0,lb,125.0,2.5,2024
+2026-07-29 10:25:46,2024-10-04,2024,Lemons,Lemons,Cecilio,20.0,lb,300.0,15.0,2024
+2026-07-29 10:25:46,2024-10-04,2024,Passionfruit,Red Passion,Luis,125.0,lb,387.5,3.1,2024
+2026-07-29 10:25:46,2024-10-04,2024,Lemons,Lemons,Garcia,4.0,lb,280.0,70.0,2024
+2026-07-29 10:25:46,2024-10-07,2024,Lemons,Lemons,Garcia,6.0,lb,420.0,70.0,2024
+2026-07-29 10:25:46,2024-10-09,2024,Lemons,Lemons,Garcia,6.0,lb,420.0,70.0,2024
+2026-07-29 10:25:46,2024-10-09,2024,Passionfruit,Red Passion,Vitor,400.0,lb,1240.0,3.1,2024
+2026-07-29 10:25:46,2024-10-09,2024,Passionfruit,Red Passion,Vitor,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2024-10-09,2024,Passionfruit,Red Passion,Vitor,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2024-10-10,2024,Passionfruit,Red Passion,Luis,125.0,lb,375.0,3.0,2024
+2026-07-29 10:25:46,2024-10-11,2024,Passionfruit,Red Passion,Cecilio,175.0,lb,568.75,3.25,2024
+2026-07-29 10:25:46,2024-10-11,2024,Passionfruit,Yellow Passion,Cecilio,50.0,lb,162.5,3.25,2024
+2026-07-29 10:25:46,2024-10-11,2024,Passionfruit,Red Passion,Cecilio,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2024-10-11,2024,Chiles,Chiles,Cecilio,55.0,lb,123.75,2.25,2024
+2026-07-29 10:25:46,2024-10-11,2024,Lemons,Lemons,Cecilio,10.0,lb,150.0,15.0,2024
+2026-07-29 10:25:46,2024-10-16,2024,Passionfruit,Red Passion,Vitor,400.0,lb,1200.0,3.0,2024
+2026-07-29 10:25:46,2024-10-16,2024,Passionfruit,Red Passion,Vitor,100.0,lb,200.0,2.0,2024
+2026-07-29 10:25:46,2024-10-16,2024,Passionfruit,Red Passion,Vitor,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2024-10-17,2024,Passionfruit,Red Passion,Luis,200.0,lb,600.0,3.0,2024
+2026-07-29 10:25:46,2024-10-18,2024,Passionfruit,Red Passion,Cecilio,222.0,lb,721.5,3.25,2024
+2026-07-29 10:25:46,2024-10-18,2024,Passionfruit,Yellow Passion,Cecilio,100.0,lb,325.0,3.25,2024
+2026-07-29 10:25:46,2024-10-18,2024,Passionfruit,Red Passion,Cecilio,25.0,lb,50.0,2.0,2024
+2026-07-29 10:25:46,2024-10-18,2024,Passionfruit,Red Passion,Cecilio,40.0,lb,40.0,1.0,2024
+2026-07-29 10:25:46,2024-10-18,2024,Chiles,Chiles,Cecilio,30.0,lb,75.0,2.5,2024
+2026-07-29 10:25:46,2024-10-18,2024,Lemons,Lemons,Cecilio,15.0,lb,225.0,15.0,2024
+2026-07-29 10:25:46,2024-10-19,2024,Passionfruit,Red Passion,Vitor,175.0,lb,525.0,3.0,2024
+2026-07-29 10:25:46,2024-10-19,2024,Passionfruit,Red Passion,Vitor,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2024-10-21,2024,Passionfruit,Red Passion,Cesar,750.0,lb,2437.5,3.25,2024
+2026-07-29 10:25:46,2024-10-21,2024,Passionfruit,Passion,Cesar,200.0,lb,400.0,2.0,2024
+2026-07-29 10:25:46,2024-10-23,2024,Passionfruit,Passion,Vitor,800.0,lb,2400.0,3.0,2024
+2026-07-29 10:25:46,2024-10-23,2024,Passionfruit,Passion,Vitor,300.0,lb,600.0,2.0,2024
+2026-07-29 10:25:46,2024-10-23,2024,Passionfruit,Passion,Vitor,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2024-10-22,2024,Lemons,Lemons,Garcia,3.0,lb,210.0,70.0,2024
+2026-07-29 10:25:46,2024-10-24,2024,Passionfruit,Red Passion,Cesar,350.0,lb,1137.5,3.25,2024
+2026-07-29 10:25:46,2024-10-24,2024,Passionfruit,Red Passion,Cesar,60.0,lb,120.0,2.0,2024
+2026-07-29 10:25:46,2024-10-24,2024,Passionfruit,Red Passion,Cesar,60.0,lb,60.0,1.0,2024
+2026-07-29 10:25:46,2024-10-25,2024,Passionfruit,Passion,Luis,175.0,lb,525.0,3.0,2024
+2026-07-29 10:25:46,2024-10-26,2024,Passionfruit,Passion,Cecilio,300.0,lb,975.0,3.25,2024
+2026-07-29 10:25:46,2024-10-27,2024,Passionfruit,Red Passion,Cecilio,25.0,lb,50.0,2.0,2024
+2026-07-29 10:25:46,2024-10-28,2024,Chiles,Chiles,Cecilio,18.0,lb,40.5,2.25,2024
+2026-07-29 10:25:46,2024-10-29,2024,Lemons,Lemons,Cecilio,15.0,lb,225.0,15.0,2024
+2026-07-29 10:25:46,2024-10-30,2024,Passionfruit,Passion,Vitor,250.0,lb,750.0,3.0,2024
+2026-07-29 10:25:46,2024-10-26,2024,Passionfruit,Red Passion,Vitor,100.0,lb,300.0,3.0,2024
+2026-07-29 10:25:46,2024-10-26,2024,Passionfruit,Red Passion,Vitor,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2024-10-28,2024,Passionfruit,Passion,Cesar,750.0,lb,2437.5,3.25,2024
+2026-07-29 10:25:46,2024-10-28,2024,Passionfruit,Red Passion,Cesar,160.0,lb,320.0,2.0,2024
+2026-07-29 10:25:46,2024-10-28,2024,Passionfruit,Red Passion,Cesar,60.0,lb,60.0,1.0,2024
+2026-07-29 10:25:46,2024-10-30,2024,Passionfruit,Passion,Vitor,450.0,lb,1350.0,3.0,2024
+2026-07-29 10:25:46,2024-10-30,2024,Passionfruit,Red Passion,Luis,75.0,lb,225.0,3.0,2024
+2026-07-29 10:25:46,2024-11-01,2024,Passionfruit,Passion,Cecilio,175.0,lb,568.75,3.25,2024
+2026-07-29 10:25:46,2024-11-01,2024,Passionfruit,Red Passion,Cecilio,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2024-11-01,2024,Lemons,Lemons,Cecilio,15.0,lb,225.0,15.0,2024
+2026-07-29 10:25:46,2024-11-01,2024,Passionfruit,Red Passion,Luis,200.0,lb,600.0,3.0,2024
+2026-07-29 10:25:46,2024-10-31,2024,Passionfruit,Passion,Cesar,250.0,lb,812.5,3.25,2024
+2026-07-29 10:25:46,2024-10-31,2024,Passionfruit,Red Passion,Cesar,80.0,lb,160.0,2.0,2024
+2026-07-29 10:25:46,2024-11-04,2024,Passionfruit,Red Passion,Cesar,260.0,lb,845.0,3.25,2024
+2026-07-29 10:25:46,2024-11-04,2024,Passionfruit,Red Passion,Cesar,100.0,lb,200.0,2.0,2024
+2026-07-29 10:25:46,2024-11-04,2024,Passionfruit,Red Passion,Cesar,40.0,lb,40.0,1.0,2024
+2026-07-29 10:25:46,2024-11-04,2024,Passionfruit,Red Passion,Luis,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2024-11-05,2024,Passionfruit,Passion,Vitor,250.0,lb,750.0,3.0,2024
+2026-07-29 10:25:46,2024-11-05,2024,Passionfruit,Red Passion,Vitor,125.0,lb,250.0,2.0,2024
+2026-07-29 10:25:46,2024-11-05,2024,Passionfruit,Red Passion,Vitor,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2024-11-06,2024,Passionfruit,Passion,Cecilio,275.0,lb,893.75,3.25,2024
+2026-07-29 10:25:46,2024-11-06,2024,Passionfruit,Red Passion,Cecilio,75.0,lb,150.0,2.0,2024
+2026-07-29 10:25:46,2024-11-06,2024,Lemons,Lemons,Cecilio,15.0,lb,225.0,15.0,2024
+2026-07-29 10:25:46,2024-11-07,2024,Passionfruit,Red Passion,Luis,75.0,lb,225.0,3.0,2024
+2026-07-29 10:25:46,2024-11-07,2024,Passionfruit,Red Passion,Luis,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2024-11-10,2024,Passionfruit,Red Passion,Cesar,220.0,lb,715.0,3.25,2024
+2026-07-29 10:25:46,2024-11-10,2024,Passionfruit,Red Passion,Cesar,100.0,lb,200.0,2.0,2024
+2026-07-29 10:25:46,2024-11-10,2024,Passionfruit,Red Passion,Cesar,80.0,lb,80.0,1.0,2024
+2026-07-29 10:25:46,2024-11-08,2024,Passionfruit,Red Passion,Vitor,200.0,lb,600.0,3.0,2024
+2026-07-29 10:25:46,2024-11-08,2024,Passionfruit,Red Passion,Vitor,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2024-11-08,2024,Passionfruit,Red Passion,Vitor,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2024-11-11,2024,Passionfruit,Red Passion,Vitor,250.0,lb,750.0,3.0,2024
+2026-07-29 10:25:46,2024-11-11,2024,Passionfruit,Red Passion,Vitor,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2024-11-11,2024,Passionfruit,Red Passion,Vitor,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2024-11-12,2024,Passionfruit,Passion,Cecilio,300.0,lb,975.0,3.25,2024
+2026-07-29 10:25:46,2024-11-12,2024,Lemons,Lemons,Cecilio,5.0,lb,75.0,15.0,2024
+2026-07-29 10:25:46,2024-11-12,2024,Passionfruit,Red Passion,Vitor,200.0,lb,400.0,2.0,2024
+2026-07-29 10:25:46,2024-11-12,2024,Passionfruit,Red Passion,Cesar,100.0,lb,325.0,3.25,2024
+2026-07-29 10:25:46,2024-11-12,2024,Passionfruit,Passion,Cesar,100.0,lb,200.0,2.0,2024
+2026-07-29 10:25:46,2024-11-14,2024,Passionfruit,Red Passion,Cesar,300.0,lb,975.0,3.25,2024
+2026-07-29 10:25:46,2024-11-14,2024,Passionfruit,Red Passion,Cesar,140.0,lb,280.0,2.0,2024
+2026-07-29 10:25:46,2024-11-14,2024,Passionfruit,Red Passion,Cesar,100.0,lb,100.0,1.0,2024
+2026-07-29 10:25:46,2024-11-14,2024,Passionfruit,Red Passion,Cecilio,175.0,lb,568.75,3.25,2024
+2026-07-29 10:25:46,2024-11-14,2024,Passionfruit,Red Passion,Cecilio,25.0,lb,50.0,2.0,2024
+2026-07-29 10:25:46,2024-11-14,2024,Passionfruit,Red Passion,Cecilio,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2024-11-15,2024,Passionfruit,Red Passion,Luis,225.0,lb,675.0,3.0,2024
+2026-07-29 10:25:46,2024-11-16,2024,Passionfruit,Passion,Vitor,150.0,lb,450.0,3.0,2024
+2026-07-29 10:25:46,2024-11-16,2024,Passionfruit,Passion,Vitor,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2024-11-16,2024,Passionfruit,Passion,Vitor,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2024-11-18,2024,Passionfruit,Passion,Cesar,160.0,lb,520.0,3.25,2024
+2026-07-29 10:25:46,2024-11-18,2024,Passionfruit,Passion,Luis,50.0,lb,150.0,3.0,2024
+2026-07-29 10:25:46,2024-11-20,2024,Passionfruit,Red Passion,Vitor,200.0,lb,600.0,3.0,2024
+2026-07-29 10:25:46,2024-11-20,2024,Passionfruit,Passion,Vitor,300.0,lb,600.0,2.0,2024
+2026-07-29 10:25:46,2024-11-20,2024,Passionfruit,Red Passion,Vitor,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2024-11-20,2024,Passionfruit,Passion,Cecilio,350.0,lb,1137.5,3.25,2024
+2026-07-29 10:25:46,2024-11-20,2024,Lemons,Lemons,Cecilio,15.0,lb,225.0,15.0,2024
+2026-07-29 10:25:46,2024-11-20,2024,Passionfruit,Red Passion,Cesar,240.0,lb,780.0,3.25,2024
+2026-07-29 10:25:46,2024-11-20,2024,Passionfruit,Red Passion,Cesar,60.0,lb,120.0,2.0,2024
+2026-07-29 10:25:46,2024-11-20,2024,Passionfruit,Red Passion,Cesar,60.0,lb,60.0,1.0,2024
+2026-07-29 10:25:46,2024-11-22,2024,Passionfruit,Passion,Luis,175.0,lb,525.0,3.0,2024
+2026-07-29 10:25:46,2024-11-22,2024,Passionfruit,Red Passion,Luis,75.0,lb,150.0,2.0,2024
+2026-07-29 10:25:46,2024-11-25,2024,Passionfruit,Red Passion,Vitor,150.0,lb,450.0,3.0,2024
+2026-07-29 10:25:46,2024-11-25,2024,Passionfruit,Red Passion,Vitor,100.0,lb,200.0,2.0,2024
+2026-07-29 10:25:46,2024-11-25,2024,Passionfruit,Red Passion,Vitor,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2024-11-25,2024,Passionfruit,Red Passion,Vitor,50.0,lb,150.0,3.0,2024
+2026-07-29 10:25:46,2024-11-26,2024,Passionfruit,Red Passion,Cesar,220.0,lb,440.0,2.0,2024
+2026-07-29 10:25:46,2024-11-26,2024,Passionfruit,Red Passion,Cesar,80.0,lb,80.0,1.0,2024
+2026-07-29 10:25:46,2024-11-27,2024,Passionfruit,Passion,Vitor,250.0,lb,750.0,3.0,2024
+2026-07-29 10:25:46,2024-11-27,2024,Passionfruit,Red Passion,Vitor,75.0,lb,150.0,2.0,2024
+2026-07-29 10:25:46,2024-11-27,2024,Passionfruit,Red Passion,Vitor,75.0,lb,75.0,1.0,2024
+2026-07-29 10:25:46,2024-11-27,2024,Passionfruit,Passion,Luis,75.0,lb,225.0,3.0,2024
+2026-07-29 10:25:46,2024-11-28,2024,Passionfruit,Red Passion,Cesar,240.0,lb,780.0,3.25,2024
+2026-07-29 10:25:46,2024-11-28,2024,Passionfruit,Red Passion,Cesar,80.0,lb,160.0,2.0,2024
+2026-07-29 10:25:46,2024-11-28,2024,Passionfruit,Red Passion,Cesar,40.0,lb,40.0,1.0,2024
+2026-07-29 10:25:46,2024-11-29,2024,Passionfruit,Passion,Cecilio,300.0,lb,975.0,3.25,2024
+2026-07-29 10:25:46,2024-11-29,2024,Passionfruit,Red Passion,Luis,225.0,lb,675.0,3.0,2024
+2026-07-29 10:25:46,2024-12-02,2024,Passionfruit,Passion,Vitor,250.0,lb,750.0,3.0,2024
+2026-07-29 10:25:46,2024-12-02,2024,Passionfruit,Red Passion,Vitor,75.0,lb,150.0,2.0,2024
+2026-07-29 10:25:46,2024-12-02,2024,Passionfruit,Red Passion,Vitor,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2024-12-02,2024,Passionfruit,Red Passion,Cesar,180.0,lb,585.0,3.25,2024
+2026-07-29 10:25:46,2024-12-02,2024,Passionfruit,Red Passion,Cesar,80.0,lb,160.0,2.0,2024
+2026-07-29 10:25:46,2024-12-02,2024,Passionfruit,Red Passion,Cesar,40.0,lb,40.0,1.0,2024
+2026-07-29 10:25:46,2024-12-03,2024,Passionfruit,Passion,Luis,50.0,lb,150.0,3.0,2024
+2026-07-29 10:25:46,2024-12-04,2024,Passionfruit,Passion,Vitor,325.0,lb,975.0,3.0,2024
+2026-07-29 10:25:46,2024-12-04,2024,Passionfruit,Red Passion,Vitor,75.0,lb,150.0,2.0,2024
+2026-07-29 10:25:46,2024-12-04,2024,Passionfruit,Red Passion,Vitor,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2024-12-05,2024,Passionfruit,Red Passion,Cesar,200.0,lb,650.0,3.25,2024
+2026-07-29 10:25:46,2024-12-05,2024,Passionfruit,Red Passion,Cesar,60.0,lb,120.0,2.0,2024
+2026-07-29 10:25:46,2024-12-05,2024,Passionfruit,Red Passion,Cesar,40.0,lb,40.0,1.0,2024
+2026-07-29 10:25:46,2024-12-05,2024,Passionfruit,Passion,Cecilio,275.0,lb,893.75,3.25,2024
+2026-07-29 10:25:46,2024-12-05,2024,Passionfruit,Passion,Luis,250.0,lb,750.0,3.0,2024
+2026-07-29 10:25:46,2024-12-07,2024,Passionfruit,Passion,Vitor,225.0,lb,675.0,3.0,2024
+2026-07-29 10:25:46,2024-12-07,2024,Passionfruit,Red Passion,Vitor,25.0,lb,50.0,2.0,2024
+2026-07-29 10:25:46,2024-12-07,2024,Passionfruit,Red Passion,Vitor,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2024-12-08,2024,Passionfruit,Passion,Vitor,175.0,lb,525.0,3.0,2024
+2026-07-29 10:25:46,2024-12-09,2024,Passionfruit,Red Passion,Cesar,240.0,lb,780.0,3.25,2024
+2026-07-29 10:25:46,2024-12-09,2024,Passionfruit,Red Passion,Cesar,40.0,lb,80.0,2.0,2024
+2026-07-29 10:25:46,2024-12-09,2024,Passionfruit,Red Passion,Cesar,40.0,lb,40.0,1.0,2024
+2026-07-29 10:25:46,2024-12-10,2024,Passionfruit,Passion,Luis,50.0,lb,150.0,3.0,2024
+2026-07-29 10:25:46,2024-12-11,2024,Passionfruit,Passion,Cesar,320.0,lb,1040.0,3.25,2024
+2026-07-29 10:25:46,2024-12-11,2024,Passionfruit,Passion,Cesar,60.0,lb,120.0,2.0,2024
+2026-07-29 10:25:46,2024-12-11,2024,Passionfruit,Passion,Cesar,20.0,lb,20.0,1.0,2024
+2026-07-29 10:25:46,2024-12-11,2024,Passionfruit,Passion,Vitor,275.0,lb,825.0,3.0,2024
+2026-07-29 10:25:46,2024-12-11,2024,Passionfruit,Red Passion,Vitor,75.0,lb,150.0,2.0,2024
+2026-07-29 10:25:46,2024-12-11,2024,Passionfruit,Red Passion,Vitor,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2024-12-12,2024,Passionfruit,Passion,Cecilio,325.0,lb,1056.25,3.25,2024
+2026-07-29 10:25:46,2024-12-14,2024,Passionfruit,Passion,Vitor,250.0,lb,750.0,3.0,2024
+2026-07-29 10:25:46,2024-12-14,2024,Passionfruit,Red Passion,Vitor,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2024-12-14,2024,Passionfruit,Red Passion,Vitor,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2024-12-16,2024,Passionfruit,Red Passion,Cesar,210.0,lb,682.5,3.25,2024
+2026-07-29 10:25:46,2024-12-16,2024,Passionfruit,Red Passion,Cesar,20.0,lb,40.0,2.0,2024
+2026-07-29 10:25:46,2024-12-16,2024,Passionfruit,Red Passion,Cesar,20.0,lb,20.0,1.0,2024
+2026-07-29 10:25:46,2024-12-17,2024,Passionfruit,Red Passion,Luis,50.0,lb,150.0,3.0,2024
+2026-07-29 10:25:46,2024-12-18,2024,Passionfruit,Passion,Vitor,325.0,lb,975.0,3.0,2024
+2026-07-29 10:25:46,2024-12-18,2024,Passionfruit,Red Passion,Vitor,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2024-12-18,2024,Passionfruit,Red Passion,Vitor,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2024-12-19,2024,Passionfruit,Passion,Cecilio,325.0,lb,1056.25,3.25,2024
+2026-07-29 10:25:46,2024-12-19,2024,Passionfruit,Red Passion,Cecilio,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2024-12-19,2024,Passionfruit,Red Passion,Cesar,260.0,lb,845.0,3.25,2024
+2026-07-29 10:25:46,2024-12-19,2024,Passionfruit,Red Passion,Cesar,100.0,lb,200.0,2.0,2024
+2026-07-29 10:25:46,2024-12-19,2024,Passionfruit,Red Passion,Cesar,100.0,lb,100.0,1.0,2024
+2026-07-29 10:25:46,2024-12-20,2024,Passionfruit,Passion,Luis,175.0,lb,525.0,3.0,2024
+2026-07-29 10:25:46,2024-12-20,2024,Passionfruit,Passion,Vitor,200.0,lb,600.0,3.0,2024
+2026-07-29 10:25:46,2024-12-20,2024,Passionfruit,Red Passion,Vitor,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2024-12-20,2024,Passionfruit,Red Passion,Vitor,100.0,lb,100.0,1.0,2024
+2026-07-29 10:25:46,2024-12-23,2024,Passionfruit,Red Passion,Cesar,180.0,lb,585.0,3.25,2024
+2026-07-29 10:25:46,2024-12-23,2024,Passionfruit,Red Passion,Cesar,20.0,lb,40.0,2.0,2024
+2026-07-29 10:25:46,2024-12-23,2024,Passionfruit,Red Passion,Cesar,40.0,lb,40.0,1.0,2024
+2026-07-29 10:25:46,2024-12-26,2024,Passionfruit,Passion,Cecilio,250.0,lb,812.5,3.25,2024
+2026-07-29 10:25:46,2024-12-26,2024,Passionfruit,Red Passion,Cesar,150.0,lb,487.5,3.25,2024
+2026-07-29 10:25:46,2024-12-26,2024,Passionfruit,Red Passion,Cesar,75.0,lb,75.0,1.0,2024
+2026-07-29 10:25:46,2024-12-27,2024,Passionfruit,Passion,Vitor,300.0,lb,900.0,3.0,2024
+2026-07-29 10:25:46,2024-12-27,2024,Passionfruit,Passion,Vitor,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2024-12-30,2024,Passionfruit,Red Passion,Cesar,200.0,lb,650.0,3.25,2024
+2026-07-29 10:25:46,2025-01-02,2025,Passionfruit,Passion,Cecilio,375.0,lb,1218.75,3.25,2024
+2026-07-29 10:25:46,2025-01-02,2025,Passionfruit,Red Passion,Cesar,150.0,lb,487.5,3.25,2024
+2026-07-29 10:25:46,2025-01-02,2025,Passionfruit,Red Passion,Cesar,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2025-01-02,2025,Passionfruit,Red Passion,Cesar,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2025-01-03,2025,Passionfruit,Red Passion,Vitor,200.0,lb,600.0,3.0,2024
+2026-07-29 10:25:46,2025-01-03,2025,Passionfruit,Red Passion,Vitor,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2025-01-03,2025,Passionfruit,Red Passion,Vitor,100.0,lb,100.0,1.0,2024
+2026-07-29 10:25:46,2025-01-06,2025,Passionfruit,Red Passion,Cesar,150.0,lb,487.5,3.25,2024
+2026-07-29 10:25:46,2025-01-06,2025,Passionfruit,Red Passion,Cesar,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2025-01-06,2025,Passionfruit,Red Passion,Cesar,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2025-01-08,2025,Passionfruit,Red Passion,Cesar,150.0,lb,487.5,3.25,2024
+2026-07-29 10:25:46,2025-01-08,2025,Passionfruit,Red Passion,Cesar,25.0,lb,50.0,2.0,2024
+2026-07-29 10:25:46,2025-01-08,2025,Passionfruit,Red Passion,Cesar,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2025-01-08,2025,Passionfruit,Red Passion,Vitor,150.0,lb,450.0,3.0,2024
+2026-07-29 10:25:46,2025-01-08,2025,Passionfruit,Red Passion,Vitor,25.0,lb,50.0,2.0,2024
+2026-07-29 10:25:46,2025-01-08,2025,Passionfruit,Red Passion,Vitor,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2025-01-09,2025,Passionfruit,Passion,Cecilio,400.0,lb,1300.0,3.25,2024
+2026-07-29 10:25:46,2025-01-09,2025,Passionfruit,Red Passion,Cecilio,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2025-01-10,2025,Passionfruit,Passion,Vitor,250.0,lb,750.0,3.0,2024
+2026-07-29 10:25:46,2025-01-10,2025,Passionfruit,Red Passion,Vitor,100.0,lb,100.0,1.0,2024
+2026-07-29 10:25:46,2025-01-10,2025,Passionfruit,Red Passion,Vitor,75.0,lb,150.0,2.0,2024
+2026-07-29 10:25:46,2025-01-10,2025,Passionfruit,Passion,Luis,125.0,lb,375.0,3.0,2024
+2026-07-29 10:25:46,2025-01-10,2025,Passionfruit,Red Passion,Luis,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2025-01-16,2025,Passionfruit,Passion,Cecilio,500.0,lb,1625.0,3.25,2024
+2026-07-29 10:25:46,2025-01-16,2025,Passionfruit,Red Passion,Cecilio,125.0,lb,250.0,2.0,2024
+2026-07-29 10:25:46,2025-01-16,2025,Passionfruit,Red Passion,Cesar,200.0,lb,650.0,3.25,2024
+2026-07-29 10:25:46,2025-01-16,2025,Passionfruit,Red Passion,Cesar,80.0,lb,160.0,2.0,2024
+2026-07-29 10:25:46,2025-01-16,2025,Passionfruit,Red Passion,Cesar,60.0,lb,60.0,1.0,2024
+2026-07-29 10:25:46,2025-01-16,2025,Passionfruit,Passion,Luis,150.0,lb,450.0,3.0,2024
+2026-07-29 10:25:46,2025-01-16,2025,Passionfruit,Red Passion,Luis,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2025-01-16,2025,Passionfruit,Red Passion,Vitor,225.0,lb,675.0,3.0,2024
+2026-07-29 10:25:46,2025-01-16,2025,Passionfruit,Red Passion,Vitor,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2025-01-16,2025,Passionfruit,Red Passion,Vitor,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2025-01-23,2025,Passionfruit,Passion,Cecilio,600.0,lb,1950.0,3.25,2024
+2026-07-29 10:25:46,2025-01-23,2025,Passionfruit,Red Passion,Cesar,200.0,lb,650.0,3.25,2024
+2026-07-29 10:25:46,2025-01-23,2025,Passionfruit,Red Passion,Cesar,60.0,lb,120.0,2.0,2024
+2026-07-29 10:25:46,2025-01-23,2025,Passionfruit,Red Passion,Cesar,100.0,lb,100.0,1.0,2024
+2026-07-29 10:25:46,2025-01-23,2025,Passionfruit,Passion,Vitor,350.0,lb,1050.0,3.0,2024
+2026-07-29 10:25:46,2025-01-23,2025,Passionfruit,Red Passion,Vitor,25.0,lb,50.0,2.0,2024
+2026-07-29 10:25:46,2025-01-23,2025,Passionfruit,Red Passion,Vitor,100.0,lb,100.0,1.0,2024
+2026-07-29 10:25:46,2025-01-23,2025,Passionfruit,Passion,Luis,200.0,lb,650.0,3.25,2024
+2026-07-29 10:25:46,2025-01-24,2025,Passionfruit,Yellow Passion,Vitor,100.0,lb,300.0,3.0,2024
+2026-07-29 10:25:46,2025-01-29,2025,Passionfruit,Red Passion,Vitor,275.0,lb,825.0,3.0,2024
+2026-07-29 10:25:46,2025-01-29,2025,Passionfruit,Red Passion,Vitor,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2025-01-29,2025,Passionfruit,Red Passion,Vitor,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2025-01-30,2025,Passionfruit,Red Passion,Cecilio,250.0,lb,812.5,3.25,2024
+2026-07-29 10:25:46,2025-01-30,2025,Passionfruit,Red Passion,Cecilio,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2025-01-30,2025,Passionfruit,Red Passion,Cesar,125.0,lb,406.25,3.25,2024
+2026-07-29 10:25:46,2025-01-30,2025,Passionfruit,Red Passion,Cesar,50.0,lb,100.0,2.0,2024
+2026-07-29 10:25:46,2025-01-30,2025,Passionfruit,Red Passion,Cesar,25.0,lb,25.0,1.0,2024
+2026-07-29 10:25:46,2025-01-31,2025,Passionfruit,Passion,Luis,100.0,lb,325.0,3.25,2024
+2026-07-29 10:25:46,2025-01-31,2025,Passionfruit,Red Passion,Luis,50.0,lb,50.0,1.0,2024
+2026-07-29 10:25:46,2025-02-03,2025,Passionfruit,Red Passion,Luis,75.0,lb,150.0,2.0,2024
+2026-07-29 10:25:46,2025-02-06,2025,Passionfruit,Red Passion,Cesar,225.0,lb,731.25,3.25,2024
+2026-07-29 10:25:46,2025-02-06,2025,Passionfruit,Red Passion,Cesar,75.0,lb,75.0,1.0,2024
+2026-07-29 10:25:46,2025-02-06,2025,Passionfruit,Red Passion,Luis,150.0,lb,450.0,3.0,2024
+2026-07-29 10:25:46,2025-02-06,2025,Passionfruit,Red Passion,Luis,75.0,lb,75.0,1.0,2024
+2026-07-29 10:25:46,2025-02-06,2025,Passionfruit,Red Passion,Cecilio,450.0,lb,1462.5,3.25,2024
+2026-07-29 10:25:46,2025-02-12,2025,Passionfruit,Red Passion,Vitor,50.0,lb,150.0,3.0,2025
+2026-07-29 10:25:46,2025-02-12,2025,Passionfruit,Red Passion,Vitor,75.0,lb,75.0,1.0,2025
+2026-07-29 10:25:46,2025-02-13,2025,Passionfruit,Red Passion,Luis,100.0,lb,325.0,3.25,2025
+2026-07-29 10:25:46,2025-02-13,2025,Passionfruit,Red Passion,Cecilio,250.0,lb,812.5,3.25,2025
+2026-07-29 10:25:46,2025-02-13,2025,Passionfruit,Mix Passion,Cecilio,25.0,lb,50.0,2.0,2025
+2026-07-29 10:25:46,2025-02-13,2025,Passionfruit,Mix Passion,Cecilio,50.0,lb,50.0,1.0,2025
+2026-07-29 10:25:46,2025-02-20,2025,Passionfruit,Mix Passion,Luis,175.0,lb,525.0,3.0,2025
+2026-07-29 10:25:46,2025-02-20,2025,Passionfruit,Mix Passion,Cecilio,425.0,lb,1275.0,3.0,2025
+2026-07-29 10:25:46,2025-02-27,2025,Passionfruit,Red Passion,Cecilio,325.0,lb,975.0,3.0,2025
+2026-07-29 10:25:46,2025-02-27,2025,Passionfruit,Red Passion,Luis,200.0,lb,600.0,3.0,2025
+2026-07-29 10:25:46,2025-03-06,2025,Passionfruit,Mix Passion,Cecilio,100.0,lb,300.0,3.0,2025
+2026-07-29 10:25:46,2025-03-06,2025,Lemons,Lemons,Cecilio,10.0,lb,150.0,15.0,2025
+2026-07-29 10:25:46,2025-03-06,2025,Passionfruit,Mix Passion,Luis,75.0,lb,225.0,3.0,2025
+2026-07-29 10:25:46,2025-07-31,2025,Lemons,Lemons,Unknown,10.0,lb,150.0,15.0,2025
+2026-07-29 10:25:46,2025-07-31,2025,Chiles,Chiles,Unknown,54.0,lb,135.0,2.5,2025
+2026-07-29 10:25:46,2025-08-06,2025,Chiles,Chiles,Unknown,25.0,lb,62.5,2.5,2025
+2026-07-29 10:25:46,2025-08-06,2025,Lemons,Lemons,Unknown,10.0,lb,150.0,15.0,2025
+2026-07-29 10:25:46,2025-08-11,2025,Lemons,Lemons,Unknown,15.0,lb,225.0,15.0,2025
+2026-07-29 10:25:46,2025-08-11,2025,Chiles,Chiles,Unknown,25.0,lb,56.25,2.25,2025
+2026-07-29 10:25:46,2025-08-21,2025,Lemons,Lemons,Unknown,20.0,lb,300.0,15.0,2025
+2026-07-29 10:25:46,2025-08-22,2025,Passionfruit,Yellow Passion,Vitor,165.0,lb,536.25,3.25,2025
+2026-07-29 10:25:46,2025-08-25,2025,Passionfruit,Yellow Passion,Vitor,100.0,lb,300.0,3.0,2025
+2026-07-29 10:25:46,2025-08-25,2025,Passionfruit,Red Passion,Vitor,120.0,lb,390.0,3.25,2025
+2026-07-29 10:25:46,2025-08-25,2025,Passionfruit,Red Passion,Cesar,175.0,lb,568.75,3.25,2025
+2026-07-29 10:25:46,2025-08-25,2025,Passionfruit,Red Passion,Cesar,50.0,lb,75.0,1.5,2025
+2026-07-29 10:25:46,2025-08-28,2025,Passionfruit,Red Passion,Cecilio,150.0,lb,487.5,3.25,2025
+2026-07-29 10:25:46,2025-08-28,2025,Lemons,Lemons,Cecilio,20.0,lb,300.0,15.0,2025
+2026-07-29 10:25:46,2025-08-29,2025,Passionfruit,Red Passion,Vitor,195.0,lb,633.75,3.25,2025
+2026-07-29 10:25:46,2025-08-29,2025,Passionfruit,Red Passion,Vitor,50.0,lb,137.5,2.75,2025
+2026-07-29 10:25:46,2025-08-29,2025,Passionfruit,Red Passion,Vitor,75.0,lb,93.75,1.25,2025
+2026-07-29 10:25:46,2025-08-30,2025,Passionfruit,Red Passion,Cecilio,68.0,lb,238.0,3.5,2025
+2026-07-29 10:25:46,2025-08-30,2025,Passionfruit,Yellow Passion,Cecilio,125.0,lb,375.0,3.0,2025
+2026-07-29 10:25:46,2025-08-30,2025,Passionfruit,Red Passion,Cecilio,46.0,lb,103.5,2.25,2025
+2026-07-29 10:25:46,2025-08-30,2025,Passionfruit,Red Passion,Cecilio,50.0,lb,62.5,1.25,2025
+2026-07-29 10:25:46,2025-08-30,2025,Passionfruit,Yellow Passion,Cecilio,25.0,lb,50.0,2.0,2025
+2026-07-29 10:25:46,2025-09-02,2025,Passionfruit,Red Passion,Vitor,150.0,lb,487.5,3.25,2025
+2026-07-29 10:25:46,2025-09-02,2025,Passionfruit,Red Passion,Vitor,125.0,lb,281.25,2.25,2025
+2026-07-29 10:25:46,2025-09-02,2025,Passionfruit,Red Passion,Vitor,50.0,lb,62.5,1.25,2025
+2026-07-29 10:25:46,2025-09-11,2025,Passionfruit,Red Passion,Cecilio,100.0,lb,325.0,3.25,2025
+2026-07-29 10:25:46,2025-09-11,2025,Passionfruit,Red Passion,Cecilio,50.0,lb,112.5,2.25,2025
+2026-07-29 10:25:46,2025-09-11,2025,Passionfruit,Red Passion,Cecilio,25.0,lb,31.25,1.25,2025
+2026-07-29 10:25:46,2025-09-11,2025,Lemons,Lemons,Cecilio,20.0,lb,300.0,15.0,2025
+2026-07-29 10:25:46,2025-09-04,2025,Passionfruit,Red Passion,Cesar,100.0,lb,325.0,3.25,2025
+2026-07-29 10:25:46,2025-09-04,2025,Passionfruit,Red Passion,Cesar,25.0,lb,56.25,2.25,2025
+2026-07-29 10:25:46,2025-09-04,2025,Passionfruit,Red Passion,Cesar,50.0,lb,62.5,1.25,2025
+2026-07-29 10:25:46,2025-09-05,2025,Passionfruit,Red Passion,Unknown,125.0,lb,437.5,3.5,2025
+2026-07-29 10:25:46,2025-09-05,2025,Passionfruit,Red Passion,Unknown,75.0,lb,168.75,2.25,2025
+2026-07-29 10:25:46,2025-09-05,2025,Passionfruit,Red Passion,Unknown,75.0,lb,93.75,1.25,2025
+2026-07-29 10:25:46,2025-09-05,2025,Passionfruit,Red Passion,Vitor,125.0,lb,375.0,3.0,2025
+2026-07-29 10:25:46,2025-09-05,2025,Passionfruit,Red Passion,Vitor,150.0,lb,487.5,3.25,2025
+2026-07-29 10:25:46,2025-09-05,2025,Passionfruit,Red Passion,Vitor,100.0,lb,225.0,2.25,2025
+2026-07-29 10:25:46,2025-09-08,2025,Passionfruit,Red Passion,Unknown,250.0,lb,812.5,3.25,2025
+2026-07-29 10:25:46,2025-09-08,2025,Passionfruit,Red Passion,Unknown,150.0,lb,337.5,2.25,2025
+2026-07-29 10:25:46,2025-09-08,2025,Passionfruit,Red Passion,Unknown,100.0,lb,125.0,1.25,2025
+2026-07-29 10:25:46,2025-09-10,2025,Passionfruit,Yellow Passion,Vitor,225.0,lb,675.0,3.0,2025
+2026-07-29 10:25:46,2025-09-10,2025,Passionfruit,Red Passion,Vitor,200.0,lb,650.0,3.25,2025
+2026-07-29 10:25:46,2025-09-10,2025,Passionfruit,Red Passion,Vitor,75.0,lb,168.75,2.25,2025
+2026-07-29 10:25:46,2025-09-10,2025,Passionfruit,Red Passion,Vitor,75.0,lb,93.75,1.25,2025
+2026-07-29 10:25:46,2025-09-11,2025,Passionfruit,Red Passion,Cecilio,125.0,lb,437.5,3.5,2025
+2026-07-29 10:25:46,2025-09-11,2025,Passionfruit,Yellow Passion,Cecilio,150.0,lb,450.0,3.0,2025
+2026-07-29 10:25:46,2025-09-11,2025,Chiles,Chiles,Cecilio,37.0,lb,92.5,2.5,2025
+2026-07-29 10:25:46,2025-09-11,2025,Lemons,Lemons,Cecilio,20.0,lb,300.0,15.0,2025
+2026-07-29 10:25:46,2025-09-11,2025,Passionfruit,Red Passion,Unknown,260.0,lb,845.0,3.25,2025
+2026-07-29 10:25:46,2025-09-11,2025,Passionfruit,Red Passion,Unknown,50.0,lb,112.5,2.25,2025
+2026-07-29 10:25:46,2025-09-11,2025,Passionfruit,Red Passion,Unknown,50.0,lb,62.5,1.25,2025
+2026-07-29 10:25:46,2025-09-12,2025,Passionfruit,Red Passion,Vitor,225.0,lb,731.25,3.25,2025
+2026-07-29 10:25:46,2025-09-12,2025,Passionfruit,Red Passion,Vitor,100.0,lb,125.0,1.25,2025
+2026-07-29 10:25:46,2025-09-19,2025,Passionfruit,Red Passion,Vitor,400.0,lb,800.0,2.0,2025
+2026-07-29 10:25:46,2025-09-19,2025,Passionfruit,Red Passion,Unknown,250.0,lb,750.0,3.0,2025
+2026-07-29 10:25:46,2025-09-19,2025,Passionfruit,Yellow Passion,Unknown,125.0,lb,375.0,3.0,2025
+2026-07-29 10:25:46,2025-09-19,2025,Chiles,Chiles,Unknown,83.0,lb,207.5,2.5,2025
+2026-07-29 10:25:46,2025-09-19,2025,Lemons,Lemons,Unknown,15.0,lb,225.0,15.0,2025
+2026-07-29 10:25:46,2025-09-19,2025,Passionfruit,Mix Passion,Vitor,900.0,lb,2025.0,2.25,2025
+2026-07-29 10:25:46,2025-09-26,2025,Passionfruit,Red Passion,Vitor,625.0,lb,1406.25,2.25,2025
+2026-07-29 10:25:46,2025-09-24,2025,Passionfruit,Red Passion,Jose,600.0,lb,600.0,1.0,2025
+2026-07-29 10:25:46,2025-10-01,2025,Passionfruit,Red Passion,Vitor,200.0,lb,450.0,2.25,2025
+2026-07-29 10:25:46,2025-10-01,2025,Passionfruit,Red Passion,Vitor,50.0,lb,50.0,1.0,2025
+2026-07-29 10:25:46,2025-10-01,2025,Passionfruit,Yellow Passion,Salvador,40.0,lb,100.0,2.5,2025
+2026-07-29 10:25:46,2025-10-01,2025,Passionfruit,Red Passion,Salvador,100.0,lb,300.0,3.0,2025
+2026-07-29 10:25:46,2025-10-01,2025,Passionfruit,Yellow Passion,Salvador,50.0,lb,125.0,2.5,2025
+2026-07-29 10:25:46,2025-10-01,2025,Passionfruit,Red Passion,Salvador,15.0,lb,15.0,1.0,2025
+2026-07-29 10:25:46,2025-10-01,2025,Passionfruit,Red Passion,Vitor,200.0,lb,450.0,2.25,2025
+2026-07-29 10:25:46,2025-10-01,2025,Passionfruit,Yellow Passion,Vitor,200.0,lb,400.0,2.0,2025
+2026-07-29 10:25:46,2025-10-01,2025,Passionfruit,Red Passion,Vitor,100.0,lb,100.0,1.0,2025
+2026-07-29 10:25:46,2025-10-02,2025,Passionfruit,Red Passion,Cecilio,200.0,lb,600.0,3.0,2025
+2026-07-29 10:25:46,2025-10-02,2025,Passionfruit,Yellow Passion,Cecilio,100.0,lb,300.0,3.0,2025
+2026-07-29 10:25:46,2025-10-02,2025,Lemons,Lemons,Cecilio,20.0,lb,300.0,15.0,2025
+2026-07-29 10:25:46,2025-10-02,2025,Passionfruit,Yellow Passion,Jose,250.0,lb,500.0,2.0,2025
+2026-07-29 10:25:46,2025-10-02,2025,Chiles,Chiles,Jose,100.0,lb,200.0,2.0,2025
+2026-07-29 10:25:46,2025-10-07,2025,Passionfruit,Yellow Passion,Vitor,300.0,lb,600.0,2.0,2025
+2026-07-29 10:25:46,2025-10-07,2025,Passionfruit,Red Passion,Aran Darling,175.0,lb,350.0,2.0,2025
+2026-07-29 10:25:46,2025-10-08,2025,Passionfruit,Red Passion,Salvador,25.0,lb,62.5,2.5,2025
+2026-07-29 10:25:46,2025-10-08,2025,Passionfruit,Red Passion,Salvador,25.0,lb,37.5,1.5,2025
+2026-07-29 10:25:46,2025-10-08,2025,Passionfruit,Red Passion,Unknown,1025.0,lb,2203.75,2.15,2025
+2026-07-29 10:25:46,2025-10-08,2025,Passionfruit,Red Passion,Unknown,25.0,lb,31.25,1.25,2025
+2026-07-29 10:25:46,2025-10-08,2025,Passionfruit,Red Passion,Unknown,25.0,lb,37.5,1.5,2025
+2026-07-29 10:25:46,2025-10-09,2025,Passionfruit,Yellow Passion,Cecilio,250.0,lb,687.5,2.75,2025
+2026-07-29 10:25:46,2026-02-12,2026,Passionfruit,Red Passion,Cecilio,450.0,lb,1575.0,3.5,2025
+2026-07-29 10:25:46,2026-02-12,2026,Chiles,Chiles,Cecilio,60.0,lb,150.0,2.5,2025
+2026-07-29 10:25:46,2026-02-12,2026,Chiles,Chiles,Cecilio,8.0,lb,120.0,15.0,2025
+2026-07-29 10:25:46,2026-02-18,2026,Passionfruit,Red Passion,Cecilio,250.0,lb,812.5,3.25,2025
+2026-07-29 10:25:46,2026-02-26,2026,Passionfruit,Mix Passion,Cecilio,200.0,lb,650.0,3.25,2025
+2026-07-29 10:25:46,2026-02-26,2026,Passionfruit,Mix Passion,Cecilio,12.0,lb,180.0,15.0,2025

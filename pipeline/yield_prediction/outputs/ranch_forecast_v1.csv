@@ -1,0 +1,2 @@
+crop_year_label,ranch_name,weather_lat,weather_lon,pred_lbs_per_ac_ca_model,ranch_acres,pred_ranch_lbs_raw,bias_correction,bias_factor,pred_ranch_lbs_corrected,dominant_soil,slope_pct_mid,notes,ranch_actual_lbs,error_lbs,error_pct
+CY2025,370 Ortega Ridge,34.4215,-119.5965,7516.466670390686,43.2,324711.36016087764,mean_ratio,1.4743925814995749,478752.0205498346,Todos_TbE2,22.5,CY2025 harvest shorter than usual on ranch; lbs/bin from Index Fresh field bins,185961.1,-292790.9205498346,-1.5744740192966948

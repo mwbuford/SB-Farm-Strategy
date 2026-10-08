@@ -1,0 +1,2 @@
+site,lat,lon,elev_ft_est,slope_pct_mid,dominant_soil_series,pct_todos_clay_loam,pct_diablo_clay,runoff_class,erosion_hazard,rooting_depth_in_min,permeability_class,source
+370_ortega_ridge,34.4215,-119.5965,400,22.5,Todos_TbE2,31,55,medium,moderate,40,low_moderate,L1_L2_7th_gen_design

@@ -1,0 +1,81 @@
+tab,column,description
+harvest_log,submitted_at,Auto from Google Form
+harvest_log,date,Date of harvest
+harvest_log,block_parcel,Block ID — must match blocks tab and receipt format
+harvest_log,bins,Number of bins (decimal OK for partial)
+harvest_log,bin_type,Full bin or Partial bin
+harvest_log,crew_size,Number of pickers
+harvest_log,notes,Optional field notes
+harvest_log,submitter_email,Auto from Google Form
+
+labor_log,submitted_at,Auto from Google Form
+labor_log,date,Work date
+labor_log,worker,Form dropdown (crew names)
+labor_log,activity,Form dropdown (activity type)
+labor_log,block_area,Form dropdown (from blocks tab) or Other
+labor_log,hours,Decimal hours
+labor_log,hourly_rate,For pay estimate
+labor_log,notes,Optional
+labor_log,submitter_email,Auto from Google Form
+
+passionfruit_sales,submitted_at,Auto from Google Form
+passionfruit_sales,date,Sale date
+passionfruit_sales,channel,Form dropdown (sales outlet)
+passionfruit_sales,quantity,Amount sold
+passionfruit_sales,unit,Form dropdown (lbs / flats / cases / each)
+passionfruit_sales,revenue,Total dollars
+passionfruit_sales,notes,Optional
+passionfruit_sales,submitter_email,Auto from Google Form
+
+exotics_sales_summary,year,Calendar year
+exotics_sales_summary,product,Passionfruit / Chiles / Lemons / etc. (no Avocados)
+exotics_sales_summary,total_lbs,Total pounds sold that year
+exotics_sales_summary,total_revenue,Total dollars
+exotics_sales_summary,avg_price_per_lb,total_revenue ÷ total_lbs (formula in E2)
+
+field_notes,submitted_at,Auto from Google Form
+field_notes,date,Note date
+field_notes,block_area,Form dropdown (from blocks tab)
+field_notes,category,Irrigation / Pest / Equipment / Tree health / Other
+field_notes,note,Description
+field_notes,photo_url,Auto from file upload
+field_notes,submitter_email,Auto from Google Form
+
+owner_notes,logged_at,When note was saved from the web form
+owner_notes,note_date,Meeting / note date
+owner_notes,title,Short title for the conversation
+owner_notes,with_whom,Consultant / agronomist / advisor name
+owner_notes,category,Consulting / Agronomy / Advisor / Operations / Other
+owner_notes,note_body,Raw typed notes
+owner_notes,summary,Auto extractive summary for browse/search
+owner_notes,photo_file_id,Drive file ID of paper-note photo
+owner_notes,photo_url,Link to photo
+owner_notes,ocr_text,Text extracted from photo via Drive OCR
+owner_notes,doc_file_id,Owner Notes Google Doc ID
+owner_notes,doc_url,Link to chronological Google Doc
+owner_notes,bookmark_id,Bookmark ID for this note in the Doc
+owner_notes,bookmark_url,Deep link to this note in the Doc
+owner_notes,author,Usually Sarah
+
+bin_receipts,logged_at,When photo was processed
+bin_receipts,date_picked_up,From receipt — Date Picked Up
+bin_receipts,block_parcel,From receipt — Blk/Parcel #
+bin_receipts,variety,From receipt — Hass etc.
+bin_receipts,full_bins,From receipt — Amount of Bins
+bin_receipts,partial_bins,From receipt if filled
+bin_receipts,grower_name,From receipt
+bin_receipts,receipt_number,Printed red receipt #
+bin_receipts,pickup_time,If filled on receipt
+bin_receipts,remarks,Reg. Pick etc.
+bin_receipts,image_file_id,Drive file ID
+bin_receipts,image_url,Link to photo
+bin_receipts,extraction_confidence,high / medium / low
+bin_receipts,raw_json,Full Gemini response for debugging
+
+bin_numbers,logged_at,When photo was processed
+bin_numbers,date_picked_up,Same as receipt
+bin_numbers,block_parcel,Same as receipt
+bin_numbers,variety,Same as receipt
+bin_numbers,bin_number,One row per bin in BIN # grid
+bin_numbers,receipt_number,Links to bin_receipts
+bin_numbers,image_file_id,Same photo
